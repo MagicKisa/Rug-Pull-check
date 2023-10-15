@@ -3,7 +3,7 @@ from telegram import Bot
 
 async def check_chat_existence():
     # Вставьте ваш токен бота здесь
-    bot_token = '6466406464:AAGnHNnHM3v4bVm0NbpLWnOV--Ie53NseOk'
+    bot_token = 'mybottoken'
     
     # Создайте объект бота
     bot = Bot(token=bot_token)
