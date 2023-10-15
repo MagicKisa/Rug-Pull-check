@@ -54,6 +54,8 @@ https://api.bscscan.com/api?module=contract&action=getsourcecode&address=0xa2968
 ***Telegram*** 
 
 предоставляет API через бота. С помощью скрипта tg.py (В приложении) можно узнать существует ли канал, более подробную информацию получить без согласия администратора нельзя. На скриншоте результат выполнения скрипта.
- 
+
+ ![image](https://github.com/MagicKisa/Rug-Pull-check/assets/105859497/f97291dd-ead4-4497-a7f2-df2c3da1c8fb)
+
 
 
