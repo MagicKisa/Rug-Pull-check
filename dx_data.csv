@@ -1,0 +1,993 @@
+id;createdAt;updatedAt;logoUrl;bannerUrl;telegramUrl;twitterUrl;discordUrl;websiteUrl;githubUrl;youtubeUrl;redditUrl;descriptionText;saleID;saleIDOwner;chainID;ownerOfSale;presaleAddress;tokenOfSale;liquidityUnlockTimestamp;creationTimestamp;isAudited;isKYC;tokenOfSaleName;tokenOfSaleSymbol;saleSoftCap;saleHardCap;saleMinContribution;saleMaxContribution;saleStartTime;saleEndTime;saleWeiRaised;salePresaleRate;saleLiquidityRate;saleLiquidityPercent;isFinalized;isSuccessful;isVested;isRefundsEnabled;type
+b4654560-44b5-4a12-b114-e1d40ad1b723;2023-10-13T18:09:01.377Z;2023-10-13T18:09:01.377Z;https://i.ibb.co/9HVWfVm/MEOW-LOGO-PURPLE-01.png;https://i.ibb.co/WtHRCcp/compressed-mew.gif;https://t.me/tgmoondogs;https://twitter.com/wooflabs;https://discord.gg/2vNv2N3xMT;woofswap.co;;;;"MEOW Token is an ERC-20 governance and utility token used within the WOOF Labs ecosystem to empower a decentralized community building at the forefront of web3.
+
+$MEOW will work along with $WOOF token to further expand the ever expanding WOOF Labs Ecosystem!
+
+$MEOW is a bombshell Token!💣
+Perfected in every way
+with love by @WOOFlabs";251;1;1116;0x95f1d8259F6A858f314be1fb84Ad88ec44180AEe;0xdF991276B5B514B309210e0a041fef0DFC7a64F9;0xf30e9F7D576eCD98533Dd0fC786FBc87715d13F8;1702060200;1697220459;False;False;MEOW;MEOW;10000.0;20000.0;0.001;20.0;1697810400;1697999340;19999.99990000000000002;121.0;121.0;61;True;True;False;True;IDO
+eb16a6ae-b221-44d0-b7fe-f6422173c022;2023-10-09T17:30:02.010Z;2023-10-09T17:30:02.010Z;https://photos.pinksale.finance/file/pinksale-logo-upload/1695736955312-c5af36fea6fd54205b40edba2ec091c8.png;;https://t.me/officialFalconX;https://x.com/falconxspace;;https://falcon-x.io/;;;;"The crypto industry is still in its infancy but holds
+significant potential in reshaping the way financial transactions
+are executed
+and redefined worldwide.
+
+1,000,000,000,000,000 FLX
+ BSC: 500,000,000,000,000
+50% locked 🔏 for 100 years
+ETH: 500,000,000,000,000 We are only here for community FalconX 
+50% added  to Liquidity Pool. Locked 🔏forever 
+50% added toStaking 
+0% Team Tokens 
+0% Private Sale
+Join the power of FALCONX (FLX) and utility , to take you to the moon and beyond
+We're thrilled to have you here as part of the Bullish revolution! Get ready for an exciting journey filled epic gains. 🌕";447;2;56;0x39F2Eb7502232Eb3048B35CFb845C66a9ac95064;0x1a6C50b3924a217ac5a060EbFF29d4E2cc23740a;0xc9eA43E7ef02ad62776372b3ff1a200330A1EA53;4102484400;1696872421;False;True;FalconX;FLX;1.0;120000000000000.0;0.01;1.5;1696888800;1697061600;1.86;64516129032258.064516129032258064;120000000000000.0;100;True;True;False;True;FAIRLAUNCH
+df8fa9ed-4d78-4afc-944e-e239c71838f4;2023-09-29T04:12:07.988Z;2023-09-29T04:12:07.988Z;;;;;;;;;;"<p>Private Test</p>
+";250;2;1116;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0xD7276503B8ddEc93d893FAA53bd35548aFBEE534;0x6A32B66305C00a89034F858D5a191f5ca3B932c4;0;1695960691;False;False;MarkPrivateTest;MPT;0.5;25.0;1.0;25.0;1695960899;1695961499;25.0;1000.0;0.0;0;True;True;False;True;private
+5d65c7b8-9d7f-4bc7-a229-0870531f58d1;2023-09-28T04:06:03.698Z;2023-09-28T04:06:03.698Z;https://i.postimg.cc/y6fzKk2T/wooflogo.png;https://i.postimg.cc/cJYs40fL/Screenshot-2023-09-27-104528.png;;;;;;;;WoofSwap Test;249;1;1116;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0xE42322f641f8DA6124361623A6fd9f9066eADE20;0x344Af4FEa9953717199b2d03068355aE1d75BB90;1701406860;1695873825;False;False;WoofSwap Test;WOOFS;1.0;350.0;1.0;5.0;1695874126;1695874786;5.0;70.0;220.0;100;True;True;False;True;FAIRLAUNCH
+807d47ce-4d90-4d79-a6fa-83b18f6aa325;2023-09-28T06:45:24.687Z;2023-09-28T06:45:24.687Z;https://gcdnb.pbrd.co/images/X9mjITricYxQ.png;https://i.ibb.co/gznJvXn/Welcome.png;;https://twitter.com/PyroPerks;discord.gg/sYv5dKCnDX;https://pyroperks.io;;;;"Welcome To the PyroPerks Launchpad offering!
+Receive 7 $PYRO Tokens Per 1 $MATIC
+40% Of Raised Funds Will Be Used For Site/Game Development
+60% To Be Added to liquidity
+";33;1;137;0xc5e75d20256ABb8d0d6C9c2C183B330bb6003a11;0xDa170d539A5E56A59E51969F6F0141ba22e561c1;0xE400C9D83Ba049984AA61F25C8415a890f2b6435;0;1695865791;False;False;Pyro Perks;PYRO;35.0;70.0;1.0;7.5;1695866385;1696176000;70.0;0.000000000007;0.0;0;True;True;False;True;private
+fa43fb3e-8b71-45b0-baa4-366fc225859b;2023-09-27T06:45:23.798Z;2023-09-27T06:45:23.798Z;https://i.ibb.co/hHc0Kn3/sbr.png;https://i.ibb.co/hZwqZtj/servicebridge-1024x186.png;https://t.me/serbridge;https://twitter.com/SerBridge;;http://www.serbridge.com/token;;https://www.youtube.com/watch?v=HBPH2E5VHZ8;;"
+SerBridge is a full-service cryptocurrency and blockchain software development and website creation company. We provide innovative solutions for smart contracts, cryptocurrency transactions, web-based wallet solutions, NFT solutions, business tokenization and digital asset ledgers. 
+
+Our team is made up of experienced software engineers, who have years of professional experience in the blockchain technology industry. We also specialize in creating customized websites tailored to your exact needs so you can expand your crypto brand to the world. 
+
+A portion of the services revenue will be used to buy on the chart, thus moving the price up and then we will burn those tokens making more rare. As we onboard more clients of the services from SerBridge. The Token benefits as do the holders. 
+
+Team to have some token for expenses. We will total up the amount of tokens the holder wallets are holding at the 48 Hour mark from live release. We will make a calculate 2.5% of those tokens, excluding the deployer wallet and the liquidity pair. We understand this is not typical. However, we are doing this for the long term. We believe in the community. For example if holders are holding 250,000,000 tokens at 48 Hour mark the 2.5% would only be 6,250,000 tokens from deployer. We give this example to show it will be a very small amount of tokens for team controlled. We will then Lock the remaining supply. We have no initial team token allocation. So, this was decided because we feel the more confidence in holders holding the tokens will establish the team with a small amount of tokens for expenses. We have no plans to sell them in the immediate time. We would only sell them in small increments as needed.
+
+Always remember. Do your own research. ";5;0;1;0x9D96fE1CAE19F1ED3e02ab30f9a45d1cf670C4d4;0x4674658BFC8dE39C253a7AAA9d057C4C4758b1a8;0xDFd540B8A14FaB2cf02a67fAcdc61B6eE5Fee577;1698948000;1695792947;False;False;SerBridge;SBDG;1.5;3.0;0.1;0.2;1696093200;1696266000;3.0;46845000.0;46845000.0;90;True;True;False;True;IDO
+7bd29133-3682-4a9d-aba7-c1b10a100917;2023-09-13T11:54:02.725Z;2023-09-13T11:54:02.725Z;https://pbs.twimg.com/profile_images/1701648714723442688/IVTclRDx.jpg;https://pbs.twimg.com/profile_images/1701648714723442688/IVTclRDx.jpg;https://t.me/sharpeicommunity;https://x.com/Sharpeinutoken?t=dZmPpEJswgkSa4gkuCEErg&s=09;;https://sharpeinutoken.com/;;;;"Shar Pei inu Token
+
+🐶 **Where Canine Cuteness Meets Crypto Brilliance** 🪙
+
+**Mission:** Shar Pei Token is more than just a cryptocurrency; it's a celebration of the adorable Shar Pei breed and the innovative world of digital assets. We're on a mission to create a unique and heartwarming crypto experience.
+
+**What We Offer:**
+- 🚀 **Secure Transactions:** Your gateway to secure and efficient crypto transactions.
+- 🎨 **Exclusive Dog-Themed NFTs:** Explore, collect, and trade unique dog-themed digital collectibles.
+- 💙 **Supporting Pet Welfare:** A portion of our proceeds goes to animal welfare initiatives and shelters.
+
+Join us as we make crypto transactions as heartwarming as a Shar Pei's smile! 🌟
+Liquidity lock 1Year
+Supply 69,000,000,000 
+2% rewards to all holders
+";317;0;56;0xa1E2E35b6cc2Bb1DE0E8220639223daE58B2Bd2E;0x868b2f1A11BcC45c1B081244E3C7fAE79CD01920;0x9828006f7705AAEf602C0B8241cB0C71D1B56901;1726227575;1694606001;False;False;Sharpei Inu Token;SIT;5.0;1518.0;0.1;20.0;1694606400;1694948400;8.24;184.223300970873786407;3588.0;70;True;True;False;True;FAIRLAUNCH
+672aa68b-a325-4aac-90c3-782cf836e997;2023-09-12T12:27:05.963Z;2023-09-12T12:27:05.963Z;;;;;;;;;;;311;11;56;0x47BAcf935066b802EAA0067eC14AB035B24eB78b;0xF9968F476837CC31C610164819699d3eb6ea31e9;0xC9694cB2CE879C06220774d7E1a6e9bb83a8839c;1698754980;1694521487;False;True;Test Fee Token 4;TFT4;0.4;0.0051;0.1;1.0;1694522115;1694523015;0.4;0.01275;0.0034;70;True;True;False;True;FAIRLAUNCH
+054e5ce5-7ec2-407a-82f4-4e7d82701d27;2023-09-12T04:15:03.328Z;2023-09-12T04:15:03.328Z;;;;;;;;;;;309;10;56;0x47BAcf935066b802EAA0067eC14AB035B24eB78b;0xdf0AC04b4871903736979fa8b91DbF83dE691D76;0x115CBB923dA09dbcc4280964CE04CdC34c3B89D5;1698725400;1694491929;False;True;Test Fee Token 3;TFT3;1.0;0.000005;0.1;2.0;1694492728;1694493628;1.0;0.000005;0.0000036;70;True;True;False;True;FAIRLAUNCH
+dee75173-763a-4e80-9074-951f1855e042;2023-09-11T16:24:03.703Z;2023-09-11T16:24:03.703Z;;;;;;;;;;;308;9;56;0x47BAcf935066b802EAA0067eC14AB035B24eB78b;0xA04a8Bf7C1D6aB8e9B61A73242F91C6b1b47906e;0xd88a8B32591dC72e04D98eB1CAc8B0f385C89151;1698760740;1694449363;False;True;Test Fee 2;TF2;2.0;0.0005;0.1;5.0;1694450157;1694451657;2.0;0.00025;0.00036;70;True;True;False;True;FAIRLAUNCH
+598de544-9d17-4bdd-80ad-a5e076a01d83;2023-09-08T21:15:01.995Z;2023-09-08T21:15:01.995Z;https://pbs.twimg.com/profile_images/1700256873922936832/ARhti1CO.jpg;https://pbs.twimg.com/profile_images/1700576276233216000/-h8n24Yr.jpg;https://t.me/kitsunekoininfo;https://twitter.com/kitsunekoins?t=4VdzLlPKagFiVDIaDoanFQ&s=09;;www.kitsunekoins.com;;;;"""KK 2.0: More Scarcity, More Power, More Control"" 🚀🪙💪
+
+In the world of cryptocurrency, scarcity can be a powerful driver of value. ""KK 2.0"" is here to take it to the next level. With enhanced scarcity, the potential for greater power and control within the Kitsune Koins ecosystem becomes limitless. Join us in redefining the future! 🦊🌌💎 
+Supply 666666
+The community want the community have lets go to the moon together 🤑🤑🤑🤑";296;1;56;0x7CcCd2883Ac40Ef77D9204a1E95936a15BD8a30b;0x27465B1ef8D83Baef398820038484ac4050a4AC7;0xc99B59c0498E62A47a726D3AE3C211793a375f5d;1735646400;1694207677;False;False;Kitsune Koins 2.0;KK2.0;5.0;0.00000015999984;0.1;20.0;1694210415;1694293200;19.405;0.000000008245289358;0.00000037333296;70;True;True;False;True;FAIRLAUNCH
+44ead47b-9b96-4ac5-903e-6d74836facf7;2023-09-05T05:27:02.369Z;2023-09-05T05:27:02.369Z;https://cdn.discordapp.com/attachments/1012083791155712041/1148477343531286598/test.png;https://cdn.discordapp.com/attachments/1012083791155712041/1148477946949013524/test169.jpg;;;;;;;;TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST;6;0;109;0xb00040B8c36Fe82BE4bABce1556A0CC8Be085f6d;0x29989a0748d107ac6EfB0c3FD799CB7479A4F54F;0x6596f74B7d5b7E02404dd328B4Ffe14846056241;1693947720;1693891451;False;False;TEST;TEST;2.0;18000000000.0;1.0;1.0;1693891800;1693893600;2.0;9000000000.0;9000000000.0;51;True;True;False;True;FAIRLAUNCH
+cf48a8b9-1d74-468a-ab53-37535f1b1566;2023-08-30T17:06:06.208Z;2023-08-30T17:06:06.208Z;https://pbs.twimg.com/profile_images/1695227417575469056/2HuR2AqO.jpg;https://pbs.twimg.com/profile_images/1695227417575469056/2HuR2AqO.jpg;;https://twitter.com/kitsunekoins?s=09;;www.kitsuneKoins.com;;;;"Kitsune Koins is more than just a cryptocurrency – it's a journey that fuses tradition and innovation, uniting the captivating world of Kitsune mythology with the limitless potential of blockchain technology. 
+
+🌌 **Experience the Virtual Kitsune World:** Step into an immersive realm inspired by Kitsune spirits, where tradition comes alive through cutting-edge visuals and interactivity.
+
+🪙 **Tokenomics with Purpose:** With a total supply of 666,666,666,666,666 KK, our deflationary tokenomics promote scarcity, while 2% rewards holders and 3% ensures liquidity.
+
+🌐 **Decentralized Governance:** Every holder has a voice through our community-driven governance model, shaping the direction of Kitsune Koins' future.
+
+🚀 **Fair Launch on DXSale:** We believe in equal opportunity, launching transparently on DXSale. The first 100 buyers will receive an exclusive Kitsune NFT!
+
+Join us as we bridge cultures and push the boundaries of what crypto can be. Kitsune Koins isn't just a coin – it's a cultural renaissance powered by technology. Embrace tradition, transform the future. 🦊🪙🌌
+";272;0;56;0xCBb5f79EAbD480A34432e4257854A00B349BD36B;0xf3e236F1a89CA12A9078a04F39F02092EA40c2Be;0x7D07d945E9c8055E2D33F32Ddc6DB5234b0e8321;1735646400;1693415156;False;False;Kitsune Koins;KK;5.0;193333333333.33314;0.1;20.0;1693415700;1693656000;13.8830424;13925862052.638630564147812442;339999999999.9998;70;True;True;False;True;FAIRLAUNCH
+58af08fa-cd14-4319-92ee-9359317bca08;2023-08-30T16:42:02.341Z;2023-08-30T16:42:02.341Z;https://i.postimg.cc/tTs1WfBQ/Screenshot-2023-08-29-121552.png;https://i.postimg.cc/h4HmbDFC/Screenshot-2023-08-29-121039.png;;;;;;;;Test Overflow;5;1;109;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0xdA15148Ea4DcFE950FBd254F51dA6F4930eAA761;0xf5f8354a31D55b6aE280fAc4F48BEaEFe6110d59;1698770400;1693413699;False;False;MarkOverTest;MOFE;0.2;0.4;0.1;0.5;1693414014;1693414614;0.5;0.74;0.38;100;True;True;False;True;OVERFLOW
+ce4d83f6-625e-4019-811e-6ea186eec8e2;2023-08-30T12:45:49.250Z;2023-08-30T12:45:49.250Z;;;;;;;;;;"<p>PRIVATE SALE</p>
+";2;1;109;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0xAF5DF72EC8D9574f59d2647D27584211b975b6b3;0xe1C076D22524Ed30829A45546C3A29f69a2712F4;0;1693342044;False;False;privateShibBurn;PSB;1.0;2.0;0.1;2.0;1693342171;1693342831;2.0;0.0001;0.0;0;True;True;False;True;private
+b8067b8b-0064-4189-8cf3-b23b7185a020;2023-08-30T12:45:49.250Z;2023-08-30T12:45:49.250Z;;;;;;;;;;Shibarium Standard;1;0;109;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0x57Df096aB05249e7355b1D9A245Df0Af9e098392;0xb1069ed13d28c585EBC14136cc974EBF0cB02799;1698782520;1693339382;False;False;shibStandard;SS;1.0;2.0;0.1;2.0;1693339500;1693341000;2.0;0.00001;0.00001;74;True;True;False;True;IDO
+bdaad41f-aab4-4867-a9c6-65772c7b45d6;2023-08-30T12:45:49.250Z;2023-08-30T12:45:49.250Z;https://i.postimg.cc/zDFdgNrs/Screenshot-2023-08-29-121515.png;https://i.postimg.cc/RF7N0GjB/Screenshot-2023-08-29-120948.png;;;;;;;;Test Presale;0;0;109;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0xd60Fc600632460d43Bf0Cd5BBc8CEFC1c044D583;0x955beBEB77A807d4Fcf2A853ebF0303Add4d5dF3;1698777600;1693334533;False;False;MarkShibTest;MPST;0.1;0.2;0.1;0.2;1693334714;1693507200;0.2;1.0;0.8;100;True;True;False;True;IDO
+ffcc0f4e-1790-4073-a292-7e94ddf448d2;2023-08-28T17:33:01.268Z;2023-08-28T17:33:01.268Z;https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=960,h=882,fit=crop/mjEPPjZZ6kHMrPnE/logo-YBglpq3zD0cX5g19.png;https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1121,h=568,fit=crop/mjEPPjZZ6kHMrPnE/fairlaunchbn-m2WB4oqVoZiWrMGe.png;https://t.me/rabbitkingX;https://twitter.com/KingRabbitX;;https://rabbitking.info/;;;;"🎉 Exciting News! RabbitKing will be Fairlaunch on Dx.app 
+
+The Crypto Project Revolutionizing the World of Cryptocurrencies.
+
+Join us in this remarkable journey towards prosperity and innovation. 
+
+Don't miss out on this incredible opportunity! 🌟💎
+
+Get your $RKC tokens now and be part of the revolution. 🐇👑
+
+Tax 10/10 ( 4% share to Holders, 2% Auto LP, 4% Marketing)
+
+$RKC will be list on Rocketswap.pro on 7th Sep 3pm
+
+Slippage: 12%
+
+#RabbitKing #Fairlaunch #RKC #Dxapp #Base #eth #memecoins 🚀🌌";35;0;8453;0xCcfBDce4B26aAA0D43f3b13db5b64d3789B0Cd73;0xb46a2E2ea94f3BcE7AFc7A72dbFfA71B2a71F9fb;0x6218beb5FDEB90D51206d5531d9B62043528fC3D;1698760800;1693243813;False;False;Rabbit King Coin;RKC;1.0;66000000000000.0;0.05;5.0;1694005200;1694091600;10.13;6515301085883.514313919052319842;27000000000000.0;50;True;True;False;True;FAIRLAUNCH
+bc78b935-50f9-4b87-8413-a8e2ea4f9b5f;2023-08-26T20:09:02.455Z;2023-08-26T20:09:02.455Z;https://coinchavo.com/wp-content/uploads/2023/08/chavo-8-frente-300x300-1-150x150.png;https://coinchavo.com/wp-content/uploads/2023/08/Mesa-de-trabajo-5-300x100.png;https://t.me/+CL-h9LBbNfMzNjVh;;;https://coinchavo.com/;;;;"The people's currency for the people!
+
+$Chavo is a BEP-20 deflationary token built on the Binance smart chain. We intend to revolutionize the Latin market by creating a platform that serves as a payment gateway between merchants and crypto.";270;1;56;0x0215846D2578f9eF4ce4c26609A3402aa2A963e2;0x3C39aa4267D447b6E3F003552dCDb16317a2150F;0xa29685F043A89998eA18254e8E450Df989E13e2b;1708980540;1693080406;False;False;CHAVO;CHA;50.0;17600000.0;1.0;10.0;1693080960;1693190940;401.8813999999999995;43794.014851147627190253;7040000.0;42;True;True;False;True;FAIRLAUNCH
+506d36d9-2b68-4ad6-b04b-89b7d9d69df8;2023-08-15T04:30:03.313Z;2023-08-15T04:30:03.313Z;https://shibboss.com/imgs/logo3.png;https://shibboss.com/imgs/presalebanner4.png;;;;http://shibboss.com;;;;"SHIBABOSS's uniqueness, will be highlighted by its appeal to many across the world, in and out of the crypto space. 
+
+Shibarium is coming, let's embark on a journey to explore the future together, with extraordinary spirit and a desire for change. We are the pioneers who dare to dream and challenge. Welcome to ShibaBoss, where all limits are crossed and every dream comes true. 🐕🚀
+";28;2;8453;0xf27A49BBd214453D0BF0E31A049f09e9098fC463;0xaEa4b6fc8d520B16426e754fbc7c528f6ae4C360;0xB00fF0C9133B1343e762C780a9bA2a772EeBC0F2;1698739200;1692073721;False;False;ShibaBoss;ShibBoss;1.0;750000000000.0;0.05;0.5;1692342000;1692428400;4.95770000000000001;151279827339.290396451419353048;200000000000.0;51;True;True;False;True;FAIRLAUNCH
+cda5340a-0cbf-439d-a63c-336eb2868658;2023-08-13T03:21:03.508Z;2023-08-13T03:21:03.508Z;;;;;;;;;;;26;0;8453;0xf27A49BBd214453D0BF0E31A049f09e9098fC463;0x312645cB6246eb338F160C1b654c4C33b1eEcb93;0x457fe64a5229AD2C1820bfcDaC39bEE3D7Be25FA;1698724980;1691896705;False;False;Shibarium Community;ShibC;0.1;620000000000.0;0.01;0.05;1691899236;1691901936;0.15;4133333333333.333333333333333333;300000000000.0;51;True;True;False;True;FAIRLAUNCH
+2a4b6fb5-8e1a-474f-93c9-91a40e12f2d8;2023-08-09T09:45:44.017Z;2023-08-09T09:45:44.017Z;;;;;;;;;;;22;0;8453;0x7491f95906A20787028aa2aAe6397B38caBd8378;0x6D7238f2743923f4E1cA7a639331aFE4C62c022C;0xFFa1Ec1c738Ec753233c9A5Ef72c871BA01dDB1c;1698785160;1691524655;False;False;CONAN;CONAN;0.01;0.02;0.005;0.01;1691524840;1691525740;0.02;30000000.0;30000000.0;55;True;True;False;True;IDO
+4ad110d6-6750-4a8b-a9e8-bd44eeb4631c;2023-08-08T18:45:22.457Z;2023-08-08T18:45:22.457Z;https://www.vade-coin.com/wp-content/uploads/2021/07/DevidN_logo_V_shaped_minimalist_blue_colors_crypto_token_transp_159d653e-d5bd-4e69-bec4-919d3403ff56-removebg-preview-e1680721332253.png;;https://t.me/valdeconetwork;https://twitter.com/valdeconetwork;https://discord.gg/pEruAARe; https://www.vade-coin.com;https://github.com/ValdecoNetwork;;https://www.reddit.com/r/VALDECOnetwork/;"<p>The VALDECO Project, an independent venture, aims to revolutionize the existing methods of exchanging values by enabling a value compensating-exchange protocol. We aim to provide a decentralized and transparent approach to conducting business, similar to how the web revolutionized the exchange of information through social media networks.</p>
+";28;0;137;0x6A232BdC7248fDF588CB0E9973a7EeE4a93cE96a;0xb7F786462f0CbE67732932F635033911Fa80E5b9;0xAEBB524C5dE9b6917f294dcEe64C7b5ebCd7F907;0;1691488282;False;False;VALDECO;VaDE;6.0;12.0;6.0;8.0;1691488800;1691508900;7.0;700.0;0.0;0;True;True;False;True;private
+ac04ef50-fae1-4c5d-a503-e10f1496beff;2023-08-09T09:45:19.487Z;2023-08-09T09:45:19.487Z;;;;;;;;;;"<p>private sale test</p>
+";3;3;3797;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0x9f125d4793BFC9657A82c2fB100E20d5598c7a2E;0xFc6D46C90544dc7EAD00eE260bD9c6cf115CB051;0;1690863980;False;False;alvPrivate;tempAlv;1.0;2.0;0.1;2.0;1690864117;1690864837;2.0;0.00001;0.0;0;True;True;False;True;private
+967d92f8-7d31-4b7c-93b5-58465e0169b2;2023-08-09T09:45:19.487Z;2023-08-09T09:45:19.487Z;;;;;;;;;;over alv;2;2;3797;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0xFB8d3C7D962E3A217D0B11B1aA83a6A00Ef27A26;0xb1069ed13d28c585EBC14136cc974EBF0cB02799;1698726120;1690863814;False;False;overAlv;OALV;1.0;5.0;0.1;10.0;1690863943;1690864543;13.0;0.000016923076923076;0.00023;70;True;True;False;True;OVERFLOW
+298c20d7-7eef-4524-a919-02a0b70ed7b5;2023-08-09T09:45:19.487Z;2023-08-09T09:45:19.487Z;;;;;;;;;;fair alv;1;1;3797;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0x56a83B2a1455A2Ab1189FD1A9A323B4EA74e10b8;0x7234b815d5CF166982eD398026B00Fe10f2d9abe;1698726000;1690863700;False;False;fairAlv;FALV;0.1;0.0002;0.01;1.0;1690863801;1690864401;1.0;0.0002;0.0002;84;True;True;False;True;FAIRLAUNCH
+baedcf8e-9fc9-4342-b440-f3b78181bacf;2023-08-09T09:45:19.487Z;2023-08-09T09:45:19.487Z;;;;;;;;;;Alv standard token ;0;0;3797;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0x83906c86C7efE20DBe43EAC89361626cEF27e89d;0xB6b9C4a993Be40fE2642D4D10868998Fc035203d;1698725580;1690863292;False;False;alvStandard;ALVS;1.0;2.0;0.1;2.0;1690863419;1690865459;2.0;0.00001;0.00001;84;True;True;False;True;IDO
+9fc374ac-e242-46a5-b5c0-94f234ec1cc3;2023-08-09T09:45:44.017Z;2023-08-09T09:45:44.017Z;;;;;;;;;;;5;4;8453;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0x856ef6548A3Dc1b6a53be0BbB2f295AE859F1769;0xB6b9C4a993Be40fE2642D4D10868998Fc035203d;1700809740;1690783837;False;False;baseStandard;BSS;0.001;0.002;0.0001;0.002;1690783952;1690790972;0.002;1000.0;1000.0;99;True;True;False;True;IDO
+5f4ca2df-8256-45a3-a4a4-01eb51891fe9;2023-08-09T09:45:44.017Z;2023-08-09T09:45:44.017Z;;;;;;;;;;;4;0;8453;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0x78a098441E8962c37975e977c33DF22661a6782c;0x1622fd92eE0914b93cBd1B0a709716Cc327514f6;1701327840;1690783605;False;False;MarkBaseTest;MBT;0.001;0.002;0.001;0.002;1690783817;1692252240;0.002;100000000.0;80000000.0;70;True;True;False;True;IDO
+d69fdd19-9005-4950-a34c-d5679d6d05c0;2023-08-09T09:45:44.017Z;2023-08-09T09:45:44.017Z;;;;;;;;;;;2;2;8453;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0x4DCFADdC8C11ED78850E4Cd37De16CC051B6e0f9;0xb1069ed13d28c585EBC14136cc974EBF0cB02799;0;1690782171;False;False;basePrivate;BPR;0.01;0.02;0.001;0.02;1690782709;1690868460;0.02;0.000001;0.0;0;True;True;False;True;private
+c1121543-6b94-4f91-944c-1a6d7159147b;2023-07-27T20:45:03.685Z;2023-07-27T20:45:03.685Z;https://i.postimg.cc/qqZW1jJC/Screenshot-2023-07-27-154058.png;https://i.postimg.cc/PrJj18Xw/Screenshot-2023-07-27-153956.png;;;;;;;;"<p>Private Sale Demo</p>
+";236;14;56;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0xf403Ba65A4Af68317A0057582c9DDE4a3c88cC04;0xCA34c3c423A8d9180Caa04EB0a2A3B6Df1890a0F;0;1690490566;False;True;PrivateLaunchDEMO;DxDemo;0.01;0.02;0.001;0.02;1690491327;1690835760;0.02;2200000.0;0.0;0;True;True;True;True;private
+8e9c9414-759e-47b7-9def-6eeb309c282e;2023-07-27T20:33:03.270Z;2023-07-27T20:33:03.270Z;https://i.postimg.cc/nhbKbBP8/Qm-Xrzb-AMcg-Tb-Uzx-Pa-Yd-PRy6pomrn-CX81-PUKq-Pk-Nmg-Py3ay.gif;https://i.postimg.cc/HsKZJrv3/Screenshot-2023-07-27-152807.png;;;;;;;;"<p>Private Sale Demo</p>
+";247;0;1116;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0x8f22c5a13a403E6F7bc3f3C69b78e720fA7018b7;0x3563045A27ba31F17A2f1f8AA65083217E4Fc222;0;1690489826;False;False;PrivateSaleDemoDX;PRV;2.5;5.0;1.0;5.0;1690490733;1690835040;5.0;0.0018;0.0;0;True;True;True;True;private
+1f5c36eb-8499-4b89-bacb-b12a13c8a98a;2023-07-18T17:39:02.435Z;2023-07-18T17:39:02.435Z;https://pbs.twimg.com/profile_images/1688908757072498688/d1VkYzqI.jpg;https://pbs.twimg.com/profile_images/1689039583181205505/iFTb9zOz.jpg;https://t.me/memegoldcoin;https://twitter.com/MemeGoldCoin;;https://memegoldcoin.org;https://github.com/freshcoins/Smart-Contract-Audits/blob/main/MemeGold_0x188592F3E031a6531A05b50deCAaF1C25adAb40F.pdf;;;" Memegold Coin Join the Meme Revolution! 🚀
+
+🐊 Are you ready to ride the crypto wave with a twist of humor? Welcome to Memegold Token, where memes meet blockchain! 🐊
+
+🎉 Engaging Community: Become a part of our dynamic and passionate community. We value your input, so join us in shaping the future of Memegold!
+
+🌿 A Token with a Cause: Every transaction counts! We donate a portion to  Cheetah.org for wildlife conservation. Make a positive impact while having fun!
+
+💰 Reflective Tokenomics: Earn passive income with each trade! Our holders benefit from reflections, fostering long-term loyalty and rewards.
+
+💎 Limited Supply: Rarity in the making! With a deflationary supply, Memegold becomes increasingly scarce as demand rises.
+
+🎭 Embrace the Power of Memes: Laughter and fun unite us! We celebrate the humor of memes, setting us apart in the crypto world
+🔒 Transparency and Security: Trust is our priority. We ensure every transaction is secure and visible on the blockchain.
+
+🌐 Visit our website for whitepaper, roadmap, and more! See how Memegold is making a difference in the crypto space. Let\'s go viral together!
+
+🐆 Memegold Coin - Fun, Impactful, and Charitable. Join the meme revolution today! 🐆
+$upply 1Trillion coins
+1% of each transaction for charity
+2% to holders
+Join US 🐆";231;0;56;0x3101B782cdA1631C9Fb2Cd1b3477Abc20cf06F80;0xB63133D16Ae92887bb0F29119d33091730a4128B;0x188592F3E031a6531A05b50deCAaF1C25adAb40F;1735669620;1689701913;False;False;MemeGold ;MGLD;1.0;510000000000.0;0.001;5.0;1689705058;1692293220;2.615221968999999999;195012127477.275715786483639575;350000000000.0;75;True;True;False;True;FAIRLAUNCH
+91556bc6-4068-4628-aec0-8e0f8b3cb2cc;2023-07-05T21:30:03.298Z;2023-07-05T21:30:03.298Z;https://cdn3.vectorstock.com/i/1000x1000/59/17/flying-bull-with-wings-and-horns-logo-icon-vector-29325917.jpg;https://sassomeccanica.it/wp-content/uploads/2018/01/flying-bull-full.jpg;;;;dx.app;;;;This is the real flying bull;220;8;56;0x47BAcf935066b802EAA0067eC14AB035B24eB78b;0xa21EE9FDC25Ee998E5d5b6b9649FC79fCc01ad85;0x5b2f3F8Cdc4Af11bD7E37009fc5c49af4b885ceA;1696109100;1688592494;False;True;airBull;ABR;0.1;0.00047;0.001;0.5;1688592598;1688593258;0.2;0.00235;0.00047;51;True;True;False;True;FAIRLAUNCH
+a4f694bb-72eb-4dcf-9240-307a7b08f085;2023-07-04T08:57:05.546Z;2023-07-04T08:57:05.546Z;https://i.postimg.cc/wT9gsdbt/IMG-20230607-115426-804.jpg;https://i.postimg.cc/pdG2PnLP/IMG-20230608-152045-356.jpg;https://t.me/chameleon_EN;https://twitter.com/chameleon_meme;;http://www.chameleonmeme.site/;;;;"it is time for the distinctive and highly specialized clade of Old World lizards with over 200 species to rule over all memes.
+
+The chameleon project was built based on the recent meme trend, the Chameleons are tired of seeing crazy animals claiming to be the king of memes, the dogs, cats and even pepe claims to be the king of memes.
+
+***The chameleons are here to change the candle colors from RED to daily GREEN.***
+
+The days of INU's are over, Dogs are going back to their regular duties as watch knight, cats going back as pets, pepe going back to the ocean, it is time for the distinctive and highly specialized clade of Old World lizards with over 200 species to rule over all memes, transforming the candles to daily Green, no more bear only the bull and Chameleons will rule the world.
+
+**Project / Token Details**  
+No team (all are volunteer members) 
+✅Low tax 
+0% tax on buy 
+1% tax on sell 
+1% tax for auto liquidity 
+1% tax for burn wallet 
+2% tax for marketing 
+
+Total supply 3,811,351,251,514
+C = 3
+H = 8
+A = 1
+M = 13
+E = 5
+L = 12
+E = 5
+O = 15
+N = 14
+
+The total supply is represented by the position of each letters using the 26 basic alphabet.
+
+Enjoy the meme, lets rule the meme kingdom.
+
+";216;0;56;0xdC0C567ff86320307619FC6e1BaB14371fDEa7f8;0x039fa93784656af401d84f1C492086294Aff4785;0x5b44B1b9576AfEb8941b01e0aed4aF624cD981DE;1694347200;1688460861;False;False;Chameleon;Chame;1.0;2172470213362.98;0.01;5.0;1688731200;1688990400;1.05;2069019250821.885714285714285714;838497275333.08;51;True;True;False;True;FAIRLAUNCH
+aec01404-ef89-456c-8117-53a81a3578f9;2023-07-02T09:00:04.527Z;2023-07-02T09:00:04.527Z;https://rb.gy/rwrzy;;;;;https://noviskoin.com/;;;;"Hello and welcome to the Novis Koin presale. We are excited to announce that our project is finally ready to launch . We would like to thank our community for their patience and support throughout this journey.
+Novis Koin is not just another cryptocurrency, it's a revolution in the making. We are developing our own NFT marketplace, our own metaverse, our own decentralized exchange, our own lottery system, and our own social media apps like Facebook and TikTok, but with a twist - our social media apps will be decentralized. This means that users will be able to connect with each other in a truly decentralized way, without the interference of any centralized entity. This is the power of blockchain technology.
+We are extremely excited to launch our pre-sale and invite you all to join us in this journey. Getting in early on this project is a wise decision because we have a team of experts who are committed to making sure that this project changes lives. Our team has years of experience in the blockchain industry and we are dedicated to creating a sustainable and innovative ecosystem that benefits everyone.
+Our project is not just about making a profit, it's about making a difference. Our mission is to create a decentralized world where everyone has access to the same opportunities, regardless of their background or financial status. This is the power of blockchain technology and we are proud to be at the forefront of this movement.
+Once again, we would like to thank our community for their unwavering support and patience. We are confident that Novis Koin will change the game and take the world by storm. So, get ready to join us on this incredible journey. Novis Koin to the moon and beyond";214;0;56;0x0fbDc329C337D20F9BEFF9bCED61ABA36c59348d;0xF06b0EC99627CEDE43493E6BdD56e8b64e476aaD;0xBA718431BD1ae863b3A6FaecdDD9b9e5Fb460032;1692698220;1688288380;False;False;NOVIS KOIN;NK;30.0;300.0;0.2;100.0;1688291912;1690879980;41.4502218;1206.266162850785999895;50000.0;51;True;True;False;True;OVERFLOW
+0d8a3558-cb82-4317-93dc-893e65991499;2023-06-08T20:48:03.526Z;2023-06-08T20:48:03.526Z;https://i.postimg.cc/fLR89Bp2/836cb267118e1d449e5e51845ed0cdbe.jpg;https://i.postimg.cc/nLZRHHkt/Screenshot-2023-06-01-102310.png;;;;;;;;Test Overflow;6;4;369;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0x48A02A7b0057d9e8477a83962e6C0DcA38a84fa5;0x09EDabcbE4766A55a9ad3fd82b5F236Ed0911AF3;1693514580;1686257135;False;False;MOFPULSE;MOP;50.0;175.0;10.0;200.0;1686257407;1686258127;200.0;0.000000008;0.0000032;77;True;True;False;True;OVERFLOW
+6e8cb9e8-dcbd-442f-8dd2-6171ed533f81;2023-06-08T20:33:03.553Z;2023-06-08T20:33:03.553Z;;;;;;;;;;;5;1;369;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0x84b5fcbD21517553ffE06B2C36ECf8bEF30F097f;0x47126353f5a5710F37E65b8AA41fe8Cb2A4EbE3E;1693513740;1686256245;False;False;pulseBurn;PSB;1.0;0.00043;0.1;10.0;1686256372;1686256972;20.0;0.0000215;0.00044;70;True;True;False;True;FAIRLAUNCH
+fdb95fde-fbaf-472e-a1fc-698c931eb48d;2023-06-08T05:15:06.075Z;2023-06-08T05:15:06.075Z;https://i.postimg.cc/cLRF7zFK/desktop-wallpaper-hapebeast-prime-nft-monkey-thumbnail.jpg;https://i.postimg.cc/R0vXgTYg/Screenshot-2023-06-01-103308.png;;;;;;;;Test Presale;3;3;369;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0xD9ed62F5B6Ff177b72981e43a14fd98712AA8D95;0xB2Db1CCE98d1333f14c454C9Aa9EDf882C9c327e;1693518780;1685656565;False;False;MPSTestPulse;MPSP;250.0;500.0;10.0;500.0;1685657450;1685658110;500.0;600.0;450.0;69;True;True;False;True;IDO
+565967bc-5475-46c9-9bb2-2dbcdfc0b8b6;2023-06-01T19:49:03.614Z;2023-06-01T19:49:03.614Z;https://i.ibb.co/68qh5RT/fWGzo6bI.png;https://i.ibb.co/PFk9GXM/banner.jpg;https://t.me/legxtoken;https://twitter.com/legxtoken;;https://legacyxtoken.com/;;;;"**Ensuring A Legal Legacy Block-by-Block™**
+
+The LegacyX vision is to ensure that legacies are built, stored and transferred across generations in an immutable, decentralized, anonymized and solidified manner through the novel use of blockchain and smart contract technology
+
+Built on the Polygon (Ethereum) platform, LegacyX is built on trusted and established blockchain technology for stability, decentralization, scale and mass adoption.
+
+The LegacyX Token (ticker: LEGX) is connected and associated with the initialization, development and adoption of the LegacyXFoundation™ Platform.";23;0;137;0xE24eF2Db22c60b30A398f8fbaC027bDb69F771A1;0xf68309d9a40cbF627C0A11310B21936F2b839183;0x3Ad0af29E3826B8F22BC5DB10fFb42412ae67864;1924941600;1685648855;True;True;LegacyX Token;LEGX;10415.0;20827.0;250.0;750.0;1686966960;1687053360;12074.0;12804.0;12804.0;100;True;True;False;True;IDO
+d3557cf9-4953-4093-83bc-5cd9d3950d14;2023-06-08T05:15:06.075Z;2023-06-08T05:15:06.075Z;https://i.postimg.cc/sxPTCpm2/Screenshot-2023-06-01-104001.png;https://i.postimg.cc/httdK9s5/Screenshot-2023-06-01-102240.png;;;;;;;;"Test Presale
+";0;0;369;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0x58198C91D57599471AEFa40001dE13C6D7a6fEc5;0x97c4141eb446b5BD60bd4fa1E0305bCb8C2A280c;1696088220;1685634085;False;False;MPSTest;MPST;10.0;20.0;1.0;20.0;1685634333;1685720220;20.0;10000.0;8000.0;70;True;True;False;True;IDO
+f21613e0-44a5-44dc-868b-2ad8715bb3dc;2023-05-24T21:18:04.454Z;2023-05-24T21:18:04.454Z;https://i.postimg.cc/wxJG8vd3/9431135-KFUPPHGH-7.jpg;https://i.postimg.cc/ZK6kVppc/Screenshot-2023-05-24-161332.png;;;;;;;;Presale Test;35;22;32520;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0xf2b9fD7023cCb86B95A45971d784d8cCbCa3639B;0x7234b815d5CF166982eD398026B00Fe10f2d9abe;1690837920;1684963004;False;True;MSF;MSF;50.0;100.0;1.0;100.0;1684963208;1685049120;100.0;3000.0;2000.0;70;True;True;False;True;IDO
+1947f2c9-3907-4ada-a098-f596102f7113;2023-05-24T04:27:03.801Z;2023-05-24T04:27:03.801Z;https://photos.pinksale.finance/file/pinksale-logo-upload/1684901239357-a35eddd9593eb49b295c56d979613650.jpg;;https://t.me/RPG_Token;https://twitter.com/RPGToken;https://discord.com/invite/JC8y5BcqBF;https://www.instagram.com/rpgtoken/;;;;RPG Token is a decentralized economy for Table Top Gaming, bringing real-world economics to RPG, LARP, and War Game campaigns. The RPG Token Team presents RPG Gold, the first currency of the Andar Campaign Setting, utilizing a real-world cryptocurrency to simulate a real-world in-game economy. ;46;0;250;0x4AEF7927127E9A2719C73a69b22a96293b4eB3D6;0xc65bffb240F7A1259714e8Fa1f1E837C7D33f411;0x871deEC75ce533f0d0De875716a73eaC1960b659;1716793200;1684902266;False;False;RPG Gold ;RPGG;5.0;540000000000000.0;1.0;3000.0;1684902622;1685167200;6.0;90000000000000.0;390000000000000.0;70;True;True;False;True;FAIRLAUNCH
+5d10ad30-d773-40b2-befb-90ee33c4af51;2023-05-22T15:06:03.410Z;2023-05-22T15:06:03.410Z;https://goldstandardwebinar.com/wp-content/uploads/2020/12/GSB_Logo_2-300x300.png;https://goldstandardwebinar.com/wp-content/uploads/2021/05/gspartnersgold-300x49.png;https://t.me/Coing999;;;https://gspartners.global/;;https://www.youtube.com/watch?v=tW9N1O2QdGE;;"Introducing G999 Coin: Powering the Future of Finance and Technology.
+G999 coin is not just a digital currency; it's a gateway to a world where finance and technology seamlessly converge. Built on cutting-edge Binance Smart Chain (BSC network) blockchain technology, G999 coin empowers users with a secure, transparent, and decentralized platform for financial transactions and beyond
+G999 coin Presale is set to go live on the BSC Smart chain, Participators of the G999 Coin get access to Swiss Valorem Bank ecosystem as well as getting free access to create a Swiss account.
+Early investors are airdropped 20% of invested capital immediately after launch";199;0;56;0xe21F42eDB49707506FdBf1E62B28d84cA46a9F58;0x4957096A2818cbbdE7Fd672f464d78B916F3aE84;0x4F86a76CC8Ad03dB81db0a2116B2BfA5da9EF9A4;1747925137;1684767795;False;False;Coin G999;G999;1.0;225000000.0;0.033;10.0;1684785600;1685112300;1.865;120643431.635388739946380697;155000000.0;51;True;True;False;True;FAIRLAUNCH
+b3d76e99-1775-4f31-a7ae-e533cdbeea6c;2023-05-18T18:09:03.469Z;2023-05-18T18:09:03.469Z;https://photos.pinksale.finance/file/pinksale-logo-upload/1684420111512-402eb3755b12d5666e61242ce6815e74.jpg;https://photos.pinksale.finance/file/pinksale-logo-upload/1684420622132-c6fd269cb44755e1c628b00b319dc762.PNG;https://t.me/EdenX_Token_EN;https://twitter.com/edenx_token;https://discord.gg/nHGY8xHeXf;https://edenxfunding.com/en;;https://youtu.be/gvTdCMUNILI;;"**EdenX is an ecosystem of already working products.**
+🔥Listing on PancakeSwap 24 May.
+✅Audit.
+✅Liquidity Blocking 1000 days.
+✅Renounced Contract (after Launch).
+✅Low tax: 2/3 Buy and Sell.
+(1% of which is allocated to holders, 1% to liquidity, and 1% to marketing and development)
+
+**Ecosystem EdenX:**
+🤖EdenX AI (GPT). 
+🚀Crypto crowdfunding platform where you can create your own fundraiser.
+🎨NFT marketplace. 
+🖌NFT collections. 
+💰Staking.
+🔥DAO.
+📱Soon App phone.";195;0;56;0xeb97F71E8947a48dB41F5f93c959A486447bb940;0x6098A8bf9d784e4aA98623ae878C0020843FE83D;0x9eC7850ffa43C2392f103F73b5c36D661F302A65;1771418160;1684433260;False;False;EdenX;EDENX;0.5;12000000.0;0.03;2.0;1684488600;1684920600;1.17650000000000001;10199745.00637484054228861;7000000.0;70;True;True;False;True;FAIRLAUNCH
+fc8bdb00-9c4f-4c72-82bd-6efd68a537c0;2023-05-15T13:18:03.750Z;2023-05-15T13:18:03.750Z;https://i.postimg.cc/BnNVdXCH/Jepe-Logo.png;https://i.postimg.cc/wB81YjTx/Twitter-Header-NEW-DEC-19-3-DEC.png;;https://twitter.com/ganjavax;https://discord.gg/BW56HvPraP;https://ganjepe.com;;;;JEPE Tokens are like those memes you can't resist sharing! They're these crazy tokens that exist on the Avalanche network. But hey, don't take 'em too seriously—they're all about having a laugh and getting in on the fun!;5;0;43114;0xC1AdD0f38339694067FDdbF286Dd0130c4245909;0xFEF57DfEa553b1713B59D7Ae26e26280780F865E;0xbAe347B617e8E74973e6fCBd46Fdda6E4ed817e7;1716372000;1684156597;False;False;Ganjepe;JEPE;125.0;250.0;0.1;5.0;1684404000;1684749600;136.9000000000000001;787.0;887.0;95;True;True;False;True;IDO
+9de8a8ad-ab35-44f5-b5ed-4ac36ada30ed;2023-05-11T19:12:03.515Z;2023-05-11T19:12:03.515Z;https://i.postimg.cc/GhKcjhSY/20230511-145045-0000.png;https://i.postimg.cc/kgZPjVNV/png-20230501-052912-0000.png;https://t.me/PepeBurnToken;https://twitter.com/PepeBurnToken;;https://pepeburn.xyz/;;;;"Pepe Burn Token
+
+Feel the burn, share the burn!
+
+No utility, no roadmap, just memes.
+
+
+Tokenomics:
+
+4% burned with each transaction
+
+1% dev retirement fund";181;0;56;0x0D7079098C8feb4F4AEF40703CE83eCc704f371d;0x28b1A412DDF2d1A8F27446FaCD36729b57d4dA1E;0x8f65C6992ad863A8FFe5555fc9e3Ec0A2f48e844;2002182780;1683832221;False;False;Pepe Burn;BPEPE;1.0;214551900000000.0;0.0069;42069420.0;1684144380;1686563580;3.752800000000000054;57171152206352.589243433644440673;105172500000000.0;69;True;True;False;True;FAIRLAUNCH
+0e615b7a-6bd2-454b-b98c-a5ea1441285e;2023-05-11T09:45:03.506Z;2023-05-11T09:45:03.506Z;https://i.ibb.co/4RsfYqt/PEPE-LOGO.png;https://i.ibb.co/zxjnrVx/amount-pepe.jpg;https://t.me/CoreTokyoGarden;https://twitter.com/coretokyonft;;https://pepe-5.gitbook.io/corepepe;;;;"The Core PEPE aims to help CoreDAO and the cryptocurrency industry as a whole by providing a community-centric meme ecosystem and a unique hold-to-earn system with exposure to a large and strong community of users from all over the world.
+
+Pepe is tired of watching everyone play hot potato with the endless derivative ShibaCumGMElonKishuTurboAssFlokiFudMoon Inu coins. The Inu’s have had their day. It’s time for the most recognizable meme in the world to take his reign as king of the memes.
+
+Pepe is here to make MemeCoins great again. With zero taxes, $PEPE is a coin for the people, forever. Fueled by pure memetic power, let $PEPE show you the way.";242;0;1116;0x9DA455675Bf4cdF940A2F9bC6B6c39CF2829BAbB;0x44dfe2180d587c7Dc7BcD0479be7211F50DB7cff;0x43583351760cea01F1461192191E278EEeCE7CD0;1689008400;1683798217;False;False;PEPE;PEPE;1400.0;2800.0;0.0001;100.0;1684170000;1684602000;2799.999999999999999499;5000000.0;5000000.0;100;True;True;False;True;IDO
+4efa4cde-e310-4feb-8d5c-79089a7c4cd8;2023-05-11T03:51:03.841Z;2023-05-11T03:51:03.841Z;https://tadpepe.com/wp-content/uploads/2023/05/tadpepelogor.png;https://tadpepe.com/wp-content/uploads/2023/05/tadpepebanner-1024x512.png;https://t.me/tadpepe;https://twitter.com/tadpolepepe;;https://tadpepe.com;;;;"Tad PEPE (CRYPTO: TADPEPE) is the newest and official BSC 'Tadpole Pepe' Meme Token. 
+Tad PEPE, the Amazing Singing Tadpole, also releases New Smash Hit Crypto Meme Song and Youtube Video - ""Yeah Yeah!""
+Tad Pepe is Safu w/ Locked Liquidity, Low Fees and 3% Hyper-Deflationary Reflections Too!
+TADPEPE.com is also developing the new www.Web3Swamp.com game and token, stay tuned for launch!";180;0;56;0xAf5dd054391fF48462baABb56f65040389F80DD2;0x33294A18F38DD9c39a6B243C6028D0d444117221;0xe41c7B5D761931B70c3f474E5dA5298ce38B18DB;1719780900;1683777016;False;False;Tad Pepe;TADPEPE;0.3;699999999999.0;0.1;6.0;1683778200;1684036800;0.3;2333333333330.0;239999999999.0;70;True;True;False;True;FAIRLAUNCH
+59f18779-97d0-468d-963c-bf2e0d247461;2023-05-09T21:03:03.405Z;2023-05-09T21:03:03.405Z;https://i.imgur.com/2ps76eV.jpg;https://gifdb.com/images/high/pepe-frog-getting-pats-cbiru1xej81ourx6.gif;https://t.me/pepethighs;;;https://pepethighs.lol/;;;;"🦵🏻🐸 Welcome to Pepe Thighs 🐸🦵🏻
+
+
+In the furthest reaches of the Cryptoverse, where memes meet madness, and degens rule, there exists a token unlike any other: Pepe Thighs. 
+
+Birthed from the love child of the legendary Pepe the Frog meme and the wild world of anime, Pepe Thighs is the symbol of a new era in cryptocurrency. Pepe, tired of the traditional financial systems, ventured into the depths of the internet. Along his journey, he encountered a powerful and voluptuous anime deity. This wasn't just any deity; she was the queen of all hentai, a goddess with thighs that could crush diamonds. 
+
+Struck by her power and beauty, Pepe proposed a union, an alliance that would revolutionize the Cryptoverse. From this alliance, Pepe Thighs was born - a token that embodies the resilience of Pepe and the irresistible charm of the 🥵👙hentai goddess.👙 🥵
+
+Pepe Thighs is a token for the true degen. It's for those who aren't afraid to venture into the unknown, who embrace the chaos of the meme world, who understand that in the realm of cryptocurrency, the only limit is your imagination. 
+
+So, are you ready to take a ride on the wild side? Are you ready to embrace the power of the Pepe Thighs token? If yes, then join us on this wild ride, because when you're with Pepe Thighs, the only way is up. 
+
+🚀 Fair Launch Up Coming 🚀
+🚀Total Supply:  5,000,000 (Based on 5000 frog species) 🚀
+🚀 Thigh Tax: 4% on buy and sell 🚀
+🚀 Fairlaunch Link: https://dx.app/dxsaleview?saleID=176&chain=BNB 🚀
+
+";176;0;56;0xDa352B4675E523B84e914B73652a7cBdf32Cb1cD;0x62fB5BB0E0BEe142bfAb772b1404b71D823BE4ca;0xe588C34DaCB6a64646923033D97f11ac951ed5a9;1688244780;1683666018;False;False;Pepe Thighs;THIGH;20.0;0.002295;0.1;15.0;1683667800;1683827580;30.7700000000000003;0.000074585635359116;0.002205;51;True;True;False;True;FAIRLAUNCH
+8c931804-da7c-494c-aec9-53bd807f517a;2023-05-08T11:09:26.218Z;2023-05-08T11:09:26.218Z;https://i.postimg.cc/G2NFzd77/IMG-20230426-084340-672.jpg;https://i.postimg.cc/7Y5CQv1s/20230508-063001.jpg;Https://T.me/CorePad_Official;Https://Twitter.com/CorePad_Token;;https://corepad.net;;;;"
+## Earn passive income with our Auto-Staking Protocol.
+### 2,100,000% starting APY.
+
+* Monthly Halving of APY.
+* Auto-Staking
+* Auto-Compound
+* Auto-Liquidity
+* Auto-Burn.
+
+**Presale Starting on Friday, Get Ready!**";241;1;1116;0x62c191848D0150FBE3b710058e52058539d87c42;0x615ed89013F60F25144AD70DDC0A6507eB2F8B90;0xd13722a85eE2da273003eD24e8D1ddad6b0C3D59;1715166015;1683544028;True;True;CorePAD Token;CPAD;10000.0;0.00000075;5.0;5000.0;1683892800;1684065600;23542.399999999999999;0.000000000031857414;0.000000525;80;True;True;False;True;FAIRLAUNCH
+80ed782e-e1c1-4f2c-9c57-0b433a98770c;2023-04-28T17:33:03.852Z;2023-04-28T17:33:03.852Z;https://satoshiswap.exchange/logo.png;https://satoshiswap.exchange/images/twitter.png;https://t.me/satoshiswapcore;https://twitter.com/satoshiswapcore;;https://satoshiswap.exchange;;;;"**DO NOT CLICK ON EMERGENCY WITHDRAWAL AS THEY WILL CHARGE YOU HIGH FEES ( 20% ), [See this one for example](https://twitter.com/Apu2UU/status/1652683667855273984)**
+
+**Please register on our referrer platform to receive rewards after you buy!!**
+
+[https://reward.satoshiswap.exchange/?refer=dev](https://reward.satoshiswap.exchange/?refer=dev)
+
+This is a Presale for SatoshiSwap Token (SAT) from [https://satoshiswap.exchange](https://satoshiswap.exchange), a new hybrid StableSwap & V3 Dex for CoreDAO ecosystem.
+
+**About SatoshiSwap**
+
+[https://medium.com/@satoshiswapcore/introducing-satoshiswap-stableswap-and-v3-for-coredao-148d04f33fe6](https://medium.com/@satoshiswapcore/introducing-satoshiswap-stableswap-and-v3-for-coredao-148d04f33fe6)
+
+**Tokenomics**
+
+[https://docs.satoshiswap.exchange/tokenomics/sat-token](https://docs.satoshiswap.exchange/tokenomics/sat-token)
+
+**Audit**
+
+[https://docs.satoshiswap.exchange/contracts/audits](https://docs.satoshiswap.exchange/contracts/audits)
+
+**Join our official Telegram channel & group**
+
+[https://t.me/satoshiswapcore](https://t.me/satoshiswapcore)";238;2;1116;0x2a95ae0163434f9FE47230562F560ff938900B3E;0xF550FF78669052De2fd9eF7C52a3856eA08a60bE;0xC951d8561B2f1bcE76FEe922933E243C875ba48f;1714302008;1682703179;False;False;SatoshiSwap;SAT;2000.0;14500.0;1.0;10000.0;1682852400;1683025200;3219.4;4.503944834441200223;14500.0;100;True;True;False;True;FAIRLAUNCH
+3ff0041d-5b37-49d8-afb2-bf87bd6868e7;2023-06-08T05:15:04.420Z;2023-06-08T05:15:04.420Z;https://i.postimg.cc/9M0Jj9Tn/Microsoft-Teams-image-38-highres.jpg;https://i.postimg.cc/d0q54p0v/Screenshot-2023-04-25-141402.jpg;;;;;;;;Vest Test;2;1;2001;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0x7eDBa97aF4FdDFe2499A5E4d2b73589Ac1988962;0x0CA7b4B7263B5303216844449f0C89278Feb6388;1688152260;1682450155;False;False;Vestmeda;VM;5.0;10.0;1.0;10.0;1682451004;1682451604;10.0;10000.0;8000.0;51;True;True;True;True;IDO
+28469600-3b56-41b6-9139-6c3ee12aba12;2023-04-25T15:49:11.300Z;2023-04-25T15:49:11.300Z;https://i.postimg.cc/7L5HvKP2/Screenshot-2023-04-25-104610.jpg;https://i.postimg.cc/SNLjV1jQ/Screenshot-2023-04-25-104519.jpg;;;;;;;;Vest Test;34;21;32520;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0xD6694E2C8E9759053243064cC696222F7033C63b;0x3a08cbf8317AaBb44413A1860cC30b221F8fDCeF;1688139960;1682437724;False;True;VestRocket;VR;1000.0;2000.0;300.0;2000.0;1682438732;1682439332;2000.0;10000.0;8000.0;51;True;True;True;True;IDO
+c28ea4b2-f331-40f5-a11d-acd98d87ccb0;2023-04-25T00:30:04.787Z;2023-04-25T00:30:04.787Z;https://i.postimg.cc/65K1yV4c/Screenshot-2023-04-17-133337.jpg;https://i.postimg.cc/ht88gwCF/Screenshot-2023-04-24-163648.jpg;;;;;;;;Vest Test;32;19;32520;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0x2b2F988B64bE3bAb4695F08855c9325AE8d95E03;0x2B47Ebcc9911A56D8Fb6B584A569abe648538f05;1688161320;1682372611;False;True;VestStar;VS;1000.0;36000000.0;500.0;10000.0;1682373627;1682374227;10000.0;3600.0;39000000.0;51;True;True;True;True;FAIRLAUNCH
+055df798-e666-4f66-93ee-5eae9a9da4bf;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://i.postimg.cc/7hPgskgg/Npf6q-TF2-UCSo.png;https://i.postimg.cc/bJ9x9J2y/Picsart-23-04-25-01-12-11-274.jpg;;;;https://noviskoin.com/;;;;"
+
+Hello and welcome to the Novis Koin launch . We are excited to announce that our first presale was a bib bib success. We would like to thank our community for their patience and support throughout this journey.
+
+
+Novis Koin is not just another cryptocurrency, it's a revolution in the making. We are developing our own NFT marketplace, our own metaverse, our own decentralized exchange, our own lottery system, and our own social media apps like Facebook and TikTok, but with a twist - our social media apps will be decentralized. This means that users will be able to connect with each other in a truly decentralized way, without the interference of any centralized entity. This is the power of blockchain technology.
+
+We are extremely excited to launch our 2nd pre-sale and invite you all to join us in this journey. Getting in early on this project is a wise decision because we have a team of experts who are committed to making sure that this project changes lives. Our team has years of experience in the blockchain industry and we are dedicated to creating a sustainable and innovative ecosystem that benefits everyone.
+
+Our project is not just about making a profit, it's about making a difference. Our mission is to create a decentralized world where everyone has access to the same opportunities, regardless of their background or financial status. This is the power of blockchain technology and we are proud to be at the forefront of this movement.
+
+
+Once again, we would like to thank our community for their unwavering support and patience. We are confident that Novis Koin will change the game and take the world by storm. So, get ready to join us on this incredible journey. Novis Koin to the moon and beyond";168;0;56;0x6D41f323A7b163716b550dd22Ce487d185eFaac6;0x7594FBe440E4f1677cf27221eA6955D970B7Ae53;0xDc36531d0fA25859eF835Bdc7d33d2be3F10f657;1689908400;1682352496;False;False;Novis koin;NK;34.0;340.0;0.05;200.0;1682402400;1684810800;45.6625;2189.980837667670407883;100000.0;51;True;True;False;True;OVERFLOW
+09aa6f27-d380-47b5-8857-b0b5732fc6a5;2023-04-24T18:30:22.112Z;2023-04-24T18:30:22.112Z;https://i.postimg.cc/sXf93s8b/e0304c5661d2469c9ab92b2acf38f382-zipped.png;https://i.postimg.cc/HxP5H5b7/Screenshot-2023-04-24-101126.jpg;;;;;;;;Vest Test;30;17;32520;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0x6a7Ed8Af621b9b88CB94AD96f02A0f35544E94a9;0xacBC40c045F307806cc3676e9262B2f18c7e1a43;1688137440;1682349314;False;True;VestAI;VAI;1000.0;2000.0;300.3;2000.0;1682350244;1682350844;2000.0;10000.0;8000.0;69;True;True;True;True;IDO
+f49999d7-d7c7-4f7a-ab29-5b766248842a;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;;;;;;;;;;TestSwap;237;1;1116;0x2a95ae0163434f9FE47230562F560ff938900B3E;0x655BEE7C807C5f134E50e3Bd60D1B4D37971AfC2;0x50bB27862e6bb3e859cB05750b7B1AaEC619Af9F;1690891740;1682338296;False;False;TestSwap;TST;1.0;10.0;0.1;1.0;1682338520;1682424540;1.0;10.0;10.0;70;True;True;False;True;FAIRLAUNCH
+837d0e3f-cb1b-41b1-9564-033782d59815;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://i.postimg.cc/0Qd5YgH7/Screenshot-2023-04-23-191242.jpg;https://i.postimg.cc/0NSyNKYW/Screenshot-2023-04-23-190929.jpg;;;;;;;;Mooning dogs;167;0;56;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0x3C94a4dE66C57aEed6d6A5871EFBC68be5B275C6;0xC92d6F55b899971e7F60a2537C07CA625D2FC9af;1690848360;1682295699;False;False;Bnbflow;MBF;0.01;0.011;0.001;0.03;1682295946;1682296846;0.076;1184210526315789.473684210526315789;90000000000000.0;51;True;True;False;True;OVERFLOW
+63b97fd9-9bc2-4412-a45a-30c99eaca196;2023-04-24T18:30:22.112Z;2023-04-24T18:30:22.112Z;https://ipwatchdog.com/wp-content/uploads/2018/03/pepe-the-frog-1272162_640.jpg;https://pfps.gg/assets/banners/5980-pepe.png;;;;https://pepe.frog;;;;"**PepeBrise**
+
+Pepe has arrived on Brise";28;1;32520;0x47BAcf935066b802EAA0067eC14AB035B24eB78b;0x6965Bb12738B349F433AA429f45066608D1F1d35;0x1FE25063fED521fDd9b626631598512b3fB2cf77;1689383400;1682125955;False;False;PepeBrise;PPB;5.0;30000.0;10000.0;100000.0;1682126325;1682127285;30000.0;1.0;30000.0;70;True;True;False;True;FAIRLAUNCH
+f4fb7648-f13a-408d-afed-02ceeeaa57be;2023-04-24T18:30:22.112Z;2023-04-24T18:30:22.112Z;;;;;;;;;;Vest Test;27;1;32520;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0x9560DC19bd8FBE51819FAa122EA6d73E5a413a30;0x3cd4a4AA2B198418bb7f72f4AD4639bb1F1cC60D;1688155980;1682108108;False;False;VestMTEST;VMT;10000.0;20000.0;1000.0;20000.0;1682109344;1682109944;20000.0;10000.0;8000.0;76;True;True;True;True;IDO
+f544e406-dfa8-4cc3-87f9-e2029e2872c3;2023-04-25T15:31:05.678Z;2023-04-25T15:31:05.678Z;https://cdn.mos.cms.futurecdn.net/snbrHBRigvvzjxNGuUtcck.jpg;https://image.blocktempo.com/2023/03/share_image.png;;;;;;;;;25;0;324;0xD2249F55A8E51B2625F98397c5248551D3B63Ef7;0x3a070D3C16aaBEbD63E28fbc6971B68E9a694e1b;0x0B8238811F6Ce4b428F48e3E22b21Dc147A8b3fc;1688181120;1681873886;False;False;ZKMoon;ZKM;0.01;0.02;0.001;0.02;1681874569;1681878600;0.02;0.000001;0.000001;51;True;True;False;True;IDO
+8717f3e8-82b8-4fc1-9246-300d7370d629;2023-04-24T18:30:22.112Z;2023-04-24T18:30:22.112Z;https://i.postimg.cc/h4X5kRvm/1641073756960-154943880.png;https://i.postimg.cc/KY795m9X/Screenshot-2023-04-18-160423.jpg;;;;;;;;"<p><strong>Bold Title Test</strong></p>
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<p>++Underlined Text++
+<s>Striked</s></p>
+<blockquote>
+<p>quoted</p>
+</blockquote>
+";24;14;32520;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0x1c44C5D5f9A135207e9b2A61807ce307DC4007F3;0x28A19a38df6b0251E14c9191555EacC4a2b1e3a5;1688158860;1681852155;False;True;MTEXTTEST;MTT;1000.0;2000.0;100.0;2000.0;1681854669;1682542860;2000.0;120.0;110.0;90;True;True;False;True;IDO
+a4b56eee-9b4d-43e8-9e83-21948208da41;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://cruxcryptos.com/logo_crux_200_200.png;https://cruxcryptos.com/crux_banner2.png;https://t.me/CRUX_CRYPTOS;https://twitter.com/CRUX_CRYPTOS;;https://cruxcryptos.com;;https://www.youtube.com/watch?v=yKlM2DZaG1I;;"
+
+# <p>🎮** Play-To-Earn combined with Ai **🤖</p>
+<p>CRUX is the fuel that powers a financial platform and our Play-to-Earn, providing access to market analysis, social sentiment, and on-chain data through Artificial Intelligence integration. Holders can earn more CRUX while participating in a survival MMORPG game on Metaverse, where they can compete with friends and fight against the undead to stay alive.</p>
+
+<p>
+
+
+**
+
+
+#  **💰Holders earn on:💰**
+
+</p>
+
+<p>🟠Every TX that happens on CRUX</p>
+
+<p>🟠Ai Platform Fees on Subscriptions</p>
+
+<p>🟠NFT Marketplace Fees</p>
+
+<p>🟠Playing our Unique Game</p>
+
+
+
+**
+
+
+
+<p>
+# **Our Journey**
+</p>
+
+<p>
+At CRUX, our goal is to provide the best innovative gaming and social experience to the players while using the blockchain technology to its full potential. 
+We aim to revolutionize the gaming industry by creating a Play-to-Earn (P2E) experience that offers real value to our ecosystem and players. 
+
+Along with our flagship MMORPG game, we are also building a powerful financial platform that leverages Artificial Intelligence and machine learning technologies to provide real-time market analysis, social sentiment, and on-chain data for traders to make informed decisions.
+
+
+Our vision is not limited to just our own game and financial platform. We plan to be the launchpad for other games and companies to launch themselves on our ecosystem, using our knowledge, resources, and blockchain technology. 
+We strive to create a dynamic and vibrant ecosystem that will drive innovation and growth.
+Furthermore, we believe in the power of blockchain to create a seamless and interconnected metaverse. 
+
+Our team is dedicated to making $CRUX fit into any other metaverse using the blockchain, thus enabling seamless transactions and interactions across different virtual worlds.
+
+
+Join us on our journey to revolutionize the gaming and financial industry while creating a better and more interconnected world with the help of GPT-powered technology.
+</p>
+
+
+**
+
+
+<p>
+# **TOKENOMICS**
+</p>
+
+
+<p>The total tax is 8% and is applied automatically via smart contract on all transactions that occur with $CRUX. The tax is divided into:</p>
+
+
+**Reflection - 2% **
+
+
+2% of all transaction taxes will be evenly redistributed to all current holders based on the percentage of total supply an individual wallet holds. Holders will receive $CRUX on a daily basis passively, directly to their wallet.
+
+
+**Liquidity - 2%**
+
+
+2% of each transaction fee will be added to the liquidity locked pool, this allows our ecosystem to grow and be secured with strength on the market.
+
+
+**Growth - 4%**
+
+
+4% of each transaction will be allocated to ecosystem growth, it includes marketing and development needs for the project to grow.
+
+
+**
+
+
+
+<p>**
+# METRICS - VESTING LOCKS ON DIAGRAM ""Unlocked""
+**</p>
+
+
+**Total Supply: ** 1,000,000,000
+
+
+**Fair Launch:** 100,000,000 
+
+
+**Liquidity:** 100,000,000
+
+
+**Staking :** 200,000,000 (Unlocks at 2023.07.01 -  3pm ) ( 10% each 30 days)
+
+
+**Treasury: ** 200,000,000 (Unlocks at 2023.05.01 -  3pm ) ( 10% each 30 days)
+
+
+**Advisors: **50,000,000 (Unlocks at 2023.06.01 -  3pm ) ( 10% each 30 days)
+
+
+**Team: **80,000,000  (Unlocks at 2023.05.01 -  3pm ) ( 5% each 30 days)
+
+
+**Development:** 70,000,000 (Unlocks at 2023.06.01 -  3pm ) ( 10% each 30 days)
+
+
+**Game Rewards:** 200,000,000 (Unlocks at 2023.07.01 -  3pm ) ( 10% each 30 days)
+
+
+
+**
+
+
+### 🌐Join us on Telegram for more updates.🌐
+
+
+<p>Telegram: https://t.me/CRUX_CRYPTOS</p>
+
+
+<p>Website: https://cruxcryptos.com/</p>
+
+";165;1;56;0xd223A339E13c6D2B52CbF75D14c996d8b2fff708;0x753b1Db0EC51C7c1cB42FeE50743f6ad9Ea8a614;0xD641156213ad80A007993a1D9cE80085414CFF39;1687889880;1681844124;True;False;Crux;$CRUX;5.0;100000000.0;0.2;4.0;1681912800;1682085600;12.252;8161932.745674175644792686;100000000.0;70;True;True;True;True;FAIRLAUNCH
+d3c16fb9-bd25-49bc-adc5-7628ebf9ec30;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://i.postimg.cc/BQQP71gn/photo-2023-04-13-04-24-03.jpg;;https://t.me/CRAZYDOG_BSC;https://twitter.com/CRAZYDOGX1000;;;;;;"<p>CRAZY DOG NEW TREND BEGINS - The People’s Cryptocurrency</p>
+<p>CRAZY DOG is a marketing - based memecoin and a virtual credit card project</p>
+<p>Launch Today 15:30 UTC</p>
+<p>Tax:5/5
+1% Liquidity
+4% Marketing</p>
+<p>Low MC
+Ave.ai Trending
+BSC Trending
+Renounced Ownership
+5% Buy&amp;Sell Tax
+No Team&amp;Unlock token
+No Private Sale
+CMC&amp;CG Listing
+Moontok
+Upcoming CEX
+Marketing Expenses
+China Marketing</p>
+<p>Contract: 0xDb8b5266E63A27ceD2544C7AdC4dFF4D76A38d8b</p>
+";160;1;56;0x164ffA054cF4c8CD67bd96de535402b4cCf98e62;0x9FD35992943a6898D6109277b6355de41190644d;0x7E89C52c5345723bfC4173ef799Ae91B773dba52;1686842100;1681399779;False;False;CRAZY DOG;CRAZYDOG;10.0;0.024;0.1;0.5;1681400717;1681402817;12.19900000000000002;0.001967374374948766;0.024;51;True;True;False;True;FAIRLAUNCH
+bb99f712-a9ca-4317-9b71-594f479fe799;2023-04-25T15:31:05.678Z;2023-04-25T15:31:05.678Z;https://i.postimg.cc/dtBGJf9v/618d2f942c606e0f0477443d-NFTDennis-2eb83976.png;https://i.postimg.cc/25J4PB7Z/Screenshot-2023-04-13-091623.jpg;;;;;;;;"<p>Bitgert Overflow Test</p>
+";23;11;324;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0x5D2B84e0Ce34F91D83dFFE2333e43C0bC2119a65;0x2dE8E2b50BC428E3479A75B073FEDf0111Be3289;1688135400;1681395560;False;False;FinOFTest;FOT;0.01;0.011;0.001;1.0;1681395653;1681396253;0.035999999999999999;8333333.333333333564814814;320000.0;57;True;True;False;True;OVERFLOW
+e93b56e6-1e2b-4b69-97e1-763d9546d733;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://www.rd.com/wp-content/uploads/2022/08/bitcoin-cryptocurrency-GettyImages-1336750482.jpg;https://i.imgur.com/rvkL7dT.gif;;;;;;;;"<p>test</p>
+";231;19;1116;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0x3acE01E18Ee0Bdc8B0E35a5904a649b2e6ca5B0A;0x51a5aa27C62DE7Ed1696E6bb1B7c923f9Ff0BD8e;1688134380;1681395422;False;False;coreOver;COO;1.0;1.1;0.01;10.0;1681395642;1681396242;18.9318392189028455;0.000015318110229377;0.00029;70;True;True;False;True;OVERFLOW
+95898939-9b0a-4556-84cd-ec51ac0f2e54;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://www.babyelondoge.com/wp-content/uploads/2021/09/babyelondogelogop75.png;https://www.babyelondoge.com/wp-content/uploads/2022/12/babyelondogelogop460.png;https://t.me/babedoge;https://twitter.com/babyelondoge;;https://www.babyelondoge.com/wp-content/uploads/2022/12/babyelondogelogop460.png;;https://youtu.be/-F0WJWz42JI;;"<p>Baby Elon Doge (BABE) Coin is the new low-tax hyper-deflationary giga-mooning Baby Elon Doge token with 4% reflections and massive growth potential!</p>
+";158;0;56;0x9c63969a1E39EcE9b6F5464BE3CA6f48a76FFc39;0xd5AbbDb06255d95493d4AeFD62Bc1240731E8D23;0xbEa6Fa06df8D30eC0C48D4ab8fc385c47BA9B091;1714627860;1681364329;False;False;Baby Elon Doge;BABE;0.5;600000000000.0;0.1;4.0;1681364434;1681621200;0.9;666666666666.666666666666666666;250000000000.0;70;True;True;False;True;FAIRLAUNCH
+3cfd5bc4-4797-47e2-827d-18f8ff453094;2023-04-24T18:30:22.112Z;2023-04-24T18:30:22.112Z;https://i.postimg.cc/NfV5tmxL/Screenshot-2023-04-12-213657.jpg;https://i.postimg.cc/hjgXwn1r/Screenshot-2023-04-12-213524.jpg;;;;;;;;"<p>Overflow Test</p>
+";18;12;32520;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0xb11c3EFC0d6345248E5CFda7dC01a6a4fA2e6e0a;0x82F7b3c4a319c4Dd31aA089742cFEC45c8A0acf9;1688179680;1681354185;False;True;OvermaTest;OMTF;1.0;1.1;0.001;1.0;1681354509;1681355109;5.46;5.494505494505494505;43.0;61;True;True;False;True;OVERFLOW
+7fc5fdaa-3887-43cb-9017-e7545ef91c00;2023-04-24T18:30:22.112Z;2023-04-24T18:30:22.112Z;;;;;;;;;;;17;2;32520;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0xFdcBa08a8adfCA6e7b5A4c2A56f352D51e00AcB5;0xcCD94308973B806416EF7Ea98E6Ac8917f70809a;1688157600;1681332094;False;False;bitOver;BO;1.0;2.0;0.1;100.0;1681332155;1681333235;64.810071199999998;0.000003548831157587;0.00023;70;True;True;False;True;OVERFLOW
+4bf3c5b1-e04e-4332-985d-a30cbab5d4f6;2023-04-24T18:30:22.112Z;2023-04-24T18:30:22.112Z;https://i.postimg.cc/HkHDDJg7/Screenshot-2023-04-12-124809.jpg;https://i.postimg.cc/J4kdhRqc/Screenshot-2023-04-12-124424.jpg;;;;;;;;"<p>Bitgert Overflow Test</p>
+";15;11;32520;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0x715a29f7C148D2f7d37256F4d3C5Df26b4532e5F;0xF831938CaF837cd505dE196BBb408D81A06376ab;1688146800;1681321780;False;True;MOFTESTBRISE;MOFB;1.5;1.51;0.001;1.0;1681322133;1681323033;4.603;5.865739734955463827;33.0;57;True;True;False;True;OVERFLOW
+5afb65d2-e740-4045-9de4-1b5c610228ed;2023-04-25T15:31:05.678Z;2023-04-25T15:31:05.678Z;https://i.postimg.cc/JzXWV01V/Screenshot-2023-04-12-102422.jpg;https://i.postimg.cc/TYyzg15L/Screenshot-2023-04-12-102151.jpg;;;;;;;;"Overflow Test
+";22;10;324;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0xf84177C5D9f0B4Af25e687F83b4D771a36F41778;0x5daFB02a174915dfd3818FB997089cd55243133f;1687360800;1681313148;False;False;ExtraOFTest;EOT;0.01;0.012;0.001;1.0;1681313716;1681315216;0.117214000000000004;3583189.721364342021151407;360000.0;60;True;True;False;True;OVERFLOW
+52ece4b1-646f-4d4b-8fb2-ca2e3d3b1e51;2023-04-25T15:31:05.678Z;2023-04-25T15:31:05.678Z;https://i.postimg.cc/q7gWPpsV/4m0f-U-Qi-400x400.jpg;https://i.postimg.cc/kX0CF6K6/Screenshot-2023-04-11-105908.jpg;;;;;;;;"<p>Bitgert Overflow Test</p>
+";19;9;324;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0xc087b842Bc7766256BA2247d50402845Ff61D392;0x81554e3a82005695FbaDdC4891A6F02eea84644b;1690819140;1681228958;False;False;MOFTestX;MOFX;0.01;0.012;0.001;1.0;1681229759;1681230959;0.105;2857.142857142857142857;320.0;57;True;True;False;True;OVERFLOW
+b6eb527a-24c9-4cbb-ae4f-52ccd6961597;2023-04-25T15:31:05.678Z;2023-04-25T15:31:05.678Z;;;;;;;;;;;17;9;324;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0x0e08E0f24240ee15965D7d6acE36411Df32649BC;0x568151265467a429C7d399897D06A0Fb62Ab0f4C;1685571180;1681164854;False;False;overSYNC2;OS2;0.01;0.02;0.001;0.5;1681165477;1681166257;0.125;0.000216;0.000025;51;True;True;False;True;OVERFLOW
+dfd61038-281a-4874-811d-fabe956b497a;2023-04-25T15:31:05.678Z;2023-04-25T15:31:05.678Z;https://i.postimg.cc/CLZ7dCbq/0-FFVT3-RS-400x400.jpg;https://i.postimg.cc/5t5nbxLK/Screenshot-2023-04-10-081425.jpg;;;;;;;;"<p>Bitgert Overflow Test</p>
+";16;7;324;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0x4C8Fa8d69fACd8Bd188e3c3fe2D9DB2f75c104e5;0xd01881cc42796412b7765330615b7110e66E2F5D;1688153160;1681154938;False;False;MFinOFTest;MFOT;0.001;0.0011;0.001;0.1;1681155336;1681157736;0.102;2549019.60784313725490196;270000.0;51;True;True;False;True;OVERFLOW
+3219e301-76f4-4ec9-90b6-f1ddf524849c;2023-04-25T15:31:05.678Z;2023-04-25T15:31:05.678Z;https://i.postimg.cc/prDBJc7p/228903aa-e4c5-495b-a860-015cff37647f-1211202122331061b527267b178.jpg;https://i.postimg.cc/k54fPcVp/Screenshot-2023-04-10-081326.jpg;;;;;;;;"<p>Bitgert Overflow Test</p>
+";15;6;324;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0x3C3654Ad80a5d2e07DcA681A70dd71b32cBcA99c;0x72e602293480Ce7e60C495495776AF971539fe96;1688147220;1681148962;False;False;MOFTEST;MOT;0.01;0.015;0.001;1.0;1681149344;1681149944;0.015;17333333.333333333333333333;300000.0;57;True;True;False;True;OVERFLOW
+73952728-1925-47f0-8b8a-365d85fa17e2;2023-04-25T15:31:05.678Z;2023-04-25T15:31:05.678Z;https://i.postimg.cc/wTbjqx3T/ape-7020995-1280.png;https://i.postimg.cc/prCyYD2D/Screenshot-2023-04-10-081510.jpg;;;;;;;;;14;5;324;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0xF637C0DdfF6dF8437a7c9C9C49c7BaC83b000262;0x62deC5d068F8bE5E469B39A14A7CFaAc7F8a58E0;1688146200;1681148763;False;False;MFLTEST;MFT;0.01;340000.0;0.005;0.01;1681149358;1681150258;0.01;34000000.0;380000.0;79;True;True;False;True;FAIRLAUNCH
+854687a5-e65b-4910-9824-765490e0d245;2023-04-25T15:31:05.678Z;2023-04-25T15:31:05.678Z;https://i.postimg.cc/3Rx7TgKf/Screenshot-2023-04-10-081842.jpg;https://i.postimg.cc/cCjdTrG9/Screenshot-2023-04-10-081237.jpg;;;;;;;;;13;4;324;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0x5247a72D32411b69D7f5052377b2e47bC845B357;0x2aDa5fcD4312759644C0b1c352B84059268092Ce;1690808100;1681145874;False;False;MPSTEST;MPT;0.01;0.02;0.01;0.02;1681146174;1681318500;0.02;12000000.0;11200000.0;87;True;True;False;True;IDO
+ebbc9709-9786-4ab3-a590-08800aab822f;2023-04-25T15:31:05.678Z;2023-04-25T15:31:05.678Z;;;;;;;;;;;11;7;324;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0x8259939E5eb2101470A6eE758e50f4022397d01f;0x56E1fcB428F8a6154c6bDE8754269Ee280612E4C;1688137740;1681139392;False;False;fair2;F2;0.01;0.00024;0.001;0.1;1681140042;1681140642;0.02;0.012;0.00025;70;True;True;False;True;FAIRLAUNCH
+53afd4e3-bec7-40ce-817e-a4bb9d7ece78;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.postimg.cc/bNP5hCgt/IMG-20230409-191225-504.jpg;https://i.postimg.cc/W1gtk4rK/IMG-20230409-191553-114.jpg;https://t.me/babykittencoin;https://twitter.com/Babykittencoin?t=W2TX5tjtZPnEhBxMvkMTAQ&s=09;;https://babykittencoin.com;;https://youtube.com/@babykittencoin5952;;"<p>Baby kitten  is a token dedicated to cats around the world, our token will also be used for all cats services, providing shelter for cats, rescuing, and most of all feeding all cats  around the world. Also  Partnering with Kittens Food merchants and affiliate marketing companies all over the globe to be their primary legal tender means of payments for digital and physical products.</p>
+<p>OUR MISSION
+Our goal is to ensure the safety and proper upkeep of kittens around the world, providing all kitten essential services through a decentralized payment system.
+We aim to make the care of kittens cheaper and affordable than it used to be for all kitten pet lovers.</p>
+";228;1;1116;0x27A16f684881Fb59e3cC88C147bB75621d625e2A;0x4d91a1587B5f65b168C4ca5F3cf0fE2E499F4Cf6;0x11E484871b25Eea09a3955F1fA1c053D65870177;1712751963;1681130764;False;False;BabyKittenCore;BKC;1000.0;450000000.0;1.0;100.0;1681232400;1681624800;1106.1;406834.825061025223759153;250000000.0;65;True;True;False;True;FAIRLAUNCH
+01ad07f4-02fd-405d-b8f9-a9f2b5a65c14;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://pepelaunch.s3.ap-southeast-1.amazonaws.com/2727b257-b18e-4443-b0c6-4da8a126abf9samocore_logo_2-removebg-preview.png;https://pepelaunch.s3.ap-southeast-1.amazonaws.com/7e0e3612-81a1-479e-b16f-da476b72190120230330_015800_0000.png;https://t.me/SamoCore_TG;;https://discord.gg/S7xWU4X3;https://samocore.top;;;;"<p>Samocore is a revolutionary new meme coin that aims to
+become the TOP CORE in the meme coin space by
+fostering a close-knit and united community AKA the
+“Samocore family”. They believe that by building a strong
+sense of camaraderie and shared purpose among their Holders, they can create a community that is truly invested in the success of the project.</p>
+<p>At $Samocore, They understand that the key to success is
+creating a sense of belonging and shared purpose among
+their holders. They strive to create a family where members feel valued, respected and heard. They want to foster an
+environment where holders can come together to share
+ideas, collaborate, and work towards a common goal of
+creating wealth for all involved. Their flagship feature is their
+buy-back protocol, which allows for a 2% reflection on all
+transactions, providing a steady income stream for all
+#Samocore holders.</p>
+";226;0;1116;0xbEaBAfd22D05C2846922aE01ac250dCe19f23112;0x1C48CA48f90E4e7262416110117f74FfBF1C8521;0xdb811A2DBbC17ECd42a0ACf6cE8166e21268493B;1723032780;1681042679;False;False;SAMOCORE;$SACE;150.0;4000000.0;1.0;100.0;1681043433;1681216200;339.8400000000000001;11770.244821092278715933;1000000.0;51;True;True;False;True;FAIRLAUNCH
+e1f0132d-146b-41aa-847d-eabc351ee3f4;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://i.postimg.cc/QtXCz7WT/IMG-2751.jpg;;https://t.me/JackInuChannel;https://twitter.com/JACKINUx1000;;;;;;"<p>Jack INU is an animation trending project.
+Talk about popular movies like Tom and Jerry.</p>
+<p>🟢 Safe Dev
+🟢 Low cap and Lowtax
+🟢 Marketing plan
+🟢 Start Low Mc
+🟢 Parnership
+🟢 BSC Trending At Launch</p>
+";152;0;56;0xc4A1CBB5c2E860b98EFD323931F039cDEa490Ba7;0x7007fb8489e2292Cfa1BA4E16bbFf999EC2FB1c5;0xcB4145FDEad68f455Bca706e22599069dd39d7e2;1688658900;1680704640;False;False;Jack Inu;JAI;1.0;0.032;0.02;0.12;1680707147;1680708947;5.54800000000000001;0.005767844268204758;0.016;51;True;True;False;True;FAIRLAUNCH
+6a7e34c3-7f2f-456d-8462-c9f78db98374;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.postimg.cc/FK5V6G3h/sequence-logo-7c854742a6b8b4969004.png;https://i.postimg.cc/SsV3LjjF/home-m-1.jpg;https://t.me/SequenceSdk;;;https://sequence.xyz;;;;"<p>Sequence provides users with a seamless web3 wallet to access Ethereum-compatible networks, and a powerful web3 infrastructure stack for developers that makes it easy to build web3 apps and games.</p>
+<p>Sequence is designed as a modular web3 system focused on open standards, compatibility and interoperability with Ethereum-compatible networks and developer tools. With Sequence, you can use just one of the modules, or the entire stack. As well, feel free to combine Sequence with your favorite developer tools. This is one of the beautiful aspects of &quot;web3&quot; -- open standards and compatibility :)</p>
+";225;0;1116;0x7e09E5734d217d0637333BBA63Acb447A241ce53;0x8ef3b7f7e4f1e91F4331277Eac48FEc08CeD65f1;0xB5f3528F73e3D3218e569f99875908B8A7293968;1712300678;1680678903;False;False;Sequence;SEQ;100.0;0.03;1.0;250.0;1680685238;1680728460;254.0;0.000118110236220472;0.03;70;True;True;False;True;FAIRLAUNCH
+e795e572-99ff-45b9-b5c1-4f5a6a8499f7;2023-04-24T18:31:02.437Z;2023-04-24T18:31:02.437Z;https://i.postimg.cc/44zBrcMK/ea1cde91f4d4676c63fd6762a37a7b24.jpg;https://i.postimg.cc/pLkS3jmQ/Screenshot-2023-04-04-085836.jpg;;;;;;;;;4;4;2000;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0x2764ac04A9364d89C39F281692b0DdEb15576b7D;0xB5f3528F73e3D3218e569f99875908B8A7293968;1690813260;1680618241;False;False;MFEETEST;MFT;0.1;0.2;0.01;0.2;1680618655;1680877260;0.2;1200000.0;1120000.0;96;True;True;False;True;IDO
+d560da94-e242-460a-b650-dd0a618580a2;2023-04-24T18:31:02.437Z;2023-04-24T18:31:02.437Z;https://i.postimg.cc/v8JkFM3B/d78ac587f31741d783e9906d8c1278c8.jpg;https://i.postimg.cc/tgk2sG3h/Web-capture-4-4-2023-85642-medium-com.jpg;;;;;;;;"<p>Bitgert Overflow Test</p>
+";3;3;2000;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0x56a83B2a1455A2Ab1189FD1A9A323B4EA74e10b8;0x30d2e6eD8fc3D8120D1F962fE81C90A11d92A82E;1690812120;1680617193;False;False;MOFTEST;MOF;1.0;2.0;1.0;5.0;1680617747;1680618347;5.0;52000.0;310000.0;100;True;True;False;True;OVERFLOW
+761d923d-670f-45ac-ab9e-14691a5d3c91;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/krinnxb23kgp75s0jyhp;https://era.canvasaccept.com/share_image.png;;;;;;;;"<p>v3 test</p>
+";151;1;56;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0xDd879785E63cff1C73d0f988d55c7AA884B717a9;0x0251D11D251676efE94Ab05d335AeBD4F22B2Ca7;1688181360;1680578341;False;False;bnb3moon;b3m;0.1;0.2;0.01;0.2;1680578959;1680582660;0.2;0.0001;0.0001;51;True;True;False;True;IDO
+54c28f16-a611-4676-ac88-4c7fe9a772b4;2023-04-24T18:31:02.437Z;2023-04-24T18:31:02.437Z;https://i.postimg.cc/yxNzwSB2/unnamed-1.png;https://i.postimg.cc/2jTk2CmP/ezgif-com-gif-maker-5.gif;;;;;;;;;2;2;2000;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0x7eDBa97aF4FdDFe2499A5E4d2b73589Ac1988962;0xC37a9BfC668eb92828eBfF20C804903B43dAfa2f;1690859580;1680578142;False;False;MPSTEST;MPS;0.01;0.02;0.0001;0.02;1680578727;1680923580;0.02;10000000.0;10000000.0;70;True;True;False;True;IDO
+a17b2e65-586f-4889-a914-a5fecdc8c125;2023-04-24T18:31:02.437Z;2023-04-24T18:31:02.437Z;https://i.postimg.cc/QdXqvqbz/ab9290e4f21fbd1ffc909b014875ea98.gif;https://i.postimg.cc/XNCx5qqs/tumblr-354e7abc631ce1dcee4c3445788f167f-f8065203-1280-1.gif;;;;;;;;;1;1;2000;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0xf066a57088fF3C9a6c945e739770b08D33659249;0x8955040c56CfBfcCF264f5EfC456335DcDE9a759;1688180400;1680577329;False;False;MBRNTEST;MBT;1.0;210000.0;1.0;2.0;1680577550;1680578150;1.5;140000.0;270000.0;70;True;True;False;True;FAIRLAUNCH
+f5adda0e-a0a0-485a-900b-efbc5e833626;2023-04-24T18:31:02.437Z;2023-04-24T18:31:02.437Z;https://i.postimg.cc/vTK6BSZZ/FIBDm6-UXMAc-6-Pj.jpg;https://i.postimg.cc/VLTjL5JW/Screenshot-2023-02-20-170258.jpg;;;;;;;;;0;0;2000;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0xAF5DF72EC8D9574f59d2647D27584211b975b6b3;0x0CA7b4B7263B5303216844449f0C89278Feb6388;1690858620;1680577152;False;False;MSTRDTEST;MST;0.01;0.02;0.0001;0.02;1680577256;1680836220;0.02;10000000.0;10000000.0;56;True;True;False;True;IDO
+d03b7b8a-64e8-4e08-a293-538799f4456b;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://i.postimg.cc/ydD0V2nY/IMG-20230402-190638-473.jpg;;https://t.me/+FvC83i6dvs1hNTM1;https://twitter.com/DogeKiloCEOBSC;;https://dogekiloceo.net/;;;;"Doge Kilo Ceo memecoin 2023 - Gem 10000x 🚀
+✅ Dev is Based
+✅ Lowcap
+✅ Tax 5/6
+✅ BSC TRENDING at Launch
+✅ Huge Marketing
+✅ Cmc - CGK fasttrack
+✅ AMA group active
+✅ Hype community
+";149;1;56;0x6539783607fae0e5Bbef5A4bE62797d33C0c93E4;0xEbCC11Cf4a2E6B44EBe8c0b1ED95Dc947335Edf2;0x34437B0b032117bC3B2778D6381309Ae1354a658;1688916600;1680429835;False;False;DOGE KILO CEO;DOKI;5.0;10.0;0.1;0.15;1680535800;1680622200;9.98;0.0031;0.0031;51;True;True;False;True;IDO
+76d705f1-6b2d-47a2-9986-98569940b1ea;2023-04-24T18:30:22.123Z;2023-04-24T18:30:22.123Z;https://i.postimg.cc/jjkctRmb/logo.png;https://i.postimg.cc/Jh1XgShW/33.jpg;https://t.me/trippleseven_arb;https://twitter.com/777arbitrum;;https://trippleseven.io/;;;;"🎰 First advanced $LOTTO fork on Arbitrum chain introducing Triple Seven 777. Chance to win the Mega lottery with every buy and sell. 
+🎰5% bonus on Presale
+🎰 Mega lottery
+🎰 Live Dashboard
+🎰 Multiple winning bonus";42;1;42161;0x426ae7001E31AE0fF40b391433606761BbE4b723;0x844B3b692E16f5ea0b2c817E9E33310f1401472b;0x7F6228DdA3F9ea6B4beAa24181bf95B2F4a29dB8;1686319200;1680037374;True;True;Tripple Seven;777;5.0;10.0;0.017;0.71;1680098405;1680271200;9.989700000000000046;2300000.0;2185000.0;51;True;True;False;True;IDO
+7828c71d-ce56-40fc-b9a2-8bb847cd77f6;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.postimg.cc/pr9SzGy3/20230321-175647.png;https://i.postimg.cc/PfD61F4z/20230223-075041.png;https://t.me/bitvexa;https://twitter.com/BitvexaPow;;https://bitvexa.id;https://github.com/Bitvexa;;;Bitvexa Network Generation to facilitate DeFi.  Bitvexa implements the PoW Algorithm system on the Vexanium Blockchain Network.  The supply contained in the Core Blockchain is circulated as a Fair Launch to follow the previous supply.  Bitvexa Achievements are BTV Mining DApps, BitvexaSwap, Premium Accounts, CHIP, HASH Virtual Machines.;218;2;1116;0x7749C8bEb8763616fa40c5CCad9DBb9Ad9cF3c9a;0x1C47D373A1F1267a099c9799460C9A19f6F31f23;0xE8dEC1bFC7BF572D60403c609d6589715d2a23fC;1711392444;1679770562;False;False;Bitvexa Network;BTV;100.0;0.0003;10.0;500.0;1679788884;1679893200;469.0;0.000000639658848614;0.0003;70;True;True;False;True;FAIRLAUNCH
+b9189ead-4257-4e52-9492-13a8c533a2ea;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;;;;;;noviskoin.com;;;;"<p>Hello and welcome to the Novis Koin launch . We are excited to announce that our project is finally ready to launch on this Friday, 24th March. We would like to thank our community for their patience and support throughout this journey.
+Novis Koin is not just another cryptocurrency, it's a revolution in the making. We are developing our own NFT marketplace, our own metaverse, our own decentralized exchange, our own lottery system, and our own social media apps like Facebook and TikTok, but with a twist - our social media apps will be decentralized. This means that users will be able to connect with each other in a truly decentralized way, without the interference of any centralized entity. This is the power of blockchain technology.</p>
+<p>We are extremely excited to launch our pre-sale and invite you all to join us in this journey. Getting in early on this project is a wise decision because we have a team of experts who are committed to making sure that this project changes lives. Our team has years of experience in the blockchain industry and we are dedicated to creating a sustainable and innovative ecosystem that benefits everyone.</p>
+<p>Our project is not just about making a profit, it's about making a difference. Our mission is to create a decentralized world where everyone has access to the same opportunities, regardless of their background or financial status. This is the power of blockchain technology and we are proud to be at the forefront of this movement.
+Once again, we would like to thank our community for their unwavering support and patience. We are confident that Novis Koin will change the game and take the world by storm. So, get ready to join us on this incredible journey. Novis Koin to the moon and beyond</p>
+";144;1;56;0xff93AD55f55927F191Dab7445ceFE7C974984d93;0x7c625A55733A6907C309d342BCB37fE24A74BEFD;0xc95C2958dd4d2F24B7b143d1F5286A1f3ea81004;1686870780;1679700539;False;False;Novis koin;NK;91.0;910.0;0.05;100.0;1679700625;1682205180;164.02075676000000014;609.678933175042862877;100000.0;51;True;True;False;True;OVERFLOW
+ebf976c8-4538-47d6-92e5-911657998305;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;;;;;;;;;;;211;16;1116;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0x7A8DCe76e55007a6B603cF2d014c1Dc1da806DEa;0x5566A6913a6b5c5F1EaA63B6050170f8Cc394B1D;1685572560;1679697473;False;False;overMoon;OM;1.0;2.0;1.0;2.0;1679697953;1679698853;4.0;0.00007;0.00029;70;True;True;False;True;OVERFLOW
+e5978f66-975b-4aab-88bd-df32326c0793;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.postimg.cc/xdq1wsYL/Screenshot-2023-03-24-172329.jpg;https://i.postimg.cc/02qrzddq/Screenshot-2023-03-24-172151.jpg;;;;;;;;"<p>Test Presale</p>
+";210;6;1116;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0x144A5Cb032eb70F920D9CFBB93B85613f319E6d7;0x784665471bB8B945b57A76a9200B109Ee214E789;1688164080;1679696789;False;False;Marice;Mar;1.0;2.0;0.0001;2.0;1679696982;1680301380;2.0;20.0;18.0;70;True;True;False;True;IDO
+9c2b0ac8-a4d6-4efd-85ed-02494fd6d3dc;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://www.shutterstock.com/image-vector/credit-score-gauge-symbol-indicator-260nw-1885331059.jpg;https://cdn.dribbble.com/users/3061865/screenshots/7458975/ba_l_ks_z-1_4x.png;;;;;;;;"<p>testing</p>
+";200;15;1116;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0xC2dB04FFDbB775dF34dB16b2db296eD82D05Ca6F;0x1D699d614eB2c23FE1cA71Ebd4Cb2CB11FEc0bb4;1685529420;1679222519;False;False;overScore;OSC;1.0;2.0;0.1;2.0;1679222664;1679223324;4.0;0.000105;0.00037;70;True;True;False;True;OVERFLOW
+35599991-88e4-491a-bbfa-d9be0164d3e0;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;;;;;;;;;;;196;14;1116;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0x9257819D30E3FCCB343EAa9Ab827d53530AEd3f5;0x8d404EBe339dd397a20534E27e3d1C6C9851A14C;1685533800;1679053921;False;False;overtop;ot;1.0;1.2;0.1;100.0;1679054113;1679054773;136.0;0.000003088235294117;0.00037;70;True;True;False;True;OVERFLOW
+6691156c-f5c1-4c86-afd9-d5ad36dbda87;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;;;;;;;;;;;195;13;1116;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0x1dF44cE95E0d78212739a1264D99364b6875E3D8;0xB41f8688e4FBD5548b98360815a6c5f4AeE7F82F;1685440860;1679047405;False;False;overFlow;OF;1.0;1.1;0.1;100.0;1679047584;1679048424;209.0;0.000001291866028708;0.00024;85;True;True;False;True;OVERFLOW
+9c48c8cb-4ff3-4d97-88b5-f6fb947ae4c1;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://st3.depositphotos.com/1642134/16961/i/600/depositphotos_169614188-stock-photo-super-moon-colorful-sky-with.jpg;https://st3.depositphotos.com/1642134/16961/i/600/depositphotos_169614188-stock-photo-super-moon-colorful-sky-with.jpg;;;;;;;;"<p>This is a test</p>
+";194;12;1116;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0x902c19940ad84bBfc38839d702e44B1de853a14D;0x5566A6913a6b5c5F1EaA63B6050170f8Cc394B1D;1685523660;1679043793;False;False;overMoon;OM;1.0;1.1;0.1;100.0;1679044378;1679045158;114.8;0.000002264808362369;0.00026;99;True;True;False;True;OVERFLOW
+82d7b5bb-6e1d-496e-b925-6149cc881082;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://i.postimg.cc/RCPQbctG/fame-Token.png;https://i.postimg.cc/02sMnjWZ/FAME-features.jpg;;;;https://fametoken.ai/;;;;"<p>FAME will be a multi-utility token that will be used to create a decentralized community-driven virtual economy within the Fame Infinity platform. FAME can be used as a utility token ( payment method) to avail various products and services from other digital platforms of FAME Infinity Ecosystem.</p>
+";134;2;56;0x2A83c8Fbb131B06442152167aCb670B9fD7bD6E7;0x5e2dAaEc9323A6A78899Cfb561620c56b06dDd94;0x82cD1bC0896D2c7377eD9Ae93932c0B55E0cF839;1684565580;1678863802;False;False;FAME;FAME;5.0;10.0;0.1;1.0;1678865749;1678867549;9.95;2000.0;1000.0;75;True;True;False;True;IDO
+54a69bcd-fdee-456a-afbe-daa01beaf510;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.328888.xyz/2023/03/13/947PU.png;https://i.328888.xyz/2023/03/08/5cgOV.png;https://t.me/Avobabychannel;https://twitter.com/Avocadocorebaby?t=QxOrGTcVbjCkGuDOcGbyJQ&s=09;https://discord.gg/uxfADDYN;;;;;"<p>Avocado Baby is a deflationary utility Token built on corechain and aims to be the first legal tender on Core Blockchain.</p>
+";188;2;1116;0xfd90211086C4FF366986662bA6DB9F088bb2c1C6;0x933af46F77713d83Da27f37BBf23F05A641deB73;0xf69399158cbA7b92089317814E60C5AF867fEaB6;1710414000;1678713207;False;False;Avocado Baby ;Avo;12500.0;25000.0;1.0;150.0;1678780800;1678953600;25940.0269999999999992;77.100922061492071695;200000.0;51;True;True;False;True;OVERFLOW
+2f3dcf6e-ba2e-448d-a6dc-94cb5f266518;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;	https://shikokuceo.io/wp-content/uploads/2023/03/Group-43.png;;https://t.me/shikokucore_official;;;https://shikoku-cmo.com;;;;"<p>Shikoku CORE Token is the leading stablecoin rewards token on
+CORE Network</p>
+";187;0;1116;0x30671CC84369a58744313Fb5F561A863B81Db2f2;0x207E45884620927cddfabD0dF681e9eF204356B4;0xFF5289f6fDA4aDfEF1fB3F5641E584d57Cf35706;1710316519;1678695420;False;False;Shikoku Core;SHIKCORE;100.0;4900000.0;3.0;20.0;1678697700;1678719300;157.0;31210.1910828025477707;4700000.0;65;True;True;False;True;FAIRLAUNCH
+abafa219-5712-4f78-b3b5-1602a4c7e727;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://breadswapfinance.netlify.app/static/media/logo-black.633de643.png;https://pbs.twimg.com/profile_banners/1632055180840796160/1678012049/1500x500;https://t.me/Breadcompoundglobal;https://twitter.com/BreadCompound;;https://tinyurl.com/breadcompound;;;;"<p>Bread Compound is a decentralized protocol that runs on Core, enabling users to lend and borrow crypto assets without any third party. It is an algorithmic money market protocol that offers users an easy way to earn interest on their savings. Just like a traditional savings account, you can get an APR on your crypto holdings with Bread Compound.</p>
+";185;0;1116;0x9d911d7f1CeceA0Ff155be0681C6d7604F96392A;0x9E45a43D0032001381D909DF063B385B606571B3;0x29E130E1f83c00Fb0DF7ddc7CD506B2C900A6e00;1710306000;1678627404;False;False;BreadCompound;CBREAD;250.0;500.0;1.0;100.0;1678633200;1678719600;499.7000000000000002;140.0;70.0;70;True;True;False;True;IDO
+88c974b5-d829-442c-bc50-242f1b3c594e;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://www.bullcore.org/assets/logo-bullcore-down.png;https://raw.githubusercontent.com/dodechaedron/Labsbulg/main/dxsale-banner.jpeg;https://t.me/bullcoreglobal;https://twitter.com/bullcore_;https://discord.com/invite/bullcore;https://www.bullcore.org/;;;;"* **BULLCORE**
+
+*  **BIGGEST BUY EVENT**
+
+* 
+* 
+
+*** WINNERS WILL GET REWARDED **
+* **TOTAL PRIZE 600 CORE**
+
+
+* 1ST:150 CORE
+* 2ND:100 CORE
+* 3RD:70 CORE
+* 4TH:50 CORE
+* 5TH:30 CORE
+
+RANDOM REWARD : 200 CORE FOR 40 USER
+
+Bullcore token is a platform based on Core Blockchain technology and is designed to provide a decentralized solution for various types of interesting entertainment activities in the ecosystem and provide sustainable benefits for holders
+users have complete control over their assets and their activities on the platform, without a central authority controlling or manipulating the process.
+";184;0;1116;0xa5bE46599f0b1F230F9506cA5D248aF19858aB64;0x5F8D31A4a6405383b3E346b8F5EFe3b3B9050b0e;0x325bC2F14b25b8D67fe30b94D8e5DE6671C29d0f;1710154800;1678549820;False;False;BullCore;BULC;8000.0;16000.0;0.1;100.0;1678878000;1679482800;15999.99979989300000058;15625.0;15625.0;61;True;True;False;True;IDO
+afcec8e6-22a8-49e6-9b65-1e372b9d9082;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.postimg.cc/DyYB2TPL/1.png;https://i.postimg.cc/DyYB2TPL/1.png;https://t.me/Shikoku_core;https://twitter.com/shikokucore/status/1634522461570990080?s=46&t=mzUaTIv-VUfYu3uf4y4rug;;https://www.shikoku.io/;;;;"<p>important Notice:
+shikoku core/
+It is a core-based business project issued by 3 ETH shikoku holders,
+First of all, the team will work very hard on the business project. We first came to core to release the project from ETH. We prepared 200ETH, but the team has not seen the enthusiasm of core, so we have not changed all to core for the time being.
+We will conduct the first trial and conduct the first estimated pre-sale of 300core. And use small funds to gather a group of friends who love cryptocurrency, and then we get the love of the community and additional investment funds.</p>
+<p>Based on shikoku, the team jointly develops the core chain with the holders</p>
+<p>When the team sees the enthusiasm of the core chain, it will fully invest in supporting the core community</p>
+";183;0;1116;0xf800725B271E5770cDDE8507b527ae6bCCeFb403;0xE0cd50C9D2aE5cD4aeB2E04F99bCF14c0b87cA63;0x7502e1B9dD6Ec38DD009329AA92Ec829A5589A7e;1704081600;1678534526;False;False;ShiKokuCore;Shikoku;200.0;400.0;1.0;40.0;1678705200;1678716000;242.5799999999999999;1500.0;1400.0;51;True;True;False;True;IDO
+f3797911-5d87-4aa5-aec9-e20f4b84057e;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.postimg.cc/prRHLDdB/2222.jpg;https://i.postimg.cc/XYf9Z54z/QE34.png;https://t.co/PEqTtrKUr3;https://twitter.com/QE349;;https://qe34explore.com/;;;https://www.reddit.com/user/QE34/comments/11odj4r/welcome_to_qe34/;"<p>《QE34》is a story about growth. The content is to explore an open world with amazing expressiveness to learn about the history of the planet. In the game, you will cross an alien ball to carry out a deep personal journey, explore and explore ancient ruins, dilapidated buildings, and spaceships falling from the universe. At the same time, you will learn about the history of the planet's inhabitants and find its place in the world. In addition, the game well balances the three parts of exploration, collection and puzzle solving</p>
+";181;0;1116;0xbe01491d03cD83dC5392f019D427361F6DB8a33E;0x05a02540c2a2a41ea176BAa25DFfE3Db5350b649;0xB18D6756D836B0AaACe474daEAC9433636b3a63b;1684328400;1678527950;False;False;QE34;QE34;1500.0;3000.0;10.0;50.0;1678798800;1679058000;2452.6;5500.0;4950.0;51;True;True;False;True;IDO
+47381faf-b195-42d7-86e4-0f9cf0ee08e7;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.ibb.co/f4xw4NV/photo-2023-03-05-13-50-25.jpg;https://i.ibb.co/N97BhFy/photo-2023-03-10-12-34-16.png;https://t.me/Pokemon_core;https://twitter.com/PokemonCore0/status/1632370905912586240?t=KqrewEtFV7dSlwLxZw5RAw&s=19;;;;;;"<p>Pokemon(宝可梦)</p>
+<p>金色閃電的光輝，劃破黎明前的黑暗，現在一級市場深處黑暗的深淵，天空是黑暗的，大地是血紅的，希望皮卡丘的光輝可以讓我們一起度過幣圈這段黑暗的時光，衝吧！皮卡丘！</p>
+<p>Core开链遊戲大作！
+经典IP，皮卡丘来袭！</p>
+<p>🚀海外不斷營銷
+🚀QQ、電報聯動
+🚀三大公司知名審計
+🚀AVE平台頭像和熱搜</p>
+<p>代幣總量：100萬 預售30% 添加流動性30% 20%生態預留鎖倉2個月 NFT質押挖礦20%</p>
+<p>NFT總量：1000張</p>
+<p>機制介紹：買賣滑點10%
+2%銷毀
+2%營銷
+6%lp分紅</p>
+<p>口袋精灵網頁遊戲链接：预售结束前上线第一版(测试版)</p>
+<p>預售模式：白名單預售 參與預售20core 獲得寶可夢NFT一張 後續生態將圍繞NFT展開</p>
+";170;0;1116;0x6b43656C1B3E23e5984eB484b7AD526B8521f347;0x57a8BD71B86a2C39d872cCF8904ee6b0072C0871;0xC495B8c1f2b1736Be0a2e30eED520031bB888888;1682935380;1678184330;False;False;Pokemon;PKM;1500.0;3000.0;1.0;30.0;1678456800;1678543200;2999.2;100.0;100.0;51;True;True;False;True;IDO
+222354a5-5ce2-45c4-a9a1-920ad97f579e;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://images.freeimages.com/images/large-previews/794/carnival-1142054.jpg;https://images.freeimages.com/images/large-previews/00c/fair-and-fireworks-1605273.jpg;;;;;;;;"<p>This is a fair test</p>
+";167;11;1116;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0x6FF067b51EC55110d587eE5d403bb082cA264dC8;0xed29853886a64C746eb1951b80C623dB334E8d7c;1682878680;1678130475;False;False;FairScore;FSC;2.0;0.000026;0.1;5.0;1678130749;1678131349;6.0;0.000004333333333333;0.000025;51;True;True;False;True;FAIRLAUNCH
+2135cf1b-41a4-43b5-b176-818b9473a136;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://stake.coredao.org/images/icon.png;https://mentorslinks.com/wp-content/uploads/2022/09/Satoshi-Core-Mining-Exchange-Cashout.jpg;;;;;;;;"<p>this is a test</p>
+";166;10;1116;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0x3448713e039afd8BE1052091799F2dD22f569734;0x32ee19ace8E37AD6FDD9292E6D0Fe0E937a21b94;1682876880;1678128663;False;False;coreS;CRS;5.0;10.0;0.1;10.0;1678128872;1678132112;10.0;0.000002;0.00000199;51;True;True;False;True;IDO
+e528878d-a5dc-4cb7-acc7-32018e3a7286;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.ibb.co/xYSTM6w/logotext.png;https://i.ibb.co/Qmzkqkn/11.png;https://t.me/rice_pro;https://twitter.com/protocolrice;;https://core.riceprotocol.org;;;;"<p>Increase your Financial By trade, earn, and win crypto on Rice-Swap Exchange.
+51% LP lock on Icecreamswap for 2 months and 35% lock on Riceswap. All liquidity (in Icecreamswap) will transfers to Riceswap after 2 months.</p>
+";163;1;1116;0x0207F944C39FB5e272f0A03783AC106F5466a77b;0x051d36801210D50503630cc82Dc4477Bb141a5a6;0xA5d20d84deeEd3850a7538e993E3b2592bf997A0;1683349200;1678122444;True;True;Rice Token;RICE;5000.0;10000.0;1.0;100.0;1678262400;1678953600;172907.0515134279999993;8.675181184750638507;765000.0;51;True;True;False;True;OVERFLOW
+ad74bad9-c032-45dd-b2f7-9faaa3c812a6;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.imgur.com/8umVcPp.jpg;https://i.imgur.com/JcpgIZz.jpg;https://t.me/CorezillaCZ;https://twitter.com/corezilla83;;;;;;"<p>Corezilla, meme coin community driven with autoburn and reflection mechanism. This is a memetoken project with token utility on Core Mainnet.</p>
+";162;2;1116;0x32c6494e1030C6FBd69c648C12DCa22142C9aC19;0x9FC0d2a78C518f1DF3d3739501b5c0074c4a1a24;0x1dAE0f16307Ea40fCC34bB1aF56B9e94A984793C;1683410400;1678121076;True;False;CoreZilla;Czilla;250.0;500.0;5.0;25.0;1678121421;1678219200;500.0;8000.0;13000.0;65;True;True;False;True;IDO
+e93c790c-f8c3-4e81-ac37-6cb5f92bdb7d;2023-04-24T18:30:22.123Z;2023-04-24T18:30:22.123Z;https://miro.medium.com/v2/resize:fit:770/1*7y6RMXb3cG9_BnSESpoLMw.jpeg;https://miro.medium.com/v2/resize:fit:770/1*TbJA56JRa9276erauw9Fpw.jpeg;https://t.me/Miniarbi;https://twitter.com/MiniArbitrum;;https://miniarbi.com;;;;"Welcome to the world of miniArbi
+
+MiniArbi strives to become the true community coin of Arbitrum to be used far and wide across the many great dApps of this flourishing ecosystem. MiniArbiwill not sit in the hands of VCs, instead, it will be held by those that form the social layer of this formidable network.";38;0;42161;0x966ECaab8f734Ee01A2AE890939b1347D6CA9c24;0x1D4BF2Bac7e1982Bbc835D08F37cFDd14Fd7E958;0x586E79aA192c97CB2A4D7bAdC41e89130aa4F835;1841125320;1678008769;False;False;MiniArbi;MARBI;4.0;1500000000.0;0.02;0.2;1678039255;1678125600;4.011;373971578.160059835452505609;1500000000.0;80;True;True;False;True;FAIRLAUNCH
+a915f8d2-9e73-4d10-956e-49e58b09b65f;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.imgur.com/H5NLayD.jpg;https://i.imgur.com/KIH8ft7.jpg;;https://twitter.com/archerswapcore;;https://archerswap.finance/;;;;"<p>ArcherSwap is a crypto world for users to trade, earn, and game. It's the best choice for projects on Core Chain with features including AMM, NFT, and GameFi. We are stealth launch on Dxsale, this is a gift for users of DxSale, our big partner , buy and chill ❤️❤️</p>
+";137;1;1116;0x44F34BC3bb1d0A96B64CD3Fa70Ac533B5E587E21;0x9472c12e9752e7Ac0646Db158555397c817A387e;0x0eC34dd486686dB736b01C185f3Bb9B471Abb56e;1699605420;1678005587;False;False;ArcherSwap;BOW;200.0;0.000315;0.05;300.0;1678006227;1678013427;212.3500000000000003;0.000001483400047092;0.000315;80;True;True;False;True;FAIRLAUNCH
+2d8e2aa7-891b-4ad7-bbc2-442a0552a068;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.imgur.com/mkii5sp.jpg;https://i.imgur.com/dasLfk1.jpg;https://t.me/rabbitcorefinance;https://twitter.com/Rabbits_Core;;https://www.rabbitcore.finance/;;;;"<p>Rabbit Core is a collective of builders, products, and mutually beneficial ecosystems governed by $RBC token holders.</p>
+<p>Rabbit Core applies a protocol-driven validator election mechanism to combine the optimal features of Proof of Work (PoW) and Delegated Proof of Stake (DPoS) in order to ensure the maximization of security, scalability, and decentralization.</p>
+";131;1;1116;0x5f4D7DC9adff762723Ab922109807AB90e2e52Ba;0xc1dC288DCdbb2BdA390426cFF422260ac72f7B9c;0xf46346B737bA8E4e36d2D3A0f9593C083df92E83;1686112920;1677991685;True;True;Rabbit Core;RBC;2000.0;4000.0;10.0;60.0;1678114800;1678201200;3999.0;0.000000012;0.000000011;60;True;True;False;True;IDO
+6563b04e-b59d-4425-8801-db40299dd8d0;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.imgur.com/LS5pSZn.png;https://i.imgur.com/ZavS6hU.jpg;;https://twitter.com/PiCore_;;https://picore.art/;;;;"<p>➡️Pi is ready to launch on coredao⬅️</p>
+<p>We are not official Pi
+but we have community 😍😍</p>
+";129;0;1116;0x0BbFcBdBE73Deb3d2Ff9e0054ffe2f63714d526F;0x97E98f6c03E7c055089951B8610BAE1dc64bB29E;0x9d995BA9e797f48C498DA08E3B7c74A40AfA17A0;1693846800;1677978977;False;False;PiCore;PiCore;150.0;0.2777777775;0.1;500.0;1677979800;1678042800;180.59;0.001538168101777507;0.20555555535;71;True;True;False;True;FAIRLAUNCH
+c6849f95-b774-4e61-a871-fd6ec92ebf85;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.imgur.com/waRYLOH.jpg;;https://t.me/coremusicagency;;;https://www.coremusicagency.com/;;;;"<p>Core Music Agency is a wholly owned, licensed and bonded talent company, representing a diverse roster of composers who create bespoke music for film, television, and video games.</p>
+<p>Founded in 2007 by former film composer Ari Wise, Core quickly became an industry leader, representing composers from coast to coast, in Canada and the USA. To date Core has negotiated over 1400 scoring contracts for 150 theatrical features, 600 TV movies, 180 seasons of episodic television, 150 documentaries, 16 video games as well as hundreds of pilots, shorts, network &amp; series theme packages, web series, commercials, industrials, installations and live theatre projects.</p>
+<p>We’re here to make the business of film scoring easier. Talent agency license BA-2022-070008.</p>
+";122;0;1116;0xf6699AAd79f8FdF0c8E37a86cB196257F97c5B6b;0xAd35572F3844487365dcf9b456DAeaa89Eb9ff3E;0xD303e4A14313De0e41fb07F5FC8921CFFd851A6F;1682789040;1677950876;False;False;Core Music Agency;CMA;20.0;150.0;1.0;20.0;1677952800;1678028437;31.0;806451.612903225806451612;14000000.0;51;True;True;False;True;OVERFLOW
+1894f915-3d75-41f5-8492-5a794ff44afa;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.imgur.com/RwtSW8x.jpg;https://i.imgur.com/C4IIQa1.jpg;;https://twitter.com/Rabbits_Core;;https://www.rabbitcore.finance/;;;;"<p>This is a fair pre-sale for the community</p>
+<p>stealth launch
+I will not publish on the main group</p>
+";119;0;1116;0x8c15F6E385A40AB2bB41975D89cC20696725Bb94;0x6e190EEDc4d4F060AfB832E504Bc822618778A25;0x86febCa894AA12436010f91DBB3b1b5d6a5F1fEe;1686412800;1677948668;False;False;RabbitCore;RBC;100.0;0.046;1.0;100.0;1677949140;1677954600;131.5;0.000349809885931558;0.045;70;True;True;False;True;FAIRLAUNCH
+e0406469-c94c-4af2-af96-afc92f464b8d;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://imgur.com/aiTuPpT.png;https://imgur.com/ofgk0v6.png;https://t.me/Dog_Core;https://twitter.com/DogCores;;;;;;"<p>Dog Core aims to solve this problem by enabling these groups to have access to a safe, SAFE and completely decentralized finance that will bring the power of wealth back to the place. it belongs – In the hands of the investor. Through harnessing the full potential of the community, decentralization and Power of the CoreDAo Blockchain.</p>
+";118;1;1116;0x365840EC73BF09644Bd17e7F55B768ddf0bDB67e;0x5Aa406aE24A8E1dd7095ce9A059A2AAF96FFC6AA;0xC71282c833240fa028bC2c4D78Ce98284a5e76d3;1691211600;1677946751;False;False;DogCore;DogeC;500.0;0.0025;1.0;99999.0;1677949200;1678078800;634.0;0.000003943217665615;0.0051;100;True;True;False;True;FAIRLAUNCH
+201310de-d10d-4d2f-8376-3ff59ebee283;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.imgur.com/A3IRZOd.jpg;https://i.imgur.com/95umoQT.jpg;;https://twitter.com/archerswapcore;;https://archerswap.finance/;;;;"<p>ArcherSwap is a crypto world for users to trade, earn, and game. It's the best choice for projects on Core Chain with features including AMM, NFT, and GameFi.</p>
+We are stealth launch on Dxsale, this is a gift for users of DxSale, our big partner , buy and chill  ❤️❤️";116;0;1116;0xf1a5f3355EBa554030A0Acc6e218334F40A9103e;0xE9Eede8F92457884904907528c89387c8b21b43C;0x2EAA073E2f923ab116E9C1601CdC61dC7ca42FFF;1697702820;1677942914;False;False;ArcherSwap;BOW;100.0;0.0045;1.0;350.0;1677943200;1677954600;422.0;0.000010663507109004;0.004;90;True;True;False;True;FAIRLAUNCH
+a4f2f68f-9830-4ced-a051-a9cd541f30f3;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.imgur.com/J82LJ51.jpg;;https://t.me/coreceox100;;;https://t.me/coreceox100;;;;"<p>CoreCEO - a Meme token in the CORE ecosystem, 💥 $cceo is comunity-driven cannot controll by anyone 💥 We will do our best With the support of the community, certainly that the Core Ceo meme Will be famous around the world has the same chance of succeeding as Doge, Shiba, Floki and more. 🟢 Renounced Ownership 🟢 100% $Core from presale will buyback and Burn 💥</p>
+";111;1;1116;0x61490287Fe4A596D04f1Ef0d04B70651f1d1d232;0xf63698a62a4A3Ed95d718e5eE0cE8d3F8Ec17c65;0x157eca1Ce2186Fa7229aBcD84652035C162f76b3;1688134920;1677940034;False;False;Core CEO;CCEO;20.0;200.0;2.0;10.0;1677943800;1677947428;540.2000000000000003;92558.311736393928123347;25000000.0;51;True;True;False;True;OVERFLOW
+3cd66509-8e23-42f4-b0ac-5662f593a167;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://bladenonline.com/wp-content/uploads/2019/12/scam.jpg;;;https://twitter.com/Panda_Ecosystem;; ;;;;"Exciting news for the community!
+
+We are thrilled to announce that Pandasale has successfully integrated #CoreChain.
+
+🚀 Stay ahead of the game and discover the latest projects launching on the #CoreDAO ecosystem with us.
+";100;0;1116;0x12aAF02Af5c8e87813F0f2719A6B4057c9852839;0x0119f5f152b6f0e23e5375015106E594F921DeaA;0x6a1Db7e81BAFd39a8ACE83C6928A5DE92015B39c;1688965200;1677924854;False;False;PandaSale;PandaCore;50.0;0.5;1.0;200.0;1677925800;1678028400;52.0;0.009615384615384615;0.44;90;True;True;False;True;FAIRLAUNCH
+9aa57cf1-0d04-444b-9604-fa70626dc972;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.imgur.com/f2zq43G.jpg;https://i.imgur.com/9pafY5T.jpg;https://coinhunt.cc/coin/6400cf76807c65db5fd323bc;https://twitter.com/ShazamFinance;;https://shazam.finance/;;;;"<p>Shazam Swap is a ve(3,3) permissionless liquidity market, community oriented on CORE.</p>
+";99;1;1116;0x9ada861F2c87958adF28f5cB52a24625ea166dB2;0x7a054c5b6574096AaE495EdD97125b97C1e388eB;0x49E10165C1E5C206A13A2B6b3c780e2849aDe79d;1691662140;1677924755;False;False;ShazamSwap;Zam;30.0;0.5;1.0;500.0;1677925538;1677956340;41.4;0.012077294685990338;0.36;71;True;True;False;True;FAIRLAUNCH
+814826f9-34c2-4a9c-aecb-86c8663f159f;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.postimg.cc/Hk1VQBt7/f21af65dd20845fe80d46358bf44c384.jpg;https://i.postimg.cc/Hk1VQBt7/f21af65dd20845fe80d46358bf44c384.jpg;https://t.me/+HAqCntSZjb5lYjI1;https://twitter.com/Nuclearbombdog;;;;;;"<p>Nuclear bomb dog focuses on core ecological development position 2000 nuclear bomb dividend shadow coin</p>
+";95;0;1116;0x75717eCa94Ae4729C31Df9A7dE50fbE24e468950;0x1d63d8dbba9dEaE7d8b7391452cEBaD0a606b7F5;0x5ce0EE963a88A2B67907cEd663eC3B5196888888;1709611200;1677911249;False;False;Nuclear bomb dog;NBD;300.0;600.0;1.0;20.0;1677911415;1677988800;600.0;100.0;65.0;60;True;True;False;True;IDO
+f2c91785-8a35-40cc-afd5-1129c3fa7107;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;;;;;;;;;;"<p>Rewarding 10%</p>
+";92;0;1116;0x8f166eEF50730281b66B38bf307529Dc977465E3;0xBa79ea153149c48eB61ccEa0300B396c58085363;0xde62f8505432aFF287147FeB42ECd698EA5a239f;1682826240;1677901655;False;False;safemooncore;Safe;10.0;200000.0;3.0;100.0;1677901816;1677918616;42.0;4761.904761904761904761;30000.0;51;True;True;False;True;FAIRLAUNCH
+48ec90ee-e15f-4239-92da-d43012bbdc2f;2023-04-24T18:30:22.123Z;2023-04-24T18:30:22.123Z;;;;;;;;;;;37;2;42161;0xCe6D51588E4761f31d02eE532e7F51E4014E0962;0x19BB294a222c05A67e66c9fB783a29D0a7aaB246;0x3163480f09a69460223c688968F6774661E5323E;1682824500;1677900438;False;False;te;tes;0.01;0.1;0.001;20.0;1677900569;1677901529;0.01;13000000.0;150000.0;70;True;True;False;True;OVERFLOW
+590075ed-3a85-445f-b90c-510726899e40;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://cdn.pixabay.com/photo/2013/07/12/18/18/phoenix-153236_1280.png;https://cdn.pixabay.com/photo/2017/02/15/20/33/floral-2069810_1280.png;;;;;;;;"<p>TEST SALE</p>
+";84;2;1116;0x9De1E979c1afEe14764eAED4573C7F40d7A8e395;0x91c4513f04927908545D026b679B46FC9602f5f7;0x12E8C4046763C6092Fa38A720704834470b379BB;1682888940;1677881888;False;False;RISE TOKEN;RISE;5.0;7.0;1.0;5.0;1677882020;1677883220;11.1000000000000001;0.000000225225225225;0.0000024;51;True;True;False;True;OVERFLOW
+6f72f516-d72f-4804-89b9-0dce4cc54817;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://cdn.pixabay.com/photo/2012/05/04/10/17/sun-47083_1280.png;https://cdn.pixabay.com/photo/2014/04/02/17/00/rainbow-307622_1280.png;;;;;;;;"<p>Happy</p>
+";83;1;1116;0x9De1E979c1afEe14764eAED4573C7F40d7A8e395;0xa71Df5e508cdE8712F3F4dC14756dc65181D60Bc;0x3542C0007287851455343ab9785d156fD22D83C9;1693521000;1677872486;False;False;HappyCore;HAPPYC;2.0;20.0;0.1;5.0;1677873037;1677875437;3.4;0.000076470588235294;0.00025;70;True;True;False;True;OVERFLOW
+3280eeb5-4f39-4e04-bf33-f2f97577abce;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://cdn.pixabay.com/photo/2016/09/14/16/44/emoticon-1669804_1280.png;https://cdn.pixabay.com/photo/2017/09/18/17/32/smilie-2762568_1280.png;;;;;;;;"<p>All emos in one</p>
+";82;0;1116;0x9De1E979c1afEe14764eAED4573C7F40d7A8e395;0x1Fe1866b17d9a8F78477CF2d9502e4556395EFc4;0xA05d554Df6b60c203e1d405E5fe6A185165E00e1;1685554200;1677867509;False;False;AngryCore;ACR;2.0;20.0;0.3;5.0;1677868225;1677871825;20.9;0.000002392344497607;0.000048;82;True;True;False;True;OVERFLOW
+a9ee8f59-f83e-4b30-bdc9-e4b887a730b0;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.imgur.com/r4aWlbu.jpeg;https://i.imgur.com/BasCY9w.jpeg;TELEGRAM;TWEET;test;WEBSITE;GITHUB;;REDDIT;DESCRIPTION;79;9;1116;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0x199814C2575147fb1D8E47f8c2b28937aB73F681;0x45fb3819F52e6563fab7509775Af02E989A2F571;1678859408;1677856757;False;False;overMoon;OMO;1.0;0.00001;0.1;2.0;1677856808;1677859408;19.4;0.000000515463917525;0.00001;80;True;True;False;True;FAIRLAUNCH
+6a0bbdb8-e13a-471a-93c2-3a1d2d3b756f;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.imgur.com/ccbpqng.jpg;https://i.imgur.com/5GNgolC.png;;https://twitter.com/BabyCore_coin;;https://babycore.xyz/;;;;"<p>BabyCore
+BabyCore
+BabyCore
+BabyCore</p>
+";77;0;1116;0x1C9f7DE3084E323d1c625a30E28b1Db46bE11193;0x4Ce9bb6F48b124E4bf440F1B981Dabd999BD5EfD;0xC306A265bc3bd453133fb2B467d671E92646Cf54;1683122160;1677851873;False;False;BabyCore;BabyCore;10.0;0.45;1.0;1000.0;1677852335;1677859835;69.9;0.006437768240343347;0.46;70;True;True;False;True;FAIRLAUNCH
+152e76b6-3810-4bf0-9bad-ef3eb6370edc;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://www.linkpicture.com/q/IMG_20230303_132811_644.jpg;;https://t.me/corefrog;https://twitter.com/corefrogtokens;;;;;;"<p>🐸 Core Frog 🐸
+COREFROG is a community token that resides on the CORE NETWORK. With COREFROG we are confident that we can bring joy and happiness to all investors in the future. Let's build a strong community in CORE.</p>
+";75;0;1116;0xc8c5Ba33cD12182Fa3a91D45dBff9224bfa47Ca1;0xFBcc2670B2aF29D2b88eEaa7459f119164362e5E;0xdeF4d53903279C0FFcc7e9ab7A186de2955237C0;1682145360;1677847430;True;False;CoreFrog;CoreFrog;100.0;4000000000.0;1.0;5.0;1677847537;1677855637;499.7;8004802.881729037422453472;5300000000.0;95;True;True;False;True;FAIRLAUNCH
+b1454151-aa76-4a98-99df-cc271342f0ff;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;;;https://t.me/Corep2;;;;;;;"<p>Building decentralized p2p community</p>
+";70;1;1116;0xC00e6adEF85532c667D0075f942C7D763b335bc5;0x491aC15ae2a0622CdF3E22fa66c664B2EA23aFb7;0xF4F04D3a3DbA673997477C65Ce0AaFB7FF20b8F0;1711962120;1677835505;False;False;corep2p;corep;5.0;160000000.0;1.0;50.0;1677835848;1677839448;11.0;14545454.545454545454545454;40000000.0;80;True;True;False;True;FAIRLAUNCH
+24335e23-64a3-4c1f-9e9a-427cb80f1b4c;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.imgur.com/VgSLUhL.gif;https://i.imgur.com/nC2ex6G.jpeg;;;;;;;;;64;0;1116;0x47BAcf935066b802EAA0067eC14AB035B24eB78b;0x99fAA29A1D66bE12D86E8441D2Ff9269c81E13F0;0x4e9E77450e5b9a87acEFBa32f8E8955Db5b0b31E;1688098440;1677820706;False;False;masterMoon;MM;1.0;0.000174;0.1;5.0;1677821156;1677822356;4.1;0.000042439024390243;0.000168;79;True;True;False;True;FAIRLAUNCH
+ff28405f-317b-4c65-a0fa-320795d417f5;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;;;;;;;;;;;62;6;1116;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0xA482A07028A8C43312128920870328071CF116ff;0x72dea0FBF623EDEfC03D8e8aa16bb6a23Cb75A74;1685244780;1677818438;False;False;coreStarter;CSR;1.0;2.0;1.0;2.0;1677818734;1677904380;2.0;0.000005;0.0000045;70;True;True;False;True;IDO
+095ce446-c277-402f-aee2-7e6caf0730ce;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;;;;;;;;;;;61;5;1116;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0xe004f2420f978eB63464627a8920067D995E6Ab7;0xc4a51c393b70A839819130c2f1Eb6a5Cb59Da4ad;1688179980;1677815684;False;False;coreOver;CVR;1.0;2.0;0.1;2.0;1677816441;1677817281;2.0;0.00001;0.00001;70;True;True;False;True;IDO
+a7762945-8cda-41b4-b60b-3a7fecedbfd0;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.epvpimg.com/9Rdsfab.jpg;https://i.epvpimg.com/OaVreab.gif;https://t.me/pandakingcore;https://twitter.com/Pandakingcore;;;;;;"<p>PANDAKING 👑 - a Meme token in the CORE ecosystem, 💥 PANDAKING 👑 is comunity-driven cannot controll by anyone 💥 We will do our best With the support of the community, certainly that the PANDAKING 👑 Will be famous around the world.
+PANDAKING 👑 empower core ecological innovation, with ultra-low pre-sale price, with a quota of 1-10core per person, no big family, no giant whale, and the market opened on time on the morning of 3.3, and the community will lose its rights when it goes online.
+🟢 Renounced Ownership 🟢 50% PANDAKING 👑 from presale will buyback and Burn 💥 and extra will enter the black hole once trading starts.</p>
+";58;0;1116;0xFf226cfEDB1f6B74d8AeBb7Db691021b156068A0;0xCd952F4E6cb420d9F5dDc976A530bcb4F9e8546c;0xD980561796308c9CCD5CFC1BAF0384Ae6a5b382B;1682679600;1677801998;False;False;PANDAKING👑;PANDAKING👑;200.0;400.0;0.1;10.0;1677841256;1678100400;400.0;800.0;800.0;70;True;True;False;True;IDO
+4554817f-f1df-46f6-a36e-d7beaf4813de;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.imgur.com/SgEEScU.jpg;https://i.imgur.com/UVcIaBY.png;;https://twitter.com/BabyCore_coin;;https://babycore.xyz/;;;;"🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+BabyCore  🚀🚀  To The Moon
+🚀🚀🚀🚀 BabyCore 🚀🚀 🚀🚀 
+🚀🚀 Dont Miss🚀🚀 
+";56;0;1116;0xD0c79A126c11930e5E1735cC7562f96AAAd3ED9c;0x69678760546f96a307c54adDa37A2f7FDA0D7E17;0x44B3953Db8B28d3B5BD59590BcF303467933a81C;1683125820;1677769346;False;False;BabyCore;BabyCore;100.0;0.49;1.0;100.0;1677772800;1677859200;486.3;0.001007608472136541;0.47;70;True;True;False;True;FAIRLAUNCH
+7c1c918a-ff5d-474b-bc15-6a952739c065;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;;;https://t.me/ShareRevenue;;;https://augustineokenwamon.wixsite.com/sharerevenue;;;;"<p>ShareRevenue gives you value on your investment over time.
+After studying the high volatility in crypto market which makes it hard for so many investors to leverage the market, ShareRevenue team has come up to help investors to make a guarantee two percent from trading fee.
+Part of the trading fee will be used for buyback in order to reduce volatility.</p>
+";55;0;1116;0x6176e018d9ee16007408B121a2C77ae813F302AF;0x216136799eFaA20Bf1Cba23Be26d8881c3D354D6;0xf075297aA82f2f33fe76B266781c23390e5Fc2e5;1682895600;1677766100;False;False;ShareRevenue;SR;5.0;150000000.0;1.0;50.0;1677766500;1677874500;21.0;7142857.142857142857142857;50000000.0;60;True;True;False;True;FAIRLAUNCH
+225d26a0-3ff0-43bd-acf9-ad98ab348517;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.postimg.cc/3xLwhXXb/CORE.png;https://i.postimg.cc/sxcJDHDh/photo-2023-03-01-23-37-13.jpg;https://t.me/valorswapportal;https://twitter.com/ValorSwap;https://discord.com/invite/UnZeYnTCFH;http://valorswap.com/;https://whitepaper-media.gitbook.io/valor-swap/;;;"✅ **VALOR Swap **✅ is a project on CORE CHAIN that provides an opportunity for all holders to grow their assets with good rewards, in the sustainable fixed compound interest model of the Trinity Protocol. VALORSwap has the highest fixed APY, on farms; buy and hold these tokens and grow your $VALOR portfolio directly in your wallet!!
+";54;2;1116;0x4C20B20262B54984b2d959bF63d26255CD5b8E6B;0x2A7C84ceCACb39C3a820f7eDD6d15E07907537aF;0xB6EDA73cb42B213d0432BF1e9Ad9627F69A9E233;1682949060;1677765239;False;False;Valor Swap;VALOR;1250.0;2500.0;0.1;20.0;1677772810;1677945600;2499.99999999999999976;140.0;140.0;51;True;True;False;True;IDO
+ea742a24-c5bb-4e3f-a764-194e75c3558e;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://res2.yourwebsite.life/res/63f55a046388b6000d70a4ce/63f55b36c5d512000d580d7a_optimized_144?nowebp;https://res2.yourwebsite.life/res/63f55a046388b6000d70a4ce/63fbf4eda00595000d0e1a44_optimized?nowebp;https://t.me/flashxmax;https://twitter.com/CoinFlashx?t=OVmM2KhDjb2Py4nd9FdqZA&s=09;;https://flashxmax.net/;;;;"<p>Flash X Max is the fourth-generation of Flash X Coin Project that aims to combine decentralized finance  with gaming and play-to-earn mechanics. The platform utilizes AI and blockchain technology to create a unique ecosystem where users can earn cryptocurrency while playing games.</p>
+";52;2;1116;0xd21905F3A5080D854564673D2504025bB16cDAaa;0x8E4759C7370b745EB2bD7a904e85787067f6e592;0x5aE225fa6573903CA58E26Cd4171B87060CeEAA2;1709628120;1677747599;True;True;FlashX Max;FSXM;2000.0;10000.0;1.0;30.0;1677841200;1678100400;12077.1408011810000008;24840.316506922200177168;200000000.0;65;True;True;False;True;OVERFLOW
+06e1e719-88cb-4b3b-9296-6b0abceea3a7;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.imgur.com/74Ay9QA.jpeg;https://i.imgur.com/VotqC9r.jpeg;;;;;;;;;51;3;1116;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0x93aC204d4F084735F6bf6Da866E5C317E8Fd8172;0x6b7373F298659D29B31ED61D868224832037D190;1685590800;1677732197;False;False;sunCore;SCR;0.5;1.0;0.1;1.0;1677732329;1677733169;1.0;0.00001;0.000009999;87;True;True;False;True;IDO
+0cad789d-81af-41ab-a29b-6030626eab20;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://imgur.com/3SO9buG.png;https://imgur.com/BDeAyff.png;https://t.me/CoreDaoWallet;https://twitter.com/Coredaowallet;;http://corewallet.site;;;;"BIGGEST BUY EVENT
+
+5 WINNERS WILL GET REWARDED
+
+1ST:150 CORE
+
+2ND:90 CORE
+
+3RD:70 CORE
+
+4TH:50 CORE
+
+5TH:30 CORE
+
+Team holds 3% tokens ✅✅
+
+The total amount of fair launch sold will be added to the lp🔥🔥
+
+🚀🚀CoreWallet is that user privacy and security is our top priority at the Core network. Unlike traditional crypto wallet applications, CoreWallet does not store any user data on the server. Instead, all data is securely stored on the user's own device, ensuring that only the user has access to their sensitive information. Our application is designed with the most advanced security features to protect users' assets and personal information. We regularly update our security protocols to stay on top of potential threats. With CoreWallet, you can trust that your assets and personal information will always be kept safe and secure.🚀🚀";48;0;1116;0x1dBE61462936398Ca97D44aa3adbb748545D541C;0xb334D8c3ae4B8368d97da94c0fe1A4100fdC0ABD;0xE3236dbF156e3B1818D24f8bB9b23813adC54bB3;1735668780;1677695984;False;False;Corewallet;CWL;200.0;0.47;0.1;10000000.0;1677696319;1677887100;10805.4304491000700004;0.00004349664756198;0.48;91;True;True;False;True;FAIRLAUNCH
+6192dad5-cb76-4db4-ba61-e0c505db7e30;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://pbs.twimg.com/profile_images/1515314479596245000/WEkrgO5N_400x400.png;https://pbs.twimg.com/profile_banners/4912870574/1640563251/1500x500;;https://twitter.com/CSGO500;;https://500.casino/en/;;;;"<p>🔥 The Hottest Crypto Casino</p>
+<p>🎰 Originals | Slots | Live Games | Sportsbook</p>
+<p>ℹ️ 24/7 Support</p>
+<p>⚡ #BTC #ETH #LTC #USDT #SOL #CORE</p>
+<p>🏆 Industry's Most Rewarding</p>
+";41;2;1116;0x548568AD9047E59f68aAa5D9c5E971378B5F0755;0x2D22fb0d1125705a8302A94C7C465CdFA3397856;0x67510Ec4d6652fCb79b8EFb212Dd7EA12D0F6464;1743430440;1677680234;False;False;500 Casino;C500;100.0;0.000051;10.0;50.0;1677680583;1677734040;276.0;0.000000184782608695;0.000026;70;True;True;False;True;FAIRLAUNCH
+3c98df8a-323e-4c64-a72b-be28ea434bbf;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://www.linkpicture.com/q/png_20230228_125531_0000_1.png;https://www.linkpicture.com/q/photo_2023-02-28_13-05-47.jpg;https://t.me/corgicore;https://twitter.com/corgicore2023?t=mG_L5MXi0XO9MRS650c-RQ&s=09;;https://corgicore.net/;;;;"<p>Corgi Core is the cutest and aiming to be a number one meme and community driven token under core blockchain. Corgi Core aims to create a decentralized ecosystem that allows for peer-to-peer transactions and incentivizes community participation through various mechanisms, such as staking and rewards.</p>
+";37;1;1116;0x6fFE70E220B75D36d1dbc3B4f790c8e1188C7b58;0x031947FAfe698dc98dB27DdcCB282B6e8C2F24A7;0x3DC50699836Ee4B41fe4E9566DbD8475cC68fa2f;1709265600;1677647534;False;False;Corgi Core;COREGI;1000.0;2000.0;1.0;25.0;1677668459;1677841200;1999.999999999999999;0.00025;0.0002;60;True;True;False;True;IDO
+d2dfa3ba-ea14-4609-a0c3-5b11873cf61e;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://www.linkpicture.com/q/20230301_085406.jpg;https://www.linkpicture.com/q/20230301_085253.jpg;;https://twitter.com/OMMultiverse;;https://multiverse.com;;https://www.youtube.com/watch?v=u4sEh7sdOZc;;"<p>At One More Multiverse we're making the next generation of tabletop RPGs. We are a group of passionate game devs, engineers, designers, storytellers, and artists. Our goal is not only to build a totally new kind of platform, but also a new kind of game company.</p>
+<p>We want to be good people that make great games. That means walking that tough line of holding ourselves accountable and pushing ourselves, without burning out. We build our culture to be a place where we want to work. We will continue to build a diverse team, and give them incredible opportunities, room to grow, and strong support.</p>
+";34;0;1116;0x4cbb4af6eF5e86B11A0E9992E71E86136F066C7b;0x71dd0fD51C7c49A438A3B48CbC0e0b340e42e3e5;0xdBEF940d27E0fa7143e926b105699D50B9bCB7Af;4102419600;1677636335;False;False;Multiverse AI;MultiAI;1000.0;21000.0;1.0;10.0;1677646800;1677733200;1440.82;14.575033661387265584;21000.0;100;True;True;False;True;FAIRLAUNCH
+f604cc19-85ba-4f2a-bdff-8d091a3fe826;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.postimg.cc/tTtShqkX/image.png;https://i.postimg.cc/TYP7DXD6/image.png;https://t.me/dogecoreportal;https://twitter.com/DogeCoreTW;;https://www.dogecore.xyz/;;;;"* BIGGEST BUY EVENT
+
+* 5 WINNERS WILL GET REWARDED
+
+* 1ST:100 CORE
+* 2ND:70 CORE
+* 3RD:50 CORE
+* 4TH:30 CORE
+* 5TH:10 CORE
+
+DogeCore is a community-managed project aiming to introduce individuals to the CoreChain universe through its lighthearted mascot, DogeCore! With a carefully designed system that strictly limits individual holdings, DogeCore seeks to promote decentralization and widespread adoption.
+
+At the same time, DogeCore capitalizes on the potential of memes and content creation driven by the community to increase understanding and knowledge of the CoreChain realm. Acting as a companion, DogeCore is here to guide all CoreR on their journey of exploration and discovery. There will be NFT, staking and Dapp integration  ! 
+
+From the start, DogeCore was designed to support a large number of smaller token holders, who will all participate in and benefit from the growth and development of the DogeCore Community. All projects and initiatives will be community-led and will result in additional value being brought into the DogeCore and CoreChain ecosystems. Everyone is welcome to join the community and help it grow!
+";31;2;1116;0xBe604B3E57354687546e999a66232358CdB29D05;0x21f8947E877D27cEA568Ae666Cc4D80576345634;0x8063F3ff48B24cAe82DbA04D24D11b8A3B9A087c;1685651940;1677620489;True;False;DogeCore;DCORE;200.0;48000000.0;10.0;200.0;1677620701;1677706740;2102.0;22835.394862036156041864;48000000.0;70;True;True;False;True;FAIRLAUNCH
+ef896235-b8ac-454f-8b22-00b3f15fbca7;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.imgur.com/d1JHPRq.jpeg;https://i.imgur.com/rvkL7dT.gif;;;;;;;;"<p>This will take the core to MOON!</p>
+";28;2;1116;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0x84228F895e3d25EDecD9b14669CcCcF4553c03F7;0xe609F4a0563A830E503A194b52575b12BB097194;1685549280;1677604253;False;False;coreMoon;CM;1.0;2.0;0.1;2.0;1677604379;1677607739;2.0;0.000002;0.0000019;90;True;True;False;True;IDO
+0a2ae565-15a5-45d4-95ca-cdf6a33426ae;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;;;https://t.me/Tradingshare2;;;;;;;"<p>Tradingshare aims to give investors value for their investment through revenue sharing generated from trading fee.
+Team will use part of the trading fee to buyback.</p>
+";27;0;1116;0xe3DB8eD208B8b6102E75Dd621FE2619d850cD535;0xe28eE248BCBa3DDD871a15035805c9BF06F4ea74;0xF4eb3e4907aC27d7a5C54f30294E6a426222D42D;1698854280;1677601547;False;False;Tradingshare;TS;50.0;50000000.0;1.0;30.0;1677625200;1678341600;71.0;704225.352112676056338028;26000000.0;52;True;True;False;True;FAIRLAUNCH
+fb73a3fe-86d9-403a-9fa8-0080ccb7d3da;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.ibb.co/mSgm72Y/without-line-01.png;https://i.ibb.co/WvWBRRM/new.jpg;https://t.me/+VHe4vxSP0kA0MmFl;https://twitter.com/nftmoondogs;https://discord.gg/fXtCUae5sc;https://www.woofsite.com/;;;;"<p>WOOF  token is used to empower Moondogs decentralized ecosystem building at the forefront of web3 on CoreDao Blockchain.</p>
+";25;0;1116;0x95f1d8259F6A858f314be1fb84Ad88ec44180AEe;0x8B98982f3ea284e85c7092aB280e9c7e6CBF73bd;0x5C44d3D2312AbA4d5F2406A98Bf374Bc76455092;1682179200;1677575876;False;False;WOOF;WOOF;1050.0;2100.0;0.0001;5.0;1677600000;1677772800;2099.999974999999999305;1000.0;1000.0;67;True;True;False;True;IDO
+0bea7608-f8b4-4801-a186-196334dbc7f4;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.imgur.com/EBJ6lrF.jpeg;https://i.imgur.com/HdDxNp2.jpeg;;;;;;;;This will set the core standard in the entire universe!;23;1;1116;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0x534f096899Cb82F35F001E352fc4390e0d2172BF;0x98ACaff5b0676a61059755Bda2Fa88A5900095F7;1682878080;1677525099;False;False;coreStandard;CS;1.0;2.0;0.1;2.0;1677525644;1677532124;2.0;0.000001;0.000001;82;True;True;False;True;IDO
+73be78a2-242f-4edc-8bf8-4038e86cb712;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://www.crypteq.finance/wp-content/uploads/2022/04/icon-1024x1024.png;https://2034250929-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpJv3fpZlSAhWe5SxzMR7%2Fuploads%2FDFuPLCEZcjseWEUFdTfa%2Fimage.png?alt=media&token=20495da5-a52a-4859-94ad-795b86ce6f0f;https://t.me/crypteqfinance;https://twitter.com/crypteqfinance;;https://www.crypteq.finance/;;;;"CRYPTEQ provides a new financial protocol that rewards $CRQ holders a worry-free
+ sustainable compounding interest of their assets using our auto-staking system.
+785,646.47% APY, the first auto staking in Core Blockchain!
+Buy, Hold & Let your $CRQ tokens grow without ever leaving in your wallet!
+";12;0;1116;0xD7F316C11C19019B9E045eD24022BB88C22858D9;0x4E7d6fbb6b5E3a1A1D02C8D760b0E0F1636B385c;0x03fAAb80A25Fe8CFeF964273F9A80716e79c3A91;1870329540;1677355977;True;False;CRYPTEQ;CRQ;1000.0;0.00000003;1.0;100.0;1678082340;1678273140;1122.4049999999999994;0.000000000026728319;0.00000002;51;True;True;False;True;FAIRLAUNCH
+55241657-8fe7-4cb5-bc92-bec76172cd01;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.epvpimg.com/zrYteab.png;https://i.epvpimg.com/BYqDfab.jpg;https://t.me/shibacore_org;https://twitter.com/shibacore_org;;https://shibacore.org;;;;"<p>ShibaCore is the a meme token on Core chain. A community reward token driven by the community (every user opinion counts)
+It's executive decisions are made by the community. On like every meme token ShibaCore tends to offer some utility to it's users/holders, holders will be able to stake and farm their tokens for more rewards.
+ShibaCore in the later future offer utilities like NFTs, Web3 games (play2earn), Metaverse and more
+ShibaCore is a hyper deflationary token, it has an auto burn system on every transaction and also a burning system implemented by the project to reduce it's supply from existence. ShibaCore hopefully with it's utility and longevity will provide a life changing opportunity for it's loyal holders and users.</p>
+";10;0;1116;0x856d33267B5dfdE58105c528e9cF1107B0a0297B;0x5E8c4A37a006F42530A84DA14bC1990899f173fe;0x84F0FDAA0a34B5F4a1144372072a706A4A8121A4;1685016000;1677327204;True;False;ShibaCore;SHIBA;3000.0;6000.0;1.0;60.0;1677412800;1677931200;5999.7600000000000003;4000.0;3000.0;80;True;True;False;True;IDO
+73c6970f-1fe1-4f9b-9e6d-c4706a53dd59;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.ibb.co/T2Z7Vkr/3.png;https://i.ibb.co/3RjtsH7/Untitled-design-1.png;https://t.me/CoreTomb;https://twitter.com/core_tomb;;https://coretomb.finance;;;;"<p>Coretomb Finance, home to the first algorithmic token pegged to $WCORE on the Core Network. The protocol's underlying mechanisms are designed in a way to ensure a peg of CTOMB:WCORE is achieved, and once achieved, it is maintained to establish $CTOMB as a mirrored, liquid asset to $WCORE.</p>
+";7;0;1116;0x6E3e1A52B80267F88a8Cef0AC2e05679A049c431;0x78a098441E8962c37975e977c33DF22661a6782c;0xC830a752eef79F2D66a36645A70fB0bA176b4Cea;1708934400;1677159522;True;False;CoreTomb;CTOMB;1000.0;1000.0;1.0;100.0;1677225600;1677398400;5622.300000000000002;0.177863152090781352;1000.0;51;True;True;False;True;FAIRLAUNCH
+03259668-e6cf-4e39-808c-f5ab3213febd;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.postimg.cc/Hk2sC3Pn/FIBDm6-UXMAc-6-Pj.jpg;https://i.postimg.cc/nhg9Xntg/Screenshot-2023-02-20-170741.jpg;;;;;;;;"<p>Final Core Test</p>
+";4;4;1116;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0xe022bd6B024d448Bf183be03711248F7Ba5bd2c8;0xD497631F3eEA3b047204532A0E1f6607056365F1;1682866740;1676909348;False;False;MFINCORETest;MFT;1.0;1.05;0.5;5.0;1676909546;1676910146;1.22;319672.131147540983606557;230000.0;68;True;True;False;True;OVERFLOW
+b4b9c3e1-dee1-48d5-8e87-9addf5987d92;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.postimg.cc/G3BBDC6P/hero-rooster-ca2267cd.png;https://i.postimg.cc/qMsvcMwK/Screenshot-2023-02-20-155018.jpg;;;;;;;;"<p>Core Fairlaunch Test</p>
+";1;1;1116;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0xf3780910c2ce2bFc0A5Fb3836b4beFc476813997;0x027408f6f7F08bDdb3Ebb88E4eF982C5196fcA74;1688048040;1676906546;False;False;MBTOKFLTEST;MBTEST;1.0;110000.0;1.0;3.0;1676906755;1676907415;1.1000000000000001;99999.99999999999090909;440000.0;100;True;True;False;True;FAIRLAUNCH
+12d8f955-987a-457d-93b9-ab07515b8a54;2023-04-24T18:30:22.924Z;2023-04-24T18:30:22.924Z;https://i.postimg.cc/fyqwgJ3W/ce669b6fbb743995a9fa951a17f64f1a.gif;https://i.postimg.cc/RV8S7J5X/Screenshot-2023-02-20-155624.jpg;;;;;;;;"<p>Core Test Presale</p>
+";0;0;1116;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0xB5561bD84932BFA72736b1115BE2b3993CC2aB94;0x0CA7b4B7263B5303216844449f0C89278Feb6388;1682862420;1676905091;False;False;MPSCORETEST;MPSCT;0.01;0.02;0.01;0.02;1676905339;1677077220;0.02;10000000.0;20000000.0;71;True;True;False;True;IDO
+1e528999-d75e-4a05-a770-5224e813e111;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://xp.io/storage/1VtbHo2Y.png;https://xp.io/storage/1Vt5XTET.png;https://t.me/blocksnakes;https://twitter.com/blocksnakes;;https://blocksnakes.com/;;;;"<p>Hello, welcome to an free advritment platform for consumers, producers and distributors. This is your opportunity to invest in the most promising market in the world safely and legally.
+BlockSnakes is a Fee And Liquidity Token, community-driven and fair launched on DXSale.</p>
+";113;0;56;0x194B2C6E1dA22166964fB51Ada7F86E01f59e77d;0xFf1923BE8ca15408496C32fECd1f8b5F2F93A455;0xB2536dF4a5FEB25BD0de90f5de2dbF3d65adacaC;1679841120;1676798201;False;False;blockSnakes;BST;0.01;0.1;0.001;0.05;1676903520;1677076320;0.2;2500000000000000.0;400000000000000.0;75;True;True;False;True;OVERFLOW
+c88dced9-3be0-42d5-a32f-69b37be2c6d3;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://i.postimg.cc/0Qvt7Shx/Logo-MAI.png;https://i.postimg.cc/L8fBvXts/Marijuana-ai.png;https://t.me/marihuanaAI;https://twitter.com/Marihuana_AI;;https://mai-6.gitbook.io/untitled/;;;;"<p>Hello, welcome to mai project an artificial intelligence web3 search engine for consumers, marijuana producers and distributors.
+This is your opportunity to invest in the most promising market in the world safely and legally.</p>
+";110;0;56;0x57920Cc1e518632789Fc21509AF43d3599e1590D;0x25057B0f584Bc467954a80680948372a0FB3Ab72;0x8907a052AbA2a52378D07f7864624f0B334E1b04;1680337500;1676622442;False;False;Marijuana AI;MAI;1.0;250000000000.0;0.00001;5.0;1676622553;1677572700;1.3321;187673598078.222355679003077847;250000000000.0;51;True;True;False;True;FAIRLAUNCH
+21d725a7-c80e-422e-80f7-c0f3bd78c836;2023-04-24T18:30:22.123Z;2023-04-24T18:30:22.123Z;;;;;;;;;;;25;3;42161;0xe727Dc09B1A59f332273Edc85AC73a3A2CeA182c;0xbbd82873B6a617553C48549ae383fE193187380e;0x71d42b97Ef3f2edEb0824d5Fe735886648da48DE;1680152460;1676351721;False;False;Crypto Spy Balloon;CSB;0.01;0.1;0.001;0.01;1676352283;1676352943;0.01;10000000000000.0;600000000000.0;80;True;True;False;True;OVERFLOW
+62c1908d-e773-4b9c-8c21-c6882be288c1;2023-04-24T18:30:22.123Z;2023-04-24T18:30:22.123Z;https://i.postimg.cc/MTZLk14G/9m-IKa-DIG-400x400.png;https://i.postimg.cc/pLDcp0MT/Screenshot-2023-02-13-144509.jpg;;;;;;;;"<p>OreoSwap Integration Test</p>
+";23;0;42161;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0xee881DA7978B340d10f8fA3137266774F28eC40E;0xA04EDE3ddD1aae96e9997eF29985BE3A14E8E357;1682858580;1676296158;False;False;MOreoFeeTest;MOFT;0.001;0.002;0.001;0.002;1676296343;1677591780;0.002;100000000.0;90000000.0;92;True;True;False;True;IDO
+b693d7a5-a105-4ba0-9b5d-ab78430e3834;2023-04-24T18:30:22.123Z;2023-04-24T18:30:22.123Z;https://i.ibb.co/SwXC7k9/photo-2023-02-02-13-03-03.jpg;https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif;https://t.me/doge_ai;https://twitter.com/DOGEAI1;;;;;;"<p>Doge Arbitrum Intelligence</p>
+<p>Tokenomics
+Dev Fee: 1%
+💧Liquidity Fee: 2%
+🪞on Buy: 2%
+🪞on Sell: 8%
+🔥 Burning starts from 100 Holders for each new 50 holder
+🛠 1% to build</p>
+<p>The DAO will automatically create an LP and lock the LP.</p>
+<p>Roadmap
+🌐 Website Being built with staking model</p>
+";20;3;42161;0xD09295500C011bE7FC779bFCE2f2d45B4fb19a10;0xAb9a6e1FE7138f8c44Ec28AB3454144Fb0617478;0x014F852084efF81DECC0904cb1bf08b41676b7BF;1681326000;1675973755;False;False;DOGE_AI;DOGE_AI;0.5;1.0;0.05;0.2;1675976428;1676062800;4.05500000000000001;12330.456226880394544191;39999.99999999999;65;True;True;False;True;OVERFLOW
+97126175-9344-43da-8f1f-f232eb48b558;2023-04-24T18:30:22.112Z;2023-04-24T18:30:22.112Z;https://i.postimg.cc/d3WkDS55/unnamed.png;https://i.postimg.cc/DZTbNGWP/Koala-Mars-NFT-Mint.jpg;;;;;;;;"<p>Bitgert Test Presale</p>
+";10;8;32520;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0xd3aD763d4580E79b77B70a8eD7a6f9c80A1FC8b1;0xB0cA61895520624109C6c434B31331ac45a9A023;1682847840;1675680446;False;True;MBRISETEST;MBT;1000.0;2000.0;1000.0;2000.0;1675681196;1675766640;2000.0;0.01;0.009;69;True;True;False;True;IDO
+2df2125d-3bb6-4eb7-9add-120f1f0f523f;2023-04-24T18:30:22.123Z;2023-04-24T18:30:22.123Z;https://i.postimg.cc/XJ64bfVM/rabbit-Logo.png;https://i.postimg.cc/fyws3MtB/Rabbit-Banner.png;https://t.me/rabbitguild;https://twitter.com/rabbitguild;;https://rabbitguild.net;;;;"<p>A guild on Arbitrum One Network dedicated to its community,
+especially to those affected by scams/rugs.
+Kyc and Audit services to projects building on all chains.
+Incentives and rewards for the rabbit token holders.</p>
+";17;1;42161;0x5F25204bDC3f36Ecce45FE01bD160C2A53dcFae7;0x7CE80559F9807ED0bE80b288262c1eB4E554BBb0;0xfC6C17b70E60cB6F59b49bdaBA0556dE5CDb21a0;1690994460;1675357094;False;False;Rabbit Guild;RBT;2.5;5.0;0.02;0.15;1675360801;1675440000;4.989000000000000064;5000000.0;5000000.0;75;True;True;False;True;IDO
+4f423a0c-5a97-4b82-988c-23121fe910f7;2023-04-24T18:30:22.112Z;2023-04-24T18:30:22.112Z;;;;;;;;;;;6;5;32520;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0xEB74b50e5a705C038F584BC72c1D43B1859a30a4;0x5DC080936c35d5639AEf099840780B3E89958266;1685559480;1675281612;False;True;MFinalTest;MFT;50000.0;1100000.0;25000.0;101000.0;1675281910;1675283110;101000.0;10.891089108910891089;600000.0;70;True;True;False;True;FAIRLAUNCH
+56fbe882-182a-47e2-a64e-c6881c9fc0b1;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://i.postimg.cc/wMfGQ1z3/Capa-Twitter.jpg;https://i.postimg.cc/W1vHLnJV/banner-gempad.jpg;https://t.me/scoobyzilla;https://twitter.com/scoobyzillacoin;;https://www.scoobyzilla.com;https://github.com/ScoobyZilla/contract;https://www.youtube.com/watch?v=96W1rKTHMS8;;"Join the &quot;ScoobyZilla&quot; community today! With our token, you can have fun while investing in a unique and innovative project. ScoobyZilla is a cryptocurrency inspired by the beloved cartoon character, Scooby Doo. In addition to being a sound investment, ScoobyZilla  is also a symbol of fun and adventure. 
+
+Join us and be a part of the next big thing in the world of cryptocurrency! With &quot;ScoobyZilla, you can be sure that your investment will be both secure and enjoyable.
+
+Tokenomics:
+💰 + Earn: 1% sent to all holders
+💰 + Liquidity: 1% added to liquidity
+💰 + Burn: 1% of ScoobyZilla is burned
+💰 + Fund: 2% to growth Fund
+✅ Regular burns
+✅ Regular earns
+
+Investor security:
+✅✅✅ Triple Audit – 87/100 Security Score
+“We would like to inform you that the ScoobyZilla token has undergone three independent audits conducted by reputable companies from different regions of the world. These audits have confirmed the security of our smart contract and the integrity of our investors' funds.This reinforces our commitment to ensuring the security and transparency of our project.”
+🔐 Liquidity lock time: 365 days
+🔐 Lock token</p>
+
+Main Projects:
+✅ #ScoobyZillaSWAP
+✅ #ScoobyZillaApp
+✅ #ScoobyZillaCartoon
+✅ #TheScoobyZillaBrand</p>
+
+More than a meme! Project details:
+1 ) Social responsibility: support for animal NGOs and financial donations;
+2) Participatory management: the first holders will have the right to decide on the governance of the token, which means transparency and security for all investors;
+3) Voting by the community: topics under discussion whenever requested by the holders;
+4) NFT Trading;
+5) Creation of the ScoobyZilla brand;
+6) Commercial partnerships;
+7) Standardized business plan: support token holders to open a ScoobyZilla store;
+8) ScoobyZillaApp: buying tokens and contracting decentralized insurance;
+9) ScoobyZillaSWAP;
+10) Cartoon project featuring the character ScoobyZilla.
+
+Registration to participate in token governance (minimum of 0.3 BNB)
+Link: https://docs.google.com/forms/d/e/1FAIpQLSd6kjbEl60chdErARi7IEsO1JoRNKAAHtDstaaFzy7IcUAQEg/viewform?usp=pp_url
+";95;0;56;0xd3CCecb315036D1F5Fcd40f15B2Cf8103F10CD4A;0x21c795Ea4C062dA207de9B4B0B1cd18274c5E4bB;0x7dA81f2f2e713EC32c9621Cb666F937C7b4B929f;1706731200;1675107743;False;False;ScoobyZilla;SBZ;2.0;150000000000.0;0.01;1.0;1675108855;1675195200;3.64;41208791208.791208791208791208;150000000000.0;100;True;True;False;True;FAIRLAUNCH
+fd941807-e226-4256-8b84-51640abe2152;2023-04-24T18:30:22.112Z;2023-04-24T18:30:22.112Z;https://i.postimg.cc/nL7g8rQG/1-DG4-rz-SJVb-IVR7j-Wg-MJKMw.jpg;https://i.postimg.cc/hjLkmvDt/Screenshot-2023-01-18-111111.png;;;;;;;;"<p>Test Overflow on <strong>Bitgert</strong></p>
+";4;3;32520;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0x30d6FC7604ade84207ca41F346786BbCC12d2a08;0x98a312B44D72453B6E3E3b0E376FD52f35595f53;1680257100;1675076950;False;True;MBITGFEETEST;BITFEE;1.0;10.0;1.0;5.0;1675077034;1675077634;15.0;12666.666666666666666666;440000.0;71;True;True;False;True;OVERFLOW
+39fd9d75-da3e-4c17-977e-da2145c133dd;2023-04-24T18:30:22.112Z;2023-04-24T18:30:22.112Z;https://i.postimg.cc/g0hNT76w/ab9290e4f21fbd1ffc909b014875ea98.gif;https://i.postimg.cc/2yGHxBL2/tumblr-354e7abc631ce1dcee4c3445788f167f-f8065203-1280-1.gif;;;;;;;;"<p>This is a test fairlaunch on Bitgert</p>
+";3;2;32520;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0x8849419fd1F80A948fb2daFffEB04384348cd119;0x0CA7b4B7263B5303216844449f0C89278Feb6388;1680256260;1675076020;False;True;MFlBitgertTest;MFLBITEST;1.0;270000.0;1.0;2.0;1675076222;1675076942;1.5;180000.0;480000.0;70;True;True;False;True;FAIRLAUNCH
+bc4eb508-1efa-4d4a-857f-57bff8f6adb6;2023-04-24T18:30:22.123Z;2023-04-24T18:30:22.123Z;https://i.postimg.cc/9Mgc2ZCQ/angryArb.jpg;https://i.postimg.cc/hv7RqY22/DALL-E-2023-01-28-11-47-45-doge-shiba-inu-dog-holding-a-coin-that-is-an-angry-smiley-face-digital.png;https://t.me/angryarb;https://twitter.com/angryarbinu;;;;;;"**
+## Telegram is backup going live in 10 minutes 5 minutes before end of the hour!! Get $ANGRY 🤬🤬🤬
+**
+
+**AngryArbInu**
+
+Smiley Dev rugged us all, but that didn't hold him back. He came back to ask for forgiveness. To some of our surprise the man was forgiven by others who got rugged. The AngryArb community was formed to show Smiley Dev we weren't happy about his rug and that we would never forgive him. Man is trying to launch SafuSmiley now but we won't let that happen! Angry Arb is here to make sure no Smiley token ever launches again!
+
+Token: $ANGRY
+Tokenomics:
+2% Reflection Fees on Buy
+4% Reflection Fees on Sell
+2% Liquidity Fees
+2% Dev Fees
+
+I will be adding 95% of raised funds to liquidity pool so a Dev fee is needed long term to sustain the project. The plan of the project long term is to add several utilities such as farming and staking. Short term we will be aiming to build the token as a meme coin and build up the community!
+
+**Don't Be Happy, Be Angry!**
+";12;1;42161;0x2599fe22f324C53F3e6331b375184D2B20e5F6E5;0x1E060286c0712E15C8c798fc0461fD5BcAFEC5a5;0x7B2790205a26f6a65a870DDc3C5E3a706111eD3f;1677704100;1675026098;False;False;AngryArbInu;ANGRY;1.0;2.0;0.001;0.25;1675027225;1675113600;8.249900000000000026;60606.795233881622616543;450000.0;95;True;True;False;True;OVERFLOW
+1864e34a-c4e6-40ac-badb-c26776e6ec22;2023-04-24T18:30:22.112Z;2023-04-24T18:30:22.112Z;https://i.postimg.cc/d3WkDS55/unnamed.png;https://i.postimg.cc/DZTbNGWP/Koala-Mars-NFT-Mint.jpg;;;;;;;;"<p>Bitgert Test Presale</p>
+";1;0;32520;0x63129C5d3981894d12829212F9Bce52FB7D63aEF;0xE494aFc40457E120D457007281680A6E5727EB62;0xE0b2DBd31D4A59cc9adB31e44C3f8A9067866E5a;1680290700;1674937658;False;True;MPsTest;MBITPS;1.0;2.0;1.0;2.0;1674938137;1675023900;2.0;0.1;0.09;90;True;True;False;True;IDO
+29b816c0-1e27-4c99-a708-de5ffcd8afca;2023-04-24T18:30:22.112Z;2023-04-24T18:30:22.112Z;https://www.thegoldensource.com/wp-content/uploads/2020/03/data-governance-01.png;;TELEGRAM;TWEET;18D TEST;WEBSITE;GITHUB;18D;REDDIT;DESCRIPTION;0;0;32520;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0xE00F587Af31C360bDbE87dA2ec58d6d6AB5E13d3;0xB404838E3454A3EA54449CAF642895ACe2A7D6b2;1679940722;1674931168;False;False;bitgertToken;BGT;1.0;2.0;0.1;1.0;1674931722;1674940722;2.0;0.000002;0.00001;81;True;True;False;True;IDO
+84f860b0-558a-4eae-8c02-4b7fb60b7c04;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://cdn-icons-png.flaticon.com/512/234/234829.png;https://d5uycnhxji3mdrq7uwmtl7w2kgh6lb6crmsbys545qu55n7sbt6q.arweave.net/H2mBNPdKNsHGH6WZNf7aUY_lh8KLJBxLvOwp3rfyDP0?ext=png;;;;;;;;"<h3>Testing Presale.</h3>
+<p>I am testing <em><strong>overflow</strong></em> presale feature.</p>
+";90;1;56;0xE3176A997f268C3fD5a25bb2f9553D616064C591;0xBB18bbB01E9F8539e3Fd5B9e2807A06180AA53ee;0x2E749ECaB10bEB89959e9654508ef90E018D3a8C;1677579960;1674728917;False;False;DxOverFlow;DXO;0.01;0.1;0.001;0.05;1674729621;1674730221;0.01;500000.0;4000.0;75;True;True;False;True;OVERFLOW
+1c5aa58a-eb92-4b32-8ae9-84586b71379d;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;;;;;;;;;;;85;4;56;0x6cf3232741820a579241c11E43b01fAa729F09A4;0x520ef6146E97F22Ea41629729285D440daFac476;0x02cfDf54dec8612007C89443A2023d4CF3133448;1680268620;1674652687;False;False;CrazyBull;Bull;0.1;499999.75;0.0001;0.05;1674652992;1674653712;0.13;3846151.923076923076923076;499999.75;70;True;True;False;True;FAIRLAUNCH
+3ae430df-57eb-4926-a2dc-6545e69f0576;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;;;;;;;;;;;84;3;56;0x6cf3232741820a579241c11E43b01fAa729F09A4;0x7817793520D5ABdbAAF541a62faff2C3d3aa75Bc;0xF4aFF5Db5ED4c423962dee79e0bC6349325ad2b9;1682767260;1674645880;False;False;CrazyDragon;Dragon;0.1;50000.0;0.0001;0.05;1674646083;1674646743;0.105;476190.47619047619047619;100000.0;70;True;True;False;True;FAIRLAUNCH
+3ed33d21-1bf6-4526-8732-dbf578d86a7b;2023-04-24T18:30:22.123Z;2023-04-24T18:30:22.123Z;;;;;;;;;;;10;2;42161;0xe727Dc09B1A59f332273Edc85AC73a3A2CeA182c;0x65A5a4185DDBC0FfdD96aA3875D70800140ed2Ca;0x5f6882634931c8F1411C35e08a25ED93e5f624EF;1679471700;1674633465;False;False;ARBSHIBA;ABS;0.01;0.1;0.001;0.1;1674633647;1674634247;0.01;15000000000.0;150000000.0;70;True;True;False;True;OVERFLOW
+75eaaf61-cc85-4eb3-9bc2-5ddd67da7c59;2023-04-24T18:30:24.627Z;2023-04-24T18:30:24.627Z;https://i.postimg.cc/YCsLDCvk/puffin-artist-png-300x300.png;https://i.postimg.cc/3wqjGZXX/Screenshot-2023-01-18-113801.png;;;;;;;;"<p>This is a referred overflow</p>
+";37;12;250;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0x3A6236e09cF878b05bDf39d1E873b6AAa8499aa5;0x4E7d17e4D2C31890D5E54a17399cBBe3da4212BA;1680255360;1674038428;False;False;MRefBTokTest;OFTE;1.0;2.0;1.0;5.0;1674038724;1674052584;1.0;270000.0;570000.0;70;True;True;False;True;OVERFLOW
+1ab016ff-694c-4ba8-8a00-1708369289ba;2023-04-24T18:30:24.627Z;2023-04-24T18:30:24.627Z;https://i.postimg.cc/6qx2h421/1-DG4-rz-SJVb-IVR7j-Wg-MJKMw.jpg;https://i.postimg.cc/J4cJPxQ3/Screenshot-2023-01-18-111111.png;;;;;;;;"<p>This is a referred fairlaunch test</p>
+";36;11;250;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0x84aFC6c3e3D70d1A4e58de54f5DEdbaBa4f9393e;0x1ccBD1ab2455639a9a9292155e0Ac04CbCF373bB;1680253560;1674036850;False;False;MFlRefTest;MRT;1.0;270.0;1.0;2.0;1674037216;1674054376;1.5;180.0;480.0;70;True;True;False;True;FAIRLAUNCH
+d3e997d7-90be-401f-82d3-78042125bc17;2023-04-24T18:30:24.627Z;2023-04-24T18:30:24.627Z;https://i.postimg.cc/2jTMdKGf/tv-YXj-EEc-400x400.jpg;https://i.postimg.cc/q78ZNbqS/Screenshot-2023-01-18-095320.png;;;;;;;;"<p>This is a referred test presale</p>
+";35;10;250;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0x81cD96B9C0DB7a8f32b953f0005eF934860EEFD7;0x537a2aFC93e26c7789C66a0aa19df52F4f91DD83;1680248940;1674032254;False;False;MReferTest;MRT;1.0;2.0;1.0;2.0;1674032370;1674118140;2.0;1.5;1.2;70;True;True;False;True;IDO
+bb32a737-80b6-4499-8df5-a507388265cd;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://media.tenor.com/yheDW37vSO8AAAAC/thor-hammer.gif;https://static.vecteezy.com/system/resources/previews/002/292/582/original/elegant-black-and-gold-banner-background-free-vector.jpg;https://t.me/dxsale;https://twitter.com/dxsale;;https://dxsale.network;;https://youtu.be/gEyPAt9j1OY;;"<h2>Test</h2>
+<p>This is a test presale to demonstrate <strong>Overflow</strong></p>
+";74;1;56;0x4769e5F81cFaD3B604f7D159842A328534201Ec9;0xD5d7da4112e3cC7fe134b84cD9452871637B7CBD;0x7334ee5C2139630157EE7e35d4c9011149AB86a8;1680814440;1673992916;False;False;OverFlowBurn;OFB;0.01;0.1;0.0015;10.0;1673993568;1673994648;0.3;166666.666666666666666666;34999.999999999994;80;True;True;False;True;OVERFLOW
+579d18db-b559-4c79-8ec0-a1fdc9b472cd;2023-04-24T18:30:22.123Z;2023-04-24T18:30:22.123Z;https://i.postimg.cc/Z55CtQkW/nc-Zufxol-N4qfj-M40-Z859e-Cbs-CDS4ij-PEmm-HF88-CT.gif;https://i.postimg.cc/VLLYdbKT/Fluf-World.jpg;;;;;;;;"<p>Final Arb Test</p>
+";6;3;42161;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0x7eDBa97aF4FdDFe2499A5E4d2b73589Ac1988962;0x07C81245DBB67ababdbb5f8Bf34513D5Aca2c524;1680083820;1673523180;False;False;MFinalArbTest;MFAT;0.01;0.0000032;0.001;0.1;1673523620;1673524280;0.03;0.000106666666666666;0.000005;70;True;True;False;True;FAIRLAUNCH
+62f1223f-b936-4203-be6d-5b07af8f0b7b;2023-04-24T18:30:22.123Z;2023-04-24T18:30:22.123Z;https://i.postimg.cc/HnZgS9gc/ab9290e4f21fbd1ffc909b014875ea98.gif;https://i.postimg.cc/hGTKSm96/tumblr-354e7abc631ce1dcee4c3445788f167f-f8065203-1280-1.gif;;;;;;;;"<p>Test Overflow</p>
+";5;2;42161;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0xe90556D1d44e9dcC8310d96921Ae0E7Dc395b5d4;0x9A4f544f22E0c2f0F3aCb30ae9C2920f225eda7c;1678960080;1673517248;False;False;MOfTest;MOFT;0.01;0.02;0.01;0.1;1673517525;1673518845;0.01;330000.0;5200.0;69;True;True;False;True;OVERFLOW
+897db1e5-9c21-4b70-8486-d1d1146520b3;2023-04-24T18:30:22.123Z;2023-04-24T18:30:22.123Z;https://i.postimg.cc/66bcYhKs/c2cacc6724110dfe16126fc107a88674.jpg;https://i.postimg.cc/WzznsdMf/Screenshot-2023-01-11-115356.png;;;;;;;;"<p>Test Presale</p>
+";3;0;42161;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0xB3200bde6B4f10fe52BCf58f3E65bF377C301a4d;0x6b9de89A6b337D0E14b1BC5f77F434Ad65923572;1680186420;1673450951;False;False;MTestPsSTok;MTPST;0.01;0.02;0.01;0.02;1673451317;1673537220;0.02;0.0004;0.0037;70;True;True;False;True;IDO
+77bec591-78a9-4976-bccd-8e099dcf67d0;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://media.istockphoto.com/id/177228186/photo/young-capybara.jpg?s=612x612&w=0&k=20&c=MaLAlTZA3N5fa2Gp2FeCdZCwSbCLXkVVeKTks7IJIgM=;https://cdn.theatlantic.com/thumbor/PtpTC0BxGRKTDYB5dFQneG_3cAU=/0x146:2000x1188/960x500/media/img/photo/2018/11/photos-companionable-capybaras/c01_890874902-1/original.jpg;;;;https://www.capybaraworld.com/;;;;"<p>The capybara inhabits savannas and dense forests and lives near bodies of water. It is a highly social species and can be found in groups as large as 100 individuals, but usually lives in groups of 10–20 individuals.</p>
+<p>++*** The capybara is hunted for its meat and hide and also for grease from its thick fatty skin.***++</p>
+<p>We can stop this with your donation!</p>
+";66;0;56;0x7F34e3F56B5562e7b96D85B157ABcf991c9D9a38;0x68bD3277Bd648f0ABE9799619bfeae23A3735c98;0x4227e23C9192bA964904246CfbCF5F20f75c8858;1676141580;1673377017;False;False;CappySlay ;CapSlay;0.015;0.03;0.01;0.03;1673377209;1673377809;0.03;0.000001;0.0000005;80;True;True;False;True;IDO
+26027fc1-e88d-4c24-a637-adb78c720471;2023-04-24T18:30:22.393Z;2023-04-24T18:30:22.393Z;https://i.postimg.cc/NjF35wdm/Screenshot-2022-12-02-122128.png;https://i.postimg.cc/02W3gB9Q/Screenshot-2022-12-02-122050.png;;;;;;;;"<p>Test Presale</p>
+";4;2;137;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0xB3200bde6B4f10fe52BCf58f3E65bF377C301a4d;0x4063C265ea83d20bbF315A42DaCb723482148F16;1679685480;1672946461;False;False;MSTokPSTest;MPST;1.0;2.0;1.0;2.0;1672946730;1673032680;2.0;250000.0;215000.0;72;True;True;False;True;IDO
+298a0e70-90da-42ce-a1d7-201061f017e7;2023-04-24T18:30:22.386Z;2023-04-24T18:30:22.386Z;https://i.postimg.cc/50qmh4hz/ue-nft9.png;https://i.postimg.cc/3JWgBFxm/1-ag-IRf-BS4p-GVdf-RBx36ao1-Q.jpg;;;;;;;;"<p>Overflow Test - Div Token</p>
+";4;2;321;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0x9ab714FE1e3E4A7aAd2EbdfB9229C42c4BA5119f;0x3528F069ecBab027f0aD0B434A896C9C281D97A5;1678972200;1672924407;False;False;MOfDivTok;MDIV;1.0;1.1;0.001;7.0;1672924523;1672925123;1.0;2627.471;8257.766;75;True;True;False;True;OVERFLOW
+8a3b0b68-8673-4e07-b2d7-dc7da825ff4e;2023-04-24T18:30:21.843Z;2023-04-24T18:30:21.843Z;https://i.postimg.cc/dtRJg8fS/babypenguinnft-7-penguin-animal.jpg;https://i.postimg.cc/sXBVLbFp/ezgif-com-gif-maker-2.gif;;;;;;;;"<p>Presale Test - Dividend Token</p>
+";3;3;1666600000;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;;0x3528F069ecBab027f0aD0B434A896C9C281D97A5;1680259140;1672918930;False;False;MPsTestDTok;MPSD;2;4;1e+17;4e+18;1672919119;1673609940;4;1.3e+16;1.1e+16;71;True;True;False;True;IDO
+352b6e66-a7f2-4231-b617-0dbf3bbcfe1f;2023-04-24T18:30:21.843Z;2023-04-24T18:30:21.843Z;https://i.postimg.cc/gJLJSQv1/0p-KFdnt-AUy-Cg-TAsm-E1-Mr3-OT3y0-Ti7j5-APSTPv1ss.gif;https://i.postimg.cc/bY2D3Dgd/christmas-snow.gif;;;;;;;;"<p>Overflow Test - Fee Token</p>
+";2;2;1666600000;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;;0xdbbc3156b917755B010F0adF932Ea478c9842f2b;1678188000;1672917692;False;False;MOfTestFTok;MOFT;1;2;1e+15;3e+18;1672918222;1672919062;3;9.666666666666667e+16;4.9e+17;75;True;True;False;True;OVERFLOW
+19df853b-65c6-4151-b9e9-2b33a1522d4d;2023-04-24T18:30:21.843Z;2023-04-24T18:30:21.843Z;https://i.postimg.cc/nhc4sXfC/1cf2e63f0d3a43a090dd87f44172bc34-zipped.png;https://i.postimg.cc/N0KR4ZMt/Tiger-Social-Sharing-Logo.gif;;;;;;;;"<p>Fairlaunch Test - Burn Token</p>
+";1;1;1666600000;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;;0x2da2D5Ce68403F31f704c44174e75fA1062E6995;1678360680;1672917600;False;False;MFlTestBTok;MFBT;1;300000;1e+17;3e+18;1672917921;1672918821;2.5;1.2e+23;5.4e+23;99;True;True;False;True;FAIRLAUNCH
+81b0dffc-dd83-4fb3-9dd3-e95aa8159aca;2023-04-24T18:30:21.843Z;2023-04-24T18:30:21.843Z;https://i.postimg.cc/6QRwFN7K/6258071f0c7318cec2318807-Kais-Bear2.png;https://i.postimg.cc/sxfrBQTf/bear-market-nft-1024x538.jpg;;;;;;;;"<p>Presale Test, Standard Token</p>
+";0;0;1666600000;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;;0x604450782bE2641F807c6BbCE193ACd29F5D1650;1678965240;1672917453;False;False;MPsTestSTok;MTT;1;2;1e+17;2e+18;1672917581;1673090040;2;1.2e+22;8e+21;100;True;True;False;True;IDO
+e81bdebb-fce3-4fe6-9b92-be97bd300db5;2023-04-24T18:30:22.386Z;2023-04-24T18:30:22.386Z;https://i.postimg.cc/gJLJSQv1/0p-KFdnt-AUy-Cg-TAsm-E1-Mr3-OT3y0-Ti7j5-APSTPv1ss.gif;https://i.postimg.cc/bY2D3Dgd/christmas-snow.gif;;;;;;;;"<p>Test Overflow</p>
+";3;1;321;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0xf066a57088fF3C9a6c945e739770b08D33659249;0x7F4Aa5dD7ABFabBd2946Bec695bE013b1bc2E950;1678574520;1672872375;False;False;MOfTest;MOLT;1.0;1.1;0.001;1.0;1672872710;1672917000;1.0;0.23;0.36;75;True;True;False;True;OVERFLOW
+291ced4f-660d-4dbe-9c13-baad7a7f9895;2023-04-24T18:30:22.386Z;2023-04-24T18:30:22.386Z;https://t3.ftcdn.net/jpg/02/26/79/92/360_F_226799287_8n8CvXnx7aiLeroZvyCbIrIntDSUkkDj.jpg;https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-09/blockchain.png;;;;dx.app;;;;"<p>KCC Fair</p>
+";2;0;321;0x6c9DB1BbbDcD118CFCA20ca4B82E448ab1281B0d;0xAF5DF72EC8D9574f59d2647D27584211b975b6b3;0xB41184d2b62ED5C8C9b943634776EB1d5743a012;1675965540;1672855320;False;False;KCCRise;KCR;1.0;0.00018;0.1;2.0;1672855440;1672856400;1.654;0.000108827085852478;0.00022;79;True;True;False;True;FAIRLAUNCH
+c52c489c-6420-4b23-8d43-c811f1c75437;2023-04-24T18:30:22.116Z;2023-04-24T18:30:22.116Z;https://i.postimg.cc/tg9K2VHZ/154136df4cbeaed2b9520e42023e2b44.png;https://i.postimg.cc/Bb8929fm/main-website-image-gatb.png;;;;;;;;"<p>Test Presale</p>
+";3;3;43114;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0xB3200bde6B4f10fe52BCf58f3E65bF377C301a4d;0xCD177e606Ed8F8961d2CBD4CcA85deBd2ff323f4;1680193680;1672853455;False;False;MPsTest2;MPST2;0.1;0.2;0.1;1.0;1672853712;1672939680;0.2;2350000.0;1750000.0;70;True;True;False;True;IDO
+c07144bb-6198-47d1-b107-76314de8bd07;2023-04-24T18:30:22.116Z;2023-04-24T18:30:22.116Z;https://i.postimg.cc/gJpzH7Bd/santa-fox-by-doermelicous-dap3r4l-fullview.jpg;https://i.postimg.cc/4dXG99mx/Screenshot-2022-12-19-103729.png;;;;;;;;"<p>Test Fairlaunch</p>
+";2;2;43114;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0xBd5546549A4052AF9A2385CA2e1746b984AD0EB1;0xEc7710b43a8a441E27efdd543988E8daab4F641E;1682868960;1672850352;False;False;MFlTest;MFIT;1.0;0.00001;0.1;1.0;1672850716;1672851316;1.0;0.00001;0.000028;70;True;True;False;True;FAIRLAUNCH
+46984f35-f19f-4db9-b573-3c8e7e0aefa0;2023-04-24T18:30:22.116Z;2023-04-24T18:30:22.116Z;https://i.postimg.cc/gJLJSQv1/0p-KFdnt-AUy-Cg-TAsm-E1-Mr3-OT3y0-Ti7j5-APSTPv1ss.gif;https://i.postimg.cc/bY2D3Dgd/christmas-snow.gif;;;;;;;;"<p>Test Overflow</p>
+";1;1;43114;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0x13Fc8549a6B4513c5F337A51Edd6690C3f8ECeD5;0x671A3c954e603537016432329a9ab7fc0E5C772f;1682868360;1672849678;False;False;MOfTest;MOFT;1.0;1.2;0.001;1.0;1672849800;1672850400;1.374;0.001819505094614264;0.0039;75;True;True;False;True;OVERFLOW
+e2c15151-abda-428c-9da8-e8049430ad58;2023-06-08T05:15:04.420Z;2023-06-08T05:15:04.420Z;https://i.postimg.cc/6QRwFN7K/6258071f0c7318cec2318807-Kais-Bear2.png;https://i.postimg.cc/sxfrBQTf/bear-market-nft-1024x538.jpg;;;;;;;;"<p>Test Presale</p>
+";1;0;2001;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0xAF5DF72EC8D9574f59d2647D27584211b975b6b3;0xE8E7c9e1ae0720AD05E562a0b39F5b3208ce19c9;1678460880;1672845011;False;False;MPsTest;MPST;1.0;2.0;0.1;2.0;1672845650;1672931280;2.0;0.22;0.2;70;True;True;False;True;IDO
+6b1f4336-0097-4088-b8de-08771a38a816;2023-04-24T18:30:22.386Z;2023-04-24T18:30:22.386Z;https://i.postimg.cc/6QRwFN7K/6258071f0c7318cec2318807-Kais-Bear2.png;https://i.postimg.cc/sxfrBQTf/bear-market-nft-1024x538.jpg;;;;;;;;"<p>Test Presale</p>
+";0;0;321;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0x4674658BFC8dE39C253a7AAA9d057C4C4758b1a8;0x6538e79275F6B199FB78587F148c1f453b8158e3;1675685400;1672834440;False;False;MPsTest;MPST;0.1;0.2;0.1;1.0;1672834560;1672920600;0.2;2.5;2.0;70;True;True;False;True;IDO
+247ccef1-643d-40a8-9630-ec849fd34b1f;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://i.postimg.cc/Wprv7SxC/images-25.jpg;;;;;;;;;"<p>Santa token is the first decentralized charity token created by Saint Nicholas (Santa Claus)—otherwise known as Saint Nicholas or Kris Kringle—has a long history steeped in Christmas traditions.</p>
+";50;9;56;0x473856F33aaA5D3eD348f5af558f382f8de84b7F;0xaEa4b6fc8d520B16426e754fbc7c528f6ae4C360;0x49F0901b352856E8eF084BeF8C9a610678C82A3d;1672869333;1672822142;False;False;SANTA (angela3);STA;0.01;0.02;0.01;0.02;1672866367;1672867833;0.02;10000.0;9000.0;70;True;True;False;True;IDO
+67d46534-f046-4763-974b-ec842f982b14;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://media.allure.com/photos/626672ce22cfe0ba2dac464e/1:1/w_3445,h_3445,c_limit/full%20moon%20pink%20supermoon%20-%20Getty%20Images.jpg;https://post.healthline.com/wp-content/uploads/2020/08/full-moon-night-landscape-1200x628-facebook-1-1200x628.jpg;;;;dx.app;;;;"<p>this is a overflow presale. mission moon</p>
+";39;2;56;0x6CfB00d6986f9EEd6A30a7d52f4b502ff229Bf1C;0xbb5613B06762a4338e190e627B3f95b5EB6eFB7B;0x69fcE547D16fA9c860e6bD3eDb62E080eF8278F7;1671756056;1671754272;False;False;moonMission;MM;0.1;0.9;0.01;0.2;1671754496;1671755156;0.1;0.00002;0.0000018;90;True;True;False;True;OVERFLOW
+f1af158d-ffda-45c3-8cab-46e78458ecad;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://i.postimg.cc/9F6Rdr9X/images-11.jpg;https://i.postimg.cc/9F6Rdr9X/images-11.jpg;;;;;;;;"<p>Bitreview is a decentralized community that focus on reviewing high quality blockchain projects, making them SAFU to invest on.</p>
+<p>1000 projects invested on so far</p>
+<p>0 Rugpull so far</p>
+<p>Over $5,000,000 profit so far</p>
+<p>100 partnership</p>
+";35;4;56;0x473856F33aaA5D3eD348f5af558f382f8de84b7F;0x4fe44EC8a81eaAc17c40560a43936540aDB76CF7;0xA1b78bA752C9a58889ACFD7D43F919336A671475;1671724217;1671720640;False;False;BitReview;BRW;0.001;0.002;0.001;0.01;1671721217;1671722417;0.002;10000.0;8000.0;51;True;True;False;True;IDO
+a3cc8dd2-df8e-49bc-acfc-eefe980ae710;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://i.postimg.cc/Twm0kJfd/babypenguinnft-7-penguin-animal.jpg;https://i.postimg.cc/yN6Wp1Kk/Screenshot-2022-12-21-122147.png;;;;;;;;"<p>Test Presale</p>
+";29;9;56;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0xF3085614B84D0a65a69F01e000995281AA82D5e6;0x537a2aFC93e26c7789C66a0aa19df52F4f91DD83;1671881280;1671622138;False;True;MarkDec21PS;MD21PS;0.01;0.02;0.001;0.01;1671622273;1671708480;0.019999999999999999;0.001;0.00085;69;True;True;False;True;IDO
+b3a30ab6-feec-4014-b7dd-f10e7cd0eebd;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://i.postimg.cc/gJLJSQv1/0p-KFdnt-AUy-Cg-TAsm-E1-Mr3-OT3y0-Ti7j5-APSTPv1ss.gif;https://i.postimg.cc/bY2D3Dgd/christmas-snow.gif;;;;;;;;"<p>Test Overflow</p>
+";28;8;56;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0x1E060286c0712E15C8c798fc0461fD5BcAFEC5a5;0x96a8662495A48169135D23449CeC775D1A4C0eeE;1671721260;1671548512;True;True;MarkDec20OF;MD20OF;0.01;0.015;0.001;0.01;1671548645;1671550205;0.02;11.5;0.32;75;True;True;False;True;OVERFLOW
+5a073457-8192-403c-9581-985421155afc;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://i.pinimg.com/originals/7d/ce/1e/7dce1ee0c4aa735693a175d78233e7ff.gif;https://thumbs.gfycat.com/AgedPlainCornsnake-max-1mb.gif;;;;https://dxsale.network;;https://youtu.be/gEyPAt9j1OY;;"<p>Test</p>
+";27;3;56;0x47BAcf935066b802EAA0067eC14AB035B24eB78b;0x62d9472BD5218eF10734Ea6dd76D46A465dbe526;0x494a8B3Ddda49e22f53729429b66e2e48f63B9Db;1671738480;1671479456;False;True;Tester;TST;0.015;50000000000.0;0.001;0.2;1671480344;1671481244;0.115;434782608695.65217391304347826;34999999999.99999;100;True;True;False;True;FAIRLAUNCH
+64fcd6ff-1600-4194-a668-fa6cb7870eee;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://media4.giphy.com/media/1wR4xUciaGGbYNXAO6/giphy.gif;https://thumbs.gfycat.com/AltruisticFrayedAppaloosa-size_restricted.gif;;;;https://bulbapedia.bulbagarden.net/wiki/Fire_(type);;;;;26;2;56;0xe2664EB730b083eAc47cA1B84da9CCDE73A5E8e3;0xA83cAfd9680FCa89Ced5D15609FD0b9Cb667cF7E;0x2da2D5Ce68403F31f704c44174e75fA1062E6995;1671560400;1671474198;False;False;BurnInu;BINU;0.01;0.1;0.01;0.1;1671475013;1671476453;0.36;1001016927586.25;352357958510.36;70;True;True;False;True;OVERFLOW
+9225503b-701d-4e31-9592-222b64fbcd5c;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://i.postimg.cc/pXW22WHL/Screenshot-2022-12-19-112653.png;https://i.postimg.cc/j2srdXBF/Screenshot-2022-12-19-112601.png;https://t.me/dxsale;https://twitter.com/dxsale;https://discord.gg/j4PpMVQMMC;https://dx.app/;;;;"<p>Test Presale</p>
+";24;7;56;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0xf68309d9a40cbF627C0A11310B21936F2b839183;0x1490e91c361D9efFFF1b0F2C12A7967E266054A3;1688122380;1671451158;True;True;MarkpsTokAmnt;MTA;0.01;0.02;0.001;0.01;1671451800;1671709980;0.02;0.1;0.08;99;True;True;False;True;IDO
+7f469042-e7cc-487c-aebb-7138744dff41;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://i.postimg.cc/ZKRhG9TJ/santa-fox-by-doermelicous-dap3r4l-fullview.jpg;https://i.postimg.cc/rygkZG2h/Screenshot-2022-12-19-103729.png;https://t.me/dxsale;https://twitter.com/dxsale;https://discord.gg/j4PpMVQMMC;https://dx.app/;;;;"<p>Test presale</p>
+";22;5;56;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0xbBdd51295C05154D25A6E65D17a7145A652F8c0f;0xCc4974CBffcB529133A3E193535A8F0966C648B1;1671446730;1671442726;True;True;MarkDec19PS;MD19PS;0.001;0.002;0.0001;0.001;1671443430;1671445830;0.002;0.01;0.008;99;True;True;False;True;IDO
+eb7431ef-ca03-49cf-84d2-37b34ebf226f;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://media.tenor.com/yheDW37vSO8AAAAC/thor-hammer.gif;https://thumbs.gfycat.com/AgedPlainCornsnake-max-1mb.gif;https://t.me/dxsale;https://twitter.com/dxsale;https://discord.com/invite/ZztKCEZXhg;https://dxsale.network;https://github.com/DaRabus/github-readme-stats;https://youtu.be/gEyPAt9j1OY;https://www.reddit.com/r/nftBrawlers/;"<h3>Test Presale</h3>
+<p>&quot;Sometimes using the app you will randomly have issues where the wallet balance keeps flashing and the app can't decide if it is on BNB network or Fantom network. Seems like a wallet connection issue.</p>
+<ol>
+<li>In one tab have the app on BNB chain (chain=BNB)</li>
+<li>In another tab have the app on Fantom chain (chain=Fantom)</li>
+<li>You will notice that on 1 tab the app can't decide which network it actually is on</li>
+</ol>
+<blockquote>
+<p>Seems like the issue stems from the multiple tab issue (so I wonder if its just a local server issue)&quot;</p>
+</blockquote>
+";8;1;56;0x47BAcf935066b802EAA0067eC14AB035B24eB78b;0xAF852A31Db76825719255df79B735660603C978e;0x5edC02f9a528f91ea78467D9D96722e3F56DFd3E;1671137760;1671132634;False;True;V4TesterReview;V4TR;0.03;0.06;0.015;10.0;1671133399;1671135720;0.03;1000.0;1000.0;95;True;True;False;True;IDO
+e2043720-0668-4d96-8137-b5edb0e337d0;2023-04-24T18:30:24.627Z;2023-04-24T18:30:24.627Z;;;;;;;;;;;32;0;250;0x428b00889E79AAd74EbFCbB3B16B11e1574AC224;0xB8D744C5199Df290aE35AC96c0f8878B29F5fbB0;0x044aB0E7679228dB4637e16aC710e14d88A7D596;1674906240;1671104580;False;False;ff;ff;1.0;2.0;0.1;2.0;1671105390;1671191040;2.0;100000.0;2000.0;51;True;True;False;True;IDO
+023c6b6e-3f4d-4824-91d3-0bdb03de4bdc;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://play-lh.googleusercontent.com/T1_WHAGs5WZePQejNSqqrxZah4uhBvYr698nTCFhXMjMZo5oSCoko5yW2wtmeO1ClRU;"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAABUFBMVEUAAAAAAAMAAAbyuS4AAQAAAAjzuC7yuDIAAAvxuivyvC9XRBlFNxj7wTXMoTnyuSz5vDlBMBP8vDOBaCPJnDDxuDwnIxmBZCP1uSrvukR7YiP3tjD3vCzvuDHYpkEnIhvwvj6rhjQ7LBG3kzbtvCn4wDwtIxX3tjT6v0RSQiUmIRDHmjd5Wy8rIBkAABHbrUjLozg3LR2Zfi3WqTsbFw0xJxHirTkNAACTeTK1jzbElTRDPyhwVjD0vUWpiDd0Vi5rVyTovDKui0itkTcWExYiFRhXPiM7KyISBA4mFxBlTy9+ZTLztETtwUnJoEq4k0PetjxlVh9UTShIMh+ZgjYeFh0UGBhSTitPQyeZczu8iTPRsEF+azAwKxGdezleTyJVRTHzvVf/tCW0kkqTfEAzMCdQRDpfUTd2ZkKbfUN3ZENdVTwaDQMsGA6lfDBtXiCXon00AAASFElEQVR4nO2c/V/bRrbGR28zkowsR1mTMRqBKDLGIcEkTiB0gUIgLcQNSZru3qaksHu32213k9z//7f7zEiyZQNJeuO0u/czX/g0WC+jmWfOnDlnRi4hGo1Go9FoNBqNRqPRaDQajUaj0Wg0Go1Go9FoNBqNRqPRaDQajUaj0Wg0Go1Go9FoNBrNvxGmYfzeVfgPAULJH82HYECtPzqE2L93Rf4TgFbbK4vEdLRa7wFKueR8x2vvEuf3rsu/PdJbba/wJIkOMBC1bb0TwyRfrFAWh/vRLjFNrda7MMlemyaMxhkLMBK1WO/kixWfeX7I+b6IFnUAcSW2aZLthkc9K/S8mFtJtEU+zLiMTxbE/l9LNj5dlXJsh2ynPAmthFoS6jcemlfOiUYJudCk6sfhNe848g5MdOA7S5uoSeWQOTrxa574gdjkVqPT8TyL0dCTYu3H0YF51cXDSlwwPXuKYk3YiHGZyRgXi4RSE1JdUs";;;;dx.app;;;;;2;0;56;0x26731b4242291e558E4999F4A8919d1CE2Ab4515;0xAF5DF72EC8D9574f59d2647D27584211b975b6b3;0xCc83557e08d8569FBFE500Bff3F7B0B22326e8b2;1671062115;1671058908;False;False;bnbtestSTD;BTST;0.1;0.000025;0.01;2.0;1671059415;1671060615;0.3;0.000083333333333333;0.00002;97;True;True;False;True;FAIRLAUNCH
+31073297-3942-4d96-91a0-e728dfc56d2b;2023-04-24T18:30:23.176Z;2023-04-24T18:30:23.176Z;https://i.postimg.cc/MZ0WZ8KP/yb-Ov6-D0g-400x400.jpg;https://i.postimg.cc/HLWMztvH/amirlotan-the-jungle-book.gif;https://t.me/dxsale;https://twitter.com/dxsale;https://discord.gg/j4PpMVQMMC;https://dx.app/;;;;"<p>Test Presale 1 - Mark
+Created with a minted DX standard token
+Softcap filled</p>
+";1;0;56;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0xB3200bde6B4f10fe52BCf58f3E65bF377C301a4d;0x604450782bE2641F807c6BbCE193ACd29F5D1650;1673814840;1670962381;False;True;MarkTestPS1;MTESTPS1;0.01;0.02;0.01;0.02;1670963081;1671012540;0.01;1.0;0.8;100;True;True;False;True;IDO
+c810255c-a064-42ac-84e5-a5cbe1d3a268;2023-04-24T18:30:24.627Z;2023-04-24T18:30:24.627Z;https://i.postimg.cc/wMjvvbH6/Lazy-Deer-010-1643660899975.jpg;https://i.postimg.cc/Y2RLHQkr/TidZYC.gif;https://t.me/dxsale;https://twitter.com/dxsale;https://discord.gg/j4PpMVQMMC;https://dx.app/;;https://www.youtube.com/embed/q7Bb1TBgoBk;;"<p>overflow decimals and finalize</p>
+";28;9;250;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0x4b399ce0B93D82eAaE0039cdF48617Ea4D24B9Bf;0x1490e91c361D9efFFF1b0F2C12A7967E266054A3;1680265080;1670592224;False;False;MarkDec09OF;MDOF;1.0;1.5;0.1;2.0;1670593008;1670600700;3.0;120.0;570.0;70;True;True;False;True;OVERFLOW
+d842b640-cafc-4ee8-bb4b-6a8ed5283ff0;2023-04-24T18:30:24.627Z;2023-04-24T18:30:24.627Z;https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/krinnxb23kgp75s0jyhp;https://blogs.iadb.org/caribbean-dev-trends/wp-content/uploads/sites/34/2017/12/Blockchain1.jpg;;;;dx.app;;;;"<p>This is an LP lock</p>
+";23;7;250;0x26731b4242291e558E4999F4A8919d1CE2Ab4515;0x1804E507edE2bDBf3E5b9C3256293f744cf10e1e;0x27595643Feb6Cb3bc4bd0D0C8F04992bC4f4d003;1670357754;1670354389;False;False;fairLPtester;FLT;1.0;0.00031;0.1;1.0;1670355054;1670355954;1.2;0.000258333333333333;0.00019;100;True;True;False;True;FAIRLAUNCH
+e1b7fc29-2645-4697-be5c-d1fd92febdf3;2023-04-24T18:30:24.627Z;2023-04-24T18:30:24.627Z;;;;;;;;;;;22;1;250;0xD5d1F852c379feCD05a72025ca1266698eaf186A;0xeC35153E21B0CB16C28470595DA7f8435466AebF;0x3E7B5A63d7b66bd21DD644a56Aa0a17656a7a5e5;1675178040;1670339786;False;True;Burnme;meee;1.0;2300.0;1.0;2.0;1670340561;1670598840;2.0;1150.0;2000.0;70;True;True;False;True;FAIRLAUNCH
+33ef55be-7e23-43bb-9f87-9491c88ea20c;2023-04-24T18:30:24.627Z;2023-04-24T18:30:24.627Z;https://t3.ftcdn.net/jpg/02/26/79/92/360_F_226799287_8n8CvXnx7aiLeroZvyCbIrIntDSUkkDj.jpg;https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-09/blockchain.png;;;;dx.app;;;;"<p>This is a fair launch with 1 ftm soft cap. please contribute!</p>
+";20;6;250;0x26731b4242291e558E4999F4A8919d1CE2Ab4515;0x13C9c7a91CefAa3b9c1254f0AE0aCaCB153Cb3e4;0x7C27c6685847D2cb0cb7dB23646D5848285cf5F3;1673374860;1670264847;False;False;fairTester1;FT1;1.0;0.000025;0.1;1.0;1670265320;1670353080;3.84092114;0.000006508855321096;0.00002;99;True;True;False;True;FAIRLAUNCH
+0371b683-82aa-475c-b13d-0457d2ce883d;2023-04-24T18:30:24.627Z;2023-04-24T18:30:24.627Z;https://i.pinimg.com/550x/06/3c/2a/063c2af37ed385307a1c12720f74990e.jpg;https://static.vecteezy.com/system/resources/previews/004/435/923/original/cryptocurrency-logo-set-set-of-cryptocurrency-icons-bitcoin-ethereum-cardano-binance-tether-uniswap-polkadot-dogecoin-xrp-chainlink-illustrations-free-vector.jpg;;;;dx.app;;;;;18;4;250;0x26731b4242291e558E4999F4A8919d1CE2Ab4515;0xDC9F837571e6275ad5D4B1B53687cCeFb76CB753;0x57a01Ceff2429a142F1570EA1abc8703E2dE8143;1673044260;1670020454;False;False;overflowTester;OFT;1.0;2.0;0.1;3.0;1670021102;1670023862;6.0;0.000041666666666666;0.0002;70;True;True;False;True;OVERFLOW
+48d0a1a7-22c5-45fc-a1bf-8d8c59f9cc8f;2023-04-24T18:30:24.627Z;2023-04-24T18:30:24.627Z;https://i.postimg.cc/qqKRLgQC/JNl0m2-Xr-qb3-UJWJIx-FQjo8te436-Fp-Oszqp-NTdsj-X6-A.png;https://i.postimg.cc/05S2hMdz/Amusing-Jittery-Hummingbird-size-restricted.gif;https://t.me/dxsale;https://twitter.com/dxsale;https://discord.gg/j4PpMVQMMC;https://dx.app/;;https://www.youtube.com/embed/q7Bb1TBgoBk;;"<p>overflow decimals and finalize</p>
+";17;6;250;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0x0e49Ee2Ae47BeB9d32d305Bc281108049f4bbdD3;0x4874776bee7911040eF716611f3c5C4EFdF9c0cb;1680293760;1670012448;False;False;MarkDec1OF;MD1OF;1.0;2.0;0.1;2.0;1670013101;1670013761;1.0;500.0;250.0;70;True;True;False;True;OVERFLOW
+6cc38d92-946e-45aa-82d2-c6128c98f824;2023-04-24T18:30:24.627Z;2023-04-24T18:30:24.627Z;https://i.postimg.cc/mkHfyPfH/fpz9zzxdg8m71.png;https://i.postimg.cc/jdYdkbgb/cyberpigs2222.jpg;;;;;;;;;16;5;250;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0x3202Fd9c408868048D09f8Fd0a5c865C9e3B3b9A;0x849dDFA6def0d780F29361A8b782F4425b9Dbda7;1680203160;1670008148;False;False;MarkDec1FL;MD1FL;1.0;0.00005;0.5;1.0;1670008816;1670009476;1.0;0.00005;0.000025;70;True;True;False;True;FAIRLAUNCH
+a7cfb7a4-65ff-40a6-b088-25206fee3d42;2023-04-24T18:30:24.627Z;2023-04-24T18:30:24.627Z;https://i.postimg.cc/MZ0WZ8KP/yb-Ov6-D0g-400x400.jpg;https://i.postimg.cc/HLWMztvH/amirlotan-the-jungle-book.gif;https://t.me/dxsale;https://twitter.com/dxsale;https://discord.gg/j4PpMVQMMC;https://dx.app/;;;;"<p>Presale raised = softcap test</p>
+";13;3;250;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0x4a67039123dAB9E8574A3Aa4B96F8e00E380e0Ed;0x70043EFb09E1f9cA0568415c2da6b72543f7325e;1682862780;1669903157;False;False;MarkDec1PS;MD1PS;1.0;2.0;0.1;2.0;1669903681;1669904401;1.0;0.000000001;0.0000000008;100;True;True;False;True;IDO
+36a7414b-9d75-4d0d-b0d6-8a92ea805c81;2023-04-24T18:30:24.627Z;2023-04-24T18:30:24.627Z;https://i.postimg.cc/5tNcrcw6/Screenshot-2022-11-30-162728.png;https://i.postimg.cc/ryRB3NtC/Hippos-Special.png;;;;;;;;;12;2;250;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0x8AAdEE4499B2E62b3bD646F6a9DC9295700e2c28;0xc58D29E7788488386253a83BaE8Fa8Cebe1b2893;1675204380;1669848042;False;False;MarkDecFin;MDF;1.0;0.00000005;0.1;1.0;1669848326;1669848926;1.6;0.00000003125;0.000000025;70;True;True;False;True;FAIRLAUNCH
+825428e1-aed0-4bb9-aca4-88a85c2f0aef;2023-04-24T18:30:24.627Z;2023-04-24T18:30:24.627Z;https://i.postimg.cc/cJqHh0kS/FJ-M1fna-UAMm1k-Q.jpg;https://i.postimg.cc/SNJxpJw4/main-website-image-gatb.png;;;;;;;;"<p>testing decimals</p>
+";11;1;250;0x692D9d90CAac3F770b35084893Cc02C0f9E1922A;0xD6ED35eB9223e1FfA7258afCd8090A1580E90cBA;0x8A68e58ec69445386F729B72C9D782E00ef234a5;1677609900;1669834959;False;False;MarkDecimals;MD;1.0;0.0234;0.5;1.0;1669835700;1669836600;1.0;0.0;0.0423;89;True;True;False;True;FAIRLAUNCH
+427c997f-9505-4886-b5d4-f6f9457baf8c;2023-04-24T18:30:24.627Z;2023-04-24T18:30:24.627Z;https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/krinnxb23kgp75s0jyhp;https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-09/blockchain.png;;;;dx.app;;;;;9;3;250;0x26731b4242291e558E4999F4A8919d1CE2Ab4515;0xe510B57153Ea1954C3c798e91D8eB4463D7E50DE;0xE523ae28eE20904bDB53e6ccF444060F772394b0;1672510260;1669659269;False;False;standardFair2;SF2;1.0;0.000025;0.1;2.0;1669659880;1669666300;4.0;0.00000625;0.000025;89;True;True;False;True;FAIRLAUNCH
+6b1c1412-822d-407a-9702-12a66f7ef784;2023-04-24T18:30:24.627Z;2023-04-24T18:30:24.627Z;https://i.postimg.cc/sgts2rsh/612e368f9ed5f36f42f2ee40-10018-p-2000.png;https://i.postimg.cc/sXzzp4Bf/craftopia-cow-production-line-banner.png;;;;;;;;;8;5;250;0xc54016D297F605cB56c8Ad232Db80045B3B22E4D;0xa38c1CECf6e63439F00c143e4e1D3dB5890C67E1;0xCD177e606Ed8F8961d2CBD4CcA85deBd2ff323f4;1677606840;1669658145;False;False;MarkFLfinalize;MFLF;1.0;70000.0;0.5;1.0;1669659053;1669659960;1.0;0.0;230000.0;70;True;True;False;True;FAIRLAUNCH
+911811f6-9af6-4391-9f3e-18af3702f30a;2023-04-24T18:30:24.627Z;2023-04-24T18:30:24.627Z;https://i.postimg.cc/mZqmDk7g/QIa-G5e-Dwgv-Z1-YJ0w-TFu-Yqhcn1sd-y-CAg-D-5c2d3oky-Y.png;https://i.postimg.cc/C1rmbLtJ/okay-bears-nfts-1651186138333.png;https://t.me/dxsale;https://twitter.com/dxsale;https://discord.gg/j4PpMVQMMC;https://dx.app/;;;;"<p>testing presale finalizing</p>
+";7;4;250;0xc54016D297F605cB56c8Ad232Db80045B3B22E4D;0x82F704eBe48D484d514cff0A8E7cE4f0be5C26eB;0x671A3c954e603537016432329a9ab7fc0E5C772f;1677605220;1669656497;False;False;MarkPresaleFinalizeTest;MPFT;1.0;2.0;0.1;2.0;1669657168;1669742820;2.0;100000.0;80000.0;70;True;True;False;True;IDO
+08e478e5-d79e-4552-a46a-16e0eba7146f;2023-04-24T18:30:24.627Z;2023-04-24T18:30:24.627Z;https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/krinnxb23kgp75s0jyhp;https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-09/blockchain.png;;;;dx.app;;;;;6;2;250;0x26731b4242291e558E4999F4A8919d1CE2Ab4515;0x060f91cDCC38D3949346f0A0C090DD3C86F53B44;0x4F88050D734456Ad49A7C6471156D7B0D305E49f;1672510200;1669573165;False;False;standardEdge;SE;1.0;2.0;0.01;2.0;1669573808;1669579808;1.995;0.0001;0.00008;71;True;True;False;True;IDO
+4cfc8d8d-e1e9-4345-9d61-a6777bad8b46;2023-04-24T18:30:24.627Z;2023-04-24T18:30:24.627Z;https://i.postimg.cc/8cm2mpW2/z3z-ko-RB-400x400.jpg;https://i.postimg.cc/SNr4Wrfn/rubber-duck-bath-party-og.png;https://t.me/dxsale;https://twitter.com/dxsale;https://discord.gg/j4PpMVQMMC;https://dx.app/;;https://www.youtube.com/embed/ilDaS8r_Af0;;"<p>what the duck</p>
+";2;0;250;0xc54016D297F605cB56c8Ad232Db80045B3B22E4D;0x57Df096aB05249e7355b1D9A245Df0Af9e098392;0xec7CE3942A6343B6D5e67b28FF52e3b24cd3DC80;1675197840;1669409306;False;False;MarkFinalize;MF;1.0;2.0;0.001;2.0;1669409778;1669495440;2.0;10000.0;8000.0;70;True;True;False;True;IDO
+a753c327-3917-46ed-8dae-1087335744c8;2023-04-24T18:30:24.627Z;2023-04-24T18:30:24.627Z;https://www.thegoldensource.com/wp-content/uploads/2020/03/data-governance-01.png;;TELEGRAM;TWEET;test;WEBSITE;GITHUB;T;REDDIT;DESCRIPTION;1;1;250;0x26731b4242291e558E4999F4A8919d1CE2Ab4515;0x919DCD13B70CB6b41AB52bAcFEE6909CF53a71D8;0xd3027ac5B2cd01202a5Df2Aa7C6205a4f2A96484;1679411091;1669407754;False;False;stdV4Fair;STD4F;1.0;0.00002;0.1;1.0;1669407991;1669411091;3.0;0.000006666666666666;0.00001;71;True;True;False;True;FAIRLAUNCH
+07870abb-ef87-4bd6-9825-a1cacab33413;2023-04-24T18:30:24.627Z;2023-04-24T18:30:24.627Z;https://thumbs.dreamstime.com/z/blockchain-icon-design-cryptocurrency-vector-digital-logo-blockchain-icon-design-cryptocurrency-vector-digital-logo-201091629.jpg;https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-09/blockchain.png;;;;dx.app;;;;;0;0;250;0x26731b4242291e558E4999F4A8919d1CE2Ab4515;0xd60Fc600632460d43Bf0Cd5BBc8CEFC1c044D583;0xa97E121A1Bafa02ACa3cB9cDa0b8C26Bc2A26b16;1672512300;1669402036;False;False;stdV4TesterF;STDV4TF;1.0;2.0;0.1;2.0;1669402724;1669405544;2.0;0.0001;0.00008;70;True;True;False;True;IDO
