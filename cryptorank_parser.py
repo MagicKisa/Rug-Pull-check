@@ -1,12 +1,18 @@
 import requests
-from bs4 import BeautifulSoup 
+from bs4 import BeautifulSoup
+from selenium import webdriver
 import json
 import time
-# Загрузка страницы
+import subprocess
+import sys
 
 platforms_url = "https://cryptorank.io/fundraising-platforms"
 platforms_class = 'sc-d76e30e5-1 gyiaYN'
-
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+    'Accept-Language': 'en-US,en;q=0.9',
+    # Другие заголовки по необходимости
+}
 def extract_links_by_class(url, params, class_):
     response = requests.get(url, params=params)
     html = response.text
@@ -14,6 +20,26 @@ def extract_links_by_class(url, params, class_):
     # Анализ HTML
     links = soup.find_all('a', href=True, class_=class_)
     return links
+
+def extract_coin_json(name_of_coin):
+    time.sleep(1)
+    response = requests.get(f"https://cryptorank.io/ico/{name_of_coin}")
+    if response.status_code == 200:
+    # Получаем HTML-код из содержимого ответа
+        html = response.text
+        soup = BeautifulSoup(html, 'html.parser')
+        # Найти тег <script> с id="__NEXT_DATA__" и type="application/json"
+        next_data_script = soup.find('script', id='__NEXT_DATA__', type='application/json')
+        json_data = json.loads(next_data_script.string)
+        return json_data
+    elif response.status_code == 429:
+        time.sleep(30)
+        extract_coin_json(name_of_coin)
+    else:
+        print(f"Ошибка при запросе: {response.status_code}")
+    
+    
+
 params_list = [{"page" : 1}, {"page" : 2}]
 
 platforms = []
@@ -21,34 +47,27 @@ for params in params_list:
     links = extract_links_by_class(platforms_url, params, class_=platforms_class)
     for link in links:
         print(link['href'])# Извлечение текста из элемента
-        platforms.append(f"https://cryptorank.io{link['href']}")
+        platforms.append(f"https://cryptorank.io{link['href']}?rows=200")
+
 
 print(platforms)
 data = dict()
 data['items'] = []
 for platform in platforms:
-    url = platform
-    response = requests.get(url, params={"rows": 200, "page": 3})
-    if response.status_code == 200:
-        html = response.text
-        soup = BeautifulSoup(html, 'html.parser')
-        # Найти тег <script> с id="__NEXT_DATA__" и type="application/json"
-        next_data_script = soup.find('script', id='__NEXT_DATA__', type='application/json')
+    keys = []
+    keys_process = subprocess.run(["python", "get_coins.py", platform], capture_output=True, text=True)
+    keys_output = keys_process.stdout.strip()
+    try:
+        keys = json.loads(keys_output)
+    except json.JSONDecodeError as e:
+        print(f"Ошибка при декодировании JSON: {e}")
+    for key in keys:
+        data['items'].append(extract_coin_json(key) )
+        print(len(data['items'])) 
 
-        if next_data_script:
-            # Извлечь JSON-данные из содержимого тега
-            json_data = json.loads(next_data_script.string)
-        data['items'].append(json_data)  # Добавить данные текущей страницы к общим данным
-        print(len(json_data['props']['pageProps']['fallbackCoins'].keys()))
-    elif response.status_code == 429:
-        time.sleep(30)
-        print('wait..')
-    else:
-        print(f"Ошибка запроса{page} {response.status_code}")
+      
+    
 
-
-with open("crypto_rank2.json", "w", encoding='utf-8',newline='') as file:
+with open("crypto_rank1.json", "w", encoding='utf-8',newline='') as file:
     json.dump(data, file, indent=4, ensure_ascii=False)
 
-for i in range(len(data['items'])):
-    print(data['items'][i]['props']['pageProps']['fallbackCoins'].keys())
