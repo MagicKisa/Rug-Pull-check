@@ -1,6 +1,8 @@
 import requests
 import json
 
+# сбор данных с dxsale
+
 # URL эндпоинта API
 url = "https://scan.dx.app/api/v2/sales/offChain/successfulSales"
 page = 1
@@ -20,5 +22,5 @@ totalItems = data['meta']['totalItems']
 print(totalItems)
 print(data['items'][1])
 
-with open("dx_data.json", "w") as file:
+with open("../data/dx_data.json", "w") as file:
     json.dump(data, file)
