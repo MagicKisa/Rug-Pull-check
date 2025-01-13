@@ -1,5 +1,5 @@
 # Rug-Pull-check
-it's about save people from scam in crypto.
+https://rug-pull-check.onrender.com/docs
 
 Цель данной работы - прогнозирование будущей активности криптовалюты, по коду её контракта. 
 
