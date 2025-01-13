@@ -17,7 +17,7 @@ def cleaned_and_vectorized(code):
     code_df.loc[:, ('code')] = code_df.loc[:, ('code')].astype(str).str.replace('  ', ' ')
     code_df.loc[:, ('code')] = code_df.loc[:, ('code')].astype(str).str.replace(',', ' ')
 
-    with open('../service/tfidf.pkl', 'rb') as f:
+    with open('tfidf.pkl', 'rb') as f:
         vectorizer = pickle.load(f)
 
     code_vectorized = vectorizer.transform(code_df)
