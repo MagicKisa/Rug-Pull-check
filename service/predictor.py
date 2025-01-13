@@ -1,6 +1,5 @@
 import pickle
 import pandas as pd
-from nltk.metrics import jaccard_distance
 
 
 
