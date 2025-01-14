@@ -34,13 +34,13 @@ with open("../data/crypto_list.json", "r") as file:
     data = json.load(file)
 
 
-with open("../data/currency_data.json", "r") as file:
-    currency_data_dict = json.load(file)
+#with open("../data/currency_data.json", "r") as file:
+#    currency_data_dict = json.load(file)
 
 start_i = 1199
 end_i = 1599
 
-currency_data = currency_data_dict['items']
+currency_data = []
 for i in range(start_i, end_i):
     item = data['data'][i]
     time.sleep(1)
