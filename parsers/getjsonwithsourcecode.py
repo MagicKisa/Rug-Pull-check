@@ -44,7 +44,6 @@ apis_dict = data_from_json("apis_dict.json")
 res_data = {'items':[]}
 
 for item in data["items"]:
-
     name = get_chain_name_from_item(item)
     if not name:
         continue

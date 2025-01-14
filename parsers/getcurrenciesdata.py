@@ -37,8 +37,8 @@ with open("../data/crypto_list.json", "r") as file:
 with open("../data/currency_data.json", "r") as file:
     currency_data_dict = json.load(file)
 
-start_i = 400
-end_i = 799
+start_i = 1199
+end_i = 1599
 
 currency_data = currency_data_dict['items']
 for i in range(start_i, end_i):
