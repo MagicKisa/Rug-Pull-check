@@ -37,8 +37,14 @@ with open("../data/crypto_list.json", "r") as file:
 #with open("../data/currency_data.json", "r") as file:
 #    currency_data_dict = json.load(file)
 
-start_i = 1199
-end_i = 1599
+
+with open('start_i.txt', 'r') as f:
+    start_i = int(f.read())
+
+end_i = start_i + 400
+
+with open('start_i.txt', 'w') as f:
+    f.write(str(end_i))
 
 currency_data = []
 for i in range(start_i, end_i):
