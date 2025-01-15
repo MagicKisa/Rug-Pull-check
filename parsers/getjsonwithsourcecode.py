@@ -1,6 +1,6 @@
 import requests
 import json
-
+import pandas as pd
 # Сбор кодов криптовалют по их имеющимся данным
 
 def get_api_info(apis_dict, name):
@@ -35,7 +35,21 @@ def get_token_name_from_item(item):
 def get_life_cycle_from_item(item):
     return item['lifeCycle']
 
-data = dict()
+def append_to_res_df(res_data):
+    res_df = pd.DataFrame()
+    for item in res_data['items']:
+        token_name = item['name']
+        life_cycle = item['lifeCycle']
+        try:
+            code = item['response']['result'][0]['SourceCode']
+        except:
+            code = item['response']['result'][0]
+        new_row = pd.DataFrame({'name': [token_name], 'code': [code], 'lifeCycle': [life_cycle]})
+        res_df = pd.concat([res_df, new_row], ignore_index=True)
+
+    res_df.to_csv('../data/cryptorank_codes.csv', mode='a', header=False, index=False)
+
+
 with open("../data/currency_data.json", "r") as file:
     data = json.load(file)
 apis_dict = data_from_json("apis_dict.json")
@@ -43,7 +57,8 @@ apis_dict = data_from_json("apis_dict.json")
 
 res_data = {'items':[]}
 
-for item in data["items"]:
+for i, item in enumerate(data["items"]):
+    print(i)
     name = get_chain_name_from_item(item)
     if not name:
         continue
@@ -65,5 +80,4 @@ for item in data["items"]:
         else:
             print(f"Ошибка {response.status_code}: {response.text}")
 
-with open("../data/cryptorank_data.json", "w") as file:
-    json.dump(res_data, file)
+append_to_res_df(res_data)
