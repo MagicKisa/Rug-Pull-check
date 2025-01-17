@@ -1,7 +1,7 @@
 from fastapi import FastAPI, Depends
 from predictor import ScamPredictor
 from pydantic import BaseModel
-from cryptoApi import get_source_code
+from cryptoapi import get_source_code
 from typing import Literal
 import requests
 
