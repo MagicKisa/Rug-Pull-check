@@ -47,12 +47,6 @@ class ScamPredictor:
 
     def predict(self, code):
         cleaned_and_vectorized_code = clean_and_vectorize(code)
-    #    self.debug_cleaned_code(code)
         predicted_label = self.model.predict(cleaned_and_vectorized_code)[0]
 
         return predicted_label
-
- #   def debug_cleaned_code(self, code):
- #       with open('debug.txt', 'w') as debug:
- #           print(clean_and_vectorize(code).toarray(),clean_and_vectorize(code).toarray().sum() , file=debug)
- #       return clean_and_vectorize(code)
