@@ -44,7 +44,7 @@ def request_code(url, params):
         try:
             source_code = data['result'][0]['SourceCode']
         except TypeError:
-            return None
+            source_code = data['result'][0]
 
         return source_code
 
