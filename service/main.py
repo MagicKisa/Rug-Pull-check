@@ -26,9 +26,6 @@ class FindItem(BaseModel):
 app = FastAPI()
 model = ScamPredictor()
 
-
-
-
 @app.on_event("startup")
 async def startup():
     redis = aioredis.from_url("redis://localhost")

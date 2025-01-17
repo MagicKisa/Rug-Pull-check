@@ -1,8 +1,9 @@
 import json
 import os
-
+from dotenv import load_dotenv
 
 def create_apis_dict():
+    load_dotenv()
     bnb_key = os.environ.get('bnb_key')
     fantom_key = os.environ.get('fantom_key')
     core_key = os.environ.get('core_key')
