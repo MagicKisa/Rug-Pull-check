@@ -46,9 +46,9 @@ async def predict_by_code(item: CodeItem):
     predicted_label = model.predict(item.code)
 
     if predicted_label:
-        return {"message": f"Данная криптовалюта будет активна"}
+        return {"message": f"This currency would be traded"}
 
-    return {"message": f"Данная криптовалюта инактивна"}
+    return {"message": f"This currency would be inactive"}
 
 
 @app.post("/predict/")
@@ -59,9 +59,9 @@ async def predict_by_address_and_platform(item: FindItem = Depends()):
     predicted_label = model.predict(code)
 
     if predicted_label:
-        return {"message": f"Данная криптовалюта будет активна"}
+        return {"message": f"This currency would be traded"}
 
-    return {"message": f"Данная криптовалюта будет инактивна"}
+    return {"message": f"This currency would be inactive"}
 
 @app.post("/code/")
 @cache(expire=30)
