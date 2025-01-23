@@ -11,6 +11,7 @@ def create_apis_dict():
     base_key = os.environ.get('base_key')
     polygon_key = os.environ.get('polygon_key')
     ethereum_key = os.environ.get('ethereum_key')
+    sonic_key = os.environ.get('sonic_key')
 
 
     apis_dict = {"apis": [{"scan_name": "Fantom", "apikey": fantom_key, "url": "https://api.ftmscan.com/api", "chainID": 250},
@@ -19,7 +20,8 @@ def create_apis_dict():
                           {"scan_name": "Arbitrum", "apikey": arbitrum_key, "url": "https://api.arbiscan.io/api", "chainID": 42161},
                           {"scan_name": "Base", "apikey": base_key, "url": "https://api.basescan.org/api", "chainID": 8453},
                           {"scan_name": "Polygon", "apikey": polygon_key, "url": "https://api.polygonscan.com/api", "chainID": 137},
-                          {"scan_name": "Ethereum", "apikey": ethereum_key, "url": "https://api.etherscan.io/api", "chainID": 1}]}
+                          {"scan_name": "Ethereum", "apikey": ethereum_key, "url": "https://api.etherscan.io/api", "chainID": 1},
+                          {"scan_name": "Sonic", "apikey": sonic_key, "url": "https://api.sonicscan.org/api", "chainID": 146}]}
 
     with open('apis_dict.json', 'w') as f:
         json.dump(apis_dict, f)

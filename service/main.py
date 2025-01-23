@@ -19,7 +19,7 @@ class CodeItem(BaseModel):
 
 
 class FindItem(BaseModel):
-    platform: Literal['BNB', 'Ethereum', 'Fantom', 'Polygon', 'Base', 'Arbitrum', 'Core'] = 'BNB'
+    platform: Literal['BNB', 'Ethereum', 'Fantom', 'Polygon', 'Base', 'Arbitrum', 'Core', 'Sonic'] = 'BNB'
     address: str = "0x9f589e3eabe42ebc94a44727b3f3531c0c877809"
 
 
